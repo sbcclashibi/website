@@ -1,13 +1,10 @@
-// Import the functions you need from the SDKs you need
+// App functionality lives here
+
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-app.js";
 import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-database.js"
 import { createApp } from 'https://unpkg.com/vue@3/dist/vue.esm-browser.prod.js'
-//   import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-analytics.js";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-      
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+// Set up Firebase conf
 const firebaseConfig = {
     apiKey: "AIzaSyAh9J3pLBxIzai2hcjidrjXH-WyVquXo_0",
     authDomain: "sbcc-website-339820.firebaseapp.com",
@@ -16,12 +13,12 @@ const firebaseConfig = {
     messagingSenderId: "211208154905",
     appId: "1:211208154905:web:565871c26e7f562fff1f88",
     databaseUrl: "https://sbcc-website-339820-default-rtdb.firebaseio.com/"
-    // measurementId: "G-6GHXXTPH6J"
 };
     
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
+
 const announcementsApp = createApp({
     data() {
         return {
@@ -36,8 +33,10 @@ const announcementsApp = createApp({
     }
 }).mount("#announcementsApp");
 
+prepareCanvas();
+
 function getAnnouncements() {
-    console.log("Getting announcements");
+    console.log("Getting announcements...");
     const announcementsRef = ref(database, "beta/announcements");
     onValue(announcementsRef, (snapshot) => {
         const data = snapshot.val();
@@ -48,8 +47,6 @@ function getAnnouncements() {
         document.getElementById("announcementsAppRow").classList.remove("d-none");
     });
 }
-
-prepareCanvas();
 
 // Prepare Canvas for reading canvas-data attributes
 function prepareCanvas() {
