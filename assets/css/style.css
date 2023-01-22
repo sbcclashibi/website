@@ -24,7 +24,8 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: "Lato";
   color: var(--primaryColor);
 }
 
@@ -44,7 +45,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: "EB Garamond";
 }
 
 /*--------------------------------------------------------------
@@ -445,8 +447,9 @@ h6 {
   color: #fff;
   /* margin-bottom: 20px; */
   line-height: 1;
-  font-weight: 700;
-	text-shadow:0px 2px 9px rgba(3,3,3,0.4);
+  font-weight: 800;
+  text-shadow:0px 2px 9px rgba(3,3,3,0.4);
+  font-family: "Playfair Display"
 }
 
 #hero p {
@@ -661,9 +664,9 @@ section {
 }
 
 .featured-services .title {
-  font-weight: 700;
+  font-weight: normal;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 25px;
 }
 
 .featured-services .title a {
@@ -677,7 +680,7 @@ section {
 
 .featured-services .description {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 /*--------------------------------------------------------------
@@ -1530,10 +1533,11 @@ section {
 
 #footer h3 {
   font-size: 36px;
-  font-weight: 700;
+  font-weight: 800;
   color: #fff;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: "Playfair Display";
   padding: 0;
   margin: 0 0 15px 0;
 }
