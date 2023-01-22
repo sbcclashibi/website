@@ -48,3 +48,19 @@ function getAnnouncements() {
         document.getElementById("announcementsAppRow").classList.remove("d-none");
     });
 }
+
+prepareCanvas();
+
+// Prepare Canvas for reading canvas-data attributes
+function prepareCanvas() {
+    const canvas = document.getElementById("offcanvasBottom");
+    canvas.addEventListener("show.bs.offcanvas", event => {
+        // As an example, canvasSlug (data-canvas-slug in HTML) passes a slug to Canvas
+        // We can mount a Vue app in show.bs.offcanvas to request an article from a remote source
+        // and display the contents in Canvas
+        //
+        // Ideally, we should be able to read the page's URL, 
+        // and where a valid deeplink is found, open Canvas automagically in this same way
+        console.log(event.relatedTarget.dataset.canvasSlug);
+    });
+}

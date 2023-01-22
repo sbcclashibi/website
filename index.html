@@ -171,12 +171,19 @@
           <div id="announcementsAppRow" class="d-none row no-gutters">
             <div v-if="announcements" v-for="a in announcements" :class="{'d-none': !announcements}" class="col-lg-4 col-md-6">
               <div class="icon-box">
-                <h4 class="title"><a href="#">{{ a.title }}</a></h4>
+                <h4 class="title">
+                  <a 
+                    class="" 
+                    data-bs-toggle="offcanvas"
+                    :data-canvas-slug="a.title"
+                    href="#offcanvasBottom" 
+                    role="button" 
+                    aria-controls="offcanvasBottom">{{ a.title }}</a>
+                </h4>
                 <p class="description">{{ a.details }}</p>
               </div>
             </div>
           </div>
-          
         </div>
       </section><!-- End Featured Services Section -->
    
@@ -685,6 +692,17 @@
           
         </div>
       </section><!-- End Contact Section -->
+
+      <!-- ======= Canvas Section ======= -->
+      <div class="offcanvas offcanvas-bottom" tabindex="-1" id="offcanvasBottom" aria-labelledby="offcanvasBottomLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasBottomLabel">Loading...</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            Loading...
+          </div>
+      </div><!-- End Canvas Section -->
       
     </main><!-- End #main -->
     

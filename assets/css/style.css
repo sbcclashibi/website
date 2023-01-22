@@ -19,7 +19,7 @@
   --liturgicalViolet: #9B00BD;
   --liturgicalBlack: #000000;
   --liturgicalRose: #FFCAEA;
-
+  
   --defaultTextShadow: 0px 2px 9px rgba(3,3,3,0.4);
 }
 
@@ -1513,6 +1513,14 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+}
+
+/*--------------------------------------------------------------
+# Canvas Section
+--------------------------------------------------------------*/
+
+.offcanvas {
+  --bs-offcanvas-height: 80%;
 }
 
 /*--------------------------------------------------------------
