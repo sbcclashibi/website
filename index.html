@@ -156,29 +156,23 @@
       
       <!-- ======= Featured Services Section ======= -->
       <section id="featured-services" class="featured-services section-bg">
-        <div class="container">
+        <!-- 
+          announcementsApp relies on pure CSS and JS to hide moustaches before Vue takes control of page.
+          announcementsAppStatus pretends to be a status indicator to while away the time. This will break on network error...
+          announcementsAppRow wraps the main package in d-none, which is removed when we actually get data
+        -->
+        <div id="announcementsApp" class="container">
           
           <div class="section-title">
             <h2>Announcements</h2>
+            <p id="announcementsAppStatus">loading...</p>
           </div>
           
-          <div class="row no-gutters">
-            <div class="col-lg-4 col-md-6">
+          <div id="announcementsAppRow" class="d-none row no-gutters">
+            <div v-if="announcements" v-for="a in announcements" :class="{'d-none': !announcements}" class="col-lg-4 col-md-6">
               <div class="icon-box">
-                <h4 class="title"><a href="#">2023 Calendar Sales</a></h4>
-                <p class="description">Sales of the 2023 calender are still ongoing. Kindly visit the administrator's office to purchase a copy.</p>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="icon-box">
-                <h4 class="title"><a href="#">Dolor Sitema</a></h4>
-                <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="icon-box">
-                <h4 class="title"><a href="#">Sed ut perspiciatis</a></h4>
-                <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur trade stravi</p>
+                <h4 class="title"><a href="#">{{ a.title }}</a></h4>
+                <p class="description">{{ a.details }}</p>
               </div>
             </div>
           </div>
@@ -724,10 +718,10 @@
     <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
     <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
     
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
+    <script type="module" src="assets/js/app.js"></script>
     
   </body>
   
