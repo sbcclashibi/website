@@ -86,38 +86,17 @@
         
         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
         
-        <div class="carousel-inner" role="listbox">
+        <div id="slideInnerContainer" class="d-none carousel-inner" role="listbox">
           
-          <!-- Slide 1 -->
-          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+          <div v-for="(it, index) in items" :key="index" :class="index === 0 ? 'carousel-item active' : 'carousel-item'" class="carousel-item" :style="{backgroundImage: 'url(' + it.src + ')'}">
             <div class="carousel-container">
               <div class="container">
                 <h1 class="display-1 animate__animated animate__fadeIn animate__fast">
-                  Welcome to St Bakhita
+                  {{ it.title }}
                 </h1>
                 <p class="display-6 animate__animated animate__fadeIn animate__fast">
-                  The Fortunate One!
+                  {{ it.subTitle }}
                 </p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Slide 2 -->
-          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
-            <div class="carousel-container">
-              <div class="container">
-                <h2 class="animate__animated animate__fadeInDown"></h2>
-                <p class="animate__animated animate__fadeInUp"></p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
-            <div class="carousel-container">
-              <div class="container">
-                <h2 class="animate__animated animate__fadeInDown"></h2>
-                <p class="animate__animated animate__fadeInUp"></p>
               </div>
             </div>
           </div>

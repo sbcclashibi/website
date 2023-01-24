@@ -16,7 +16,7 @@ const firebaseConfig = {
     appId: "1:211208154905:web:565871c26e7f562fff1f88",
     databaseUrl: "https://sbcc-website-339820-default-rtdb.firebaseio.com/"
 };
-    
+
 // Initialize apps
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
@@ -92,7 +92,7 @@ const documentsApp = createApp({
             document.getElementById("documentCanvas").addEventListener("hide.bs.offcanvas", event => {
                 this.cleanUp();
             });
-        
+            
             window.addEventListener("hashchange", event => {
                 // We listen to changes in the URL hash, and attempt to find a document slug.
                 this.findSlug();
@@ -102,8 +102,8 @@ const documentsApp = createApp({
             this.documentSlug = ""; // clear slug so we can detect new changes
             document.getElementById("markDownContent").innerHTML = ""; // 'clear' the content of our canvas ;)
             history.pushState("", 
-                document.title, 
-                window.location.pathname + window.location.search
+            document.title, 
+            window.location.pathname + window.location.search
             ); // remove slug. I hate this but it works.
         }
     },
@@ -127,10 +127,10 @@ const galleryApp = createApp({
     methods: {
         getGalleryItems() {
             fetch("/gallery/gallery.json")
-                .then(response => response.json())
-                .then(items => {
-                    this.gallery = items;
-                });
+            .then(response => response.json())
+            .then(items => {
+                this.gallery = items;
+            });
         }
     },
     created() {
@@ -140,6 +140,44 @@ const galleryApp = createApp({
         // initialize GLightbox only after items have been rendered
         const portfolioLightbox = GLightbox({
             selector: '.portfolio-lightbox'
-          });
+        });
     }
 }).mount("#galleryApp");
+
+const slideApp = createApp({
+    data() {
+        return {
+            items: []
+        }
+    },
+    methods: {
+        getSlideItems() {
+            fetch("/slide/slide.json")
+            .then(response => response.json())
+            .then(it => {
+                this.items = it;
+                console.log(this.items.length)
+            });
+        },
+        setUpIndicators() {
+            // pilfered from main.js
+            let heroCarouselIndicators = document.getElementById("hero-carousel-indicators");
+            let heroCarouselItems = document.querySelectorAll('#heroCarousel .carousel-item');
+            
+            heroCarouselItems.forEach((item, index) => {
+                (index === 0) ?
+                heroCarouselIndicators.innerHTML += "<li data-bs-target='#heroCarousel' data-bs-slide-to='" + index + "' class='active'></li>":
+                heroCarouselIndicators.innerHTML += "<li data-bs-target='#heroCarousel' data-bs-slide-to='" + index + "'></li>";
+            });
+        }
+    },
+    created() {
+        this.getSlideItems();
+    },
+    updated() {
+        // after items have been rendered, reveal them by unhiding slideInnerContainer
+        // and set up the carousel indicators (which need to know how many .carousel-item elements exist.)
+        document.getElementById("slideInnerContainer").classList.remove("d-none");
+        this.setUpIndicators();
+    }
+}).mount("#heroCarousel");
