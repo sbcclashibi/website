@@ -28,8 +28,21 @@ const announcementsApp = createApp({
             announcements: []
         }
     },
+    methods: {
+        getAnnouncements() {
+            const announcementsRef = ref(database, "beta/announcements");
+            onValue(announcementsRef, (snapshot) => {
+                const data = snapshot.val();
+                announcementsApp.announcements = snapshot.val()
+                // We add and remove d-none from the status indicator and announcements row proper
+                // to prevent ugly moustaches from showing before Vue takes control of web page
+                document.getElementById("announcementsAppStatus").classList.add("d-none");
+                document.getElementById("announcementsAppRow").classList.remove("d-none");
+            });
+        }
+    },
     created() {
-        getAnnouncements();
+        this.getAnnouncements();
     }
 }).mount("#announcementsApp");
 
@@ -48,24 +61,43 @@ const documentsApp = createApp({
     },
     methods: {
         openDocument() {
-            findDocumentWithSlug(this.documentSlug).then(res => {
+            // find document with slug and attempt to open it
+            fetch("/" + this.documentSlug + ".md").then(response => {
                 const contentElement = document.getElementById("markDownContent");
                 const canvas = new bootstrap.Offcanvas('#documentCanvas');
-                if(res.status == 200) {
-                    res.text().then(md => {
+                if(response.status == 200) {
+                    response.text().then(md => {
                         const m = markdownIt();
                         contentElement.innerHTML = m.render(md);
                     });
-                    canvas.show();
                 } else {
-                    contentElement.innerHTML = "Document Not Found :(";
+                    contentElement.innerHTML = "Document not found <i class='bi bi-emoji-frown'></i>";
                     console.error("Could not find article with slug: " + this.documentSlug);
                 }
+                canvas.show();
             });
         },
         findSlug() {
-            const s = findSlugFromUrl();
-            if (s) { this.documentSlug = s; }
+            const urlParts = window.location.href.split("#");
+            if (urlParts.length == 2) {
+                // this means there's a hash in the url, 
+                // which means we might have a document slug
+                // we then check to see if the url hash starts with 'documents/', 
+                // the path to our documents directory
+                if (urlParts[1].startsWith("documents/")) {
+                    this.documentSlug = urlParts[1];
+                }
+            }
+        },
+        setUpCanvas() {
+            documentCanvas.addEventListener("hide.bs.offcanvas", event => {
+                this.cleanUp();
+            });
+        
+            window.addEventListener("hashchange", event => {
+                // We listen to changes in the URL hash, and attempt to find a document slug.
+                this.findSlug();
+            });
         },
         cleanUp() {
             this.documentSlug = ""; // clear slug so we can detect new changes
@@ -76,8 +108,13 @@ const documentsApp = createApp({
             ); // remove slug. I hate this but it works.
         }
     },
+    created() {
+        // set up listeners and stuff
+        this.setUpCanvas();
+    },
     mounted() {
-        // once app is ready, attempt to find a slug so we open any referenced documents
+        // once app is ready, attempt to find a slug 
+        // so we open any linked documents
         this.findSlug();
     }
 }).mount("#documentCanvas");
@@ -107,63 +144,3 @@ const galleryApp = createApp({
           });
     }
 }).mount("#galleryApp");
-
-
-prepareCanvas();
-
-// Utility functions
-
-function getAnnouncements() {
-    const announcementsRef = ref(database, "beta/announcements");
-    onValue(announcementsRef, (snapshot) => {
-        const data = snapshot.val();
-        announcementsApp.announcements = snapshot.val()
-        // We add and remove d-none from the status indicator and announcements row proper
-        // to prevent ugly moustaches from showing before Vue takes control of web page
-        document.getElementById("announcementsAppStatus").classList.add("d-none");
-        document.getElementById("announcementsAppRow").classList.remove("d-none");
-    });
-}
-
-function findSlugFromUrl() {
-    const urlParts = window.location.href.split("#");
-    if (urlParts.length == 2) {
-        // this means there's a hash in the url, 
-        // which means we might have a document slug
-        // we then check to see if the url hash has 'documents', the path to our documents directory
-
-        if (urlParts[1].startsWith("documents")) {
-            return urlParts[1];
-        }
-    }
-    return null;
-}
-
-function findDocumentWithSlug(slug) {
-    return fetch("/" + slug + ".md")
-        .then(response => response);
-}
-
-// Prepare Canvas for reading canvas-data attributes
-function prepareCanvas() {
-    // const canvas = document.getElementById("articleCanvas");
-    // documentCanvas.addEventListener("show.bs.offcanvas", event => {
-        // As an example, canvasSlug (data-canvas-slug in HTML) passes a slug to Canvas
-        // We can mount a Vue app in show.bs.offcanvas to request an article from a remote source
-        // and display the contents in Canvas
-        //
-        // Ideally, we should be able to read the page's URL, 
-        // and where a valid deeplink is found, open Canvas automagically in this same way
-        // console.log(event.relatedTarget.dataset.canvasSlug);
-        // UPDATE 23/01/2023: we may no longer need to pass this data attribute to documentCanvas
-    // });
-
-    documentCanvas.addEventListener("hide.bs.offcanvas", event => {
-        documentsApp.cleanUp();
-    });
-
-    window.addEventListener("hashchange", event => {
-        // We listen to changes in the URL hash, and attempt to find a document slug.
-        documentsApp.findSlug();
-    });
-}
