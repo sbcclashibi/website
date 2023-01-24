@@ -493,115 +493,17 @@
               </div>
             </div>
             
-            <div class="row portfolio-container">
+            <div id="galleryApp" class="row portfolio-container">
               
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div v-for="item in gallery" class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-1.jpg" class="img-fluid" alt="">
+                  <img :src="item.src" class="img-fluid" :alt="item.title">
                   <div class="portfolio-info">
-                    <h4>Launch of BYF 2022</h4>
-                    <p>BYF 2022</p>
+                    <h4>{{ item.title }}</h4>
+                    <p>{{ item.subTitle }}</p>
                     <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Launch of BYF 2022"><i class="bx bx-plus"></i></a>
-                      <a target="_blank" href="https://web.facebook.com/media/set/?set=a.1434162736955040&type=3" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-2.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>...</h4>
-                    <p>...</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="..."><i class="bx bx-plus"></i></a>
-                      <a href="#" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-3.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>...</h4>
-                    <p>...</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="..."><i class="bx bx-plus"></i></a>
-                      <a href="#" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-4.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>...</h4>
-                    <p>...</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="..."><i class="bx bx-plus"></i></a>
-                      <a href="#" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-5.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>...</h4>
-                    <p>...</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="..."><i class="bx bx-plus"></i></a>
-                      <a href="#" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-6.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>...</h4>
-                    <p>...</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="..."><i class="bx bx-plus"></i></a>
-                      <a href="#" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-7.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>...</h4>
-                    <p>...</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="..."><i class="bx bx-plus"></i></a>
-                      <a href="#" title="More Details"><i class="bx bx-link"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                  <img src="assets/img/gallery/life-8.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>...</h4>
-                    <p>...</p>
-                    <div class="portfolio-links">
-                      <a href="assets/img/gallery/life-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="..."><i class="bx bx-plus"></i></a>
-                      <a href="#" title="More Details"><i class="bx bx-link"></i></a>
+                      <a :href="item.src" data-gallery="portfolioGallery" class="portfolio-lightbox" :title="item.title"><i class="bx bx-plus"></i></a>
+                      <a :class="{'d-none': !item.externalLink}" target="_blank" :href="item.externalLink" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                   </div>
                 </div>

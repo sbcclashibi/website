@@ -4,6 +4,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.16.0/firebas
 import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-database.js"
 import { createApp } from "https://unpkg.com/vue@3/dist/vue.esm-browser.prod.js"
 import markdownIt from 'https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/+esm'
+// import 'https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js';
 
 // Set up Firebase conf
 const firebaseConfig = {
@@ -16,7 +17,7 @@ const firebaseConfig = {
     databaseUrl: "https://sbcc-website-339820-default-rtdb.firebaseio.com/"
 };
     
-// Initialize Firebase
+// Initialize apps
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 const documentCanvas = document.getElementById("documentCanvas");
@@ -81,7 +82,36 @@ const documentsApp = createApp({
     }
 }).mount("#documentCanvas");
 
+const galleryApp = createApp({
+    data() {
+        return {
+            gallery: []
+        }
+    },
+    methods: {
+        getGalleryItems() {
+            fetch("/gallery/gallery.json")
+                .then(response => response.json())
+                .then(items => {
+                    this.gallery = items;
+                });
+        }
+    },
+    created() {
+        this.getGalleryItems();
+    },
+    updated() {
+        // initialize GLightbox only after items have been rendered
+        const portfolioLightbox = GLightbox({
+            selector: '.portfolio-lightbox'
+          });
+    }
+}).mount("#galleryApp");
+
+
 prepareCanvas();
+
+// Utility functions
 
 function getAnnouncements() {
     const announcementsRef = ref(database, "beta/announcements");
@@ -137,4 +167,3 @@ function prepareCanvas() {
         documentsApp.findSlug();
     });
 }
-
