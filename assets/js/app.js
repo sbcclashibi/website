@@ -20,7 +20,6 @@ const firebaseConfig = {
 // Initialize apps
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
-const documentCanvas = document.getElementById("documentCanvas");
 
 const announcementsApp = createApp({
     data() {
@@ -90,7 +89,7 @@ const documentsApp = createApp({
             }
         },
         setUpCanvas() {
-            documentCanvas.addEventListener("hide.bs.offcanvas", event => {
+            document.getElementById("documentCanvas").addEventListener("hide.bs.offcanvas", event => {
                 this.cleanUp();
             });
         
