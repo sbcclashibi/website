@@ -2,9 +2,10 @@
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-app.js";
 import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-database.js"
+import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-analytics.js"
 import { createApp } from "https://unpkg.com/vue@3/dist/vue.esm-browser.prod.js"
 import markdownIt from 'https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/+esm'
-import 'https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js';
+import 'https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js'
 
 // Set up Firebase conf
 const firebaseConfig = {
@@ -20,6 +21,7 @@ const firebaseConfig = {
 // Initialize apps
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
+const analytics = getAnalytics(app);
 
 const announcementsApp = createApp({
     data() {
