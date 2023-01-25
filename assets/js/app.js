@@ -2,7 +2,7 @@
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-app.js";
 import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-database.js"
-import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-analytics.js"
+import { getAnalytics, logEvent } from "https://www.gstatic.com/firebasejs/9.16.0/firebase-analytics.js"
 import { createApp } from "https://unpkg.com/vue@3/dist/vue.esm-browser.prod.js"
 import markdownIt from 'https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/+esm'
 import 'https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js'
@@ -22,6 +22,11 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 const analytics = getAnalytics(app);
+const log = function(eventName = "unknown_event", eventData = {}){
+    if(!window.location.hostname.startsWith("beta")) {
+        // logEvent(analytics, eventName, eventData);
+    }
+}
 
 const announcementsApp = createApp({
     data() {
@@ -70,24 +75,24 @@ const documentsApp = createApp({
                     response.text().then(md => {
                         const m = markdownIt();
                         contentElement.innerHTML = m.render(md);
+                        log("document_open", {"slug": this.documentSlug});
                     });
                 } else {
                     contentElement.innerHTML = "Document not found <i class='bi bi-emoji-frown'></i>";
                     console.error("Could not find article with slug: " + this.documentSlug);
+                    log("document_not_found", {"slug": this.documentSlug});
                 }
                 canvas.show();
             });
         },
         findSlug() {
-            const urlParts = window.location.href.split("#");
-            if (urlParts.length == 2) {
-                // this means there's a hash in the url, 
-                // which means we might have a document slug
-                // we then check to see if the url hash starts with 'documents/', 
-                // the path to our documents directory
-                if (urlParts[1].startsWith("documents/")) {
-                    this.documentSlug = urlParts[1];
-                }
+            const urlHash = window.location.hash.trim().substring(1);
+            // We found a non-empty URL hash 
+            // which means we might have a document slug
+            // we then check to see if the url hash starts with 'documents/', 
+            // the path to our documents directory
+            if (urlHash.startsWith("documents/")) {
+                this.documentSlug = urlHash;
             }
         },
         setUpCanvas() {
@@ -158,7 +163,6 @@ const slideApp = createApp({
             .then(response => response.json())
             .then(it => {
                 this.items = it;
-                console.log(this.items.length)
             });
         },
         setUpIndicators() {
