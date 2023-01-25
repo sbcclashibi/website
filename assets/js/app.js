@@ -45,16 +45,26 @@ const announcementsApp = createApp({
             );
             onValue(announcementsRef, (snapshot) => {
                 const data = snapshot.val();
-                announcementsApp.announcements = snapshot.val()
-                // We add and remove d-none from the status indicator and announcements row proper
-                // to prevent ugly moustaches from showing before Vue takes control of web page
-                document.getElementById("announcementsAppStatus").classList.add("d-none");
-                document.getElementById("announcementsAppRow").classList.remove("d-none");
+                if(data) {
+                    announcementsApp.announcements = data
+                    // We add and remove d-none from the status indicator and announcements row proper
+                    // to prevent ugly moustaches from showing before Vue takes control of web page
+                    document.getElementById("announcementsAppStatus").classList.add("d-none");
+                    document.getElementById("announcementsAppRow").classList.remove("d-none");
+                }
             });
         }
     },
     created() {
         this.getAnnouncements();
+        setTimeout(_ => {
+            // if for some reason announcements took too long to load,
+            // let the user know
+            // hint: this might not be terribly useful :(
+            document.getElementById("announcementsAppStatus").innerHTML =
+                "Announcements took too long to load. " 
+                + "<br>Kindly refresh the page. <i class='bi bi-arrow-clockwise'></i>";
+        }, 5000);
     }
 }).mount("#announcementsApp");
 
@@ -157,8 +167,9 @@ const galleryApp = createApp({
         // sometimes, gallery overlays the next section, leading to horrible UX
         // I think this happens when the gallery images don't load immediately
         // and the Isotope layout is already initialized
-        // to fix this (I hope!), we delay the Isotope's init by 5 seconds 
+        // to fix this (I hope!), we delay the Isotope's init by a few seconds 
         // this should give us enough time to get all images loaded
+        // See: https://isotope.metafizzy.co/layout.html for suggested fix
         setTimeout( _ => {
             let portfolioContainer = document.querySelector('.portfolio-container');
             if (portfolioContainer) {
@@ -166,7 +177,7 @@ const galleryApp = createApp({
                 itemSelector: '.portfolio-item'
               });
             }
-        }, 5000);
+        }, 3000);
     }
 }).mount("#galleryApp");
 
