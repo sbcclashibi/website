@@ -1284,8 +1284,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #5cb874;
-  border-bottom: 3px solid #5cb874;
+  border-top: 3px solid var(--primaryColorLight);
+  border-bottom: 3px solid var(--primaryColorLight);
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -1341,14 +1341,14 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #5cb874;
+  background: var(--primaryColorLight);
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #5cb874;
+  background: var(--primaryColorLight);
   color: #fff;
 }
 

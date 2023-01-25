@@ -154,6 +154,19 @@ const galleryApp = createApp({
         const portfolioLightbox = GLightbox({
             selector: '.portfolio-lightbox'
         });
+        // sometimes, gallery overlays the next section, leading to horrible UX
+        // I think this happens when the gallery images don't load immediately
+        // and the Isotope layout is already initialized
+        // to fix this (I hope!), we delay the Isotope's init by 5 seconds 
+        // this should give us enough time to get all images loaded
+        setTimeout( _ => {
+            let portfolioContainer = document.querySelector('.portfolio-container');
+            if (portfolioContainer) {
+              let portfolioIsotope = new Isotope(portfolioContainer, {
+                itemSelector: '.portfolio-item'
+              });
+            }
+        }, 5000);
     }
 }).mount("#galleryApp");
 
