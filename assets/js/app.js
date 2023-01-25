@@ -22,10 +22,10 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 const analytics = getAnalytics(app);
+const isLiveSite = window.location.hostname.startsWith("saintbakhita.");
+
 const log = function(eventName = "unknown_event", eventData = {}){
-    if(!window.location.hostname.startsWith("beta")) {
-        // logEvent(analytics, eventName, eventData);
-    }
+    if(isLiveSite) { /* logEvent(analytics, eventName, eventData); */ }
 }
 
 const announcementsApp = createApp({
@@ -36,7 +36,13 @@ const announcementsApp = createApp({
     },
     methods: {
         getAnnouncements() {
-            const announcementsRef = ref(database, "beta/announcements");
+            // index === 0 ? 'carousel-item active' : 'carousel-item'
+            // const announcementsRef = ref(database, "beta/announcements");
+            // the exact database ref is based on the subdomain.
+            // the beta site listens on "beta/*" refs, and all others listen on "prod/*" refs
+            const announcementsRef = ref(database, 
+                isLiveSite ? "prod/announcements" : "beta/announcements"
+            );
             onValue(announcementsRef, (snapshot) => {
                 const data = snapshot.val();
                 announcementsApp.announcements = snapshot.val()
