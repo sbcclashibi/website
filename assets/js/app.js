@@ -217,3 +217,27 @@ const slideApp = createApp({
         this.setUpIndicators();
     }
 }).mount("#heroCarousel");
+
+const modalDialogApp = createApp({
+    data() {
+        return {
+            type: "default"
+        }
+    },
+    watch : {
+        type(newValue, oldValue) { console.log(this.type) }
+    },
+    created() {
+        const modal = document.getElementById("modalDialog");
+        modal.addEventListener('show.bs.modal', event => {
+            // When modal is shown, get target attributes
+            // to determine what to show
+            // callers of modalDialogApp MUST include data-bk-type
+            // Valid types include:
+            // default -> blank modal, don't use this please :)
+            // memberFormsModal -> list of forms parishioners can fill
+            console.log("")
+            this.type = event.relatedTarget.getAttribute('data-bk-type');
+        });
+    }
+}).mount("#modalDialog");
