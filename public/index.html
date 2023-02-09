@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  
+  <title>St Bakhita Catholic Church, Lashibi</title>
+  <meta name="description" content="The official website of St Bakhita Catholic Church, Lashibi; the Fortunate Ones!">
+  <meta name="keywords" content="Catholic Church">
+
+  <!-- tags for Facebook OpenGraph -->
+  <meta property="og:url" content="https://saintbakhita.com" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="St Bakhita Catholic Church, Lashibi" />
+  <meta property="og:site_name" content="St Bakhita Catholic Church, Lashibi">
+  <meta property="og:description" content="The official website of St Bakhita Catholic Church, Lashibi; the Fortunate Ones!" />
+  <meta property="og:image" itemprop="image" content="/assets/img/ogimage.jpg" />
+  <meta property="og:image:secure_url" itemprop="image" content="/assets/img/ogimage.jpg" />
+  <meta property="og:image:width" content="200px">
+  <meta property="og:image:height" content="200px">
+  
+  <!-- Favicons -->
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:800,400|Lato|EB+Garamond:600" rel="stylesheet">
+  
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  
+  <!-- =======================================================
+    * Template Name: Green - v4.10.0
+    * Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
+    * Author: BootstrapMade.com
+    * License: https://bootstrapmade.com/license/
+    ======================================================== -->
+  </head>
+  
+  <body>
+    
+    <!-- ======= Top Bar ======= -->
+    <section id="topbar" class="d-flex align-items-center">
+      <div class="container d-flex justify-content-center justify-content-md-between">
+        <div class="contact-info d-flex align-items-center">
+          <i class="bi bi-envelope-fill"></i><a href="mailto:contact@saintbakhita.com">info@saintbakhita.com</a>
+          <i class="bi bi-phone-fill phone-icon"></i> <a href="tel:+2333033405739"></a> (+233) 0303 340 5739
+        </div>
+        <div class="social-links d-none d-md-block">
+          <a href="#" class="d-none twitter"><i class="bi bi-twitter"></i></a>
+          <a href="https://web.facebook.com/sbcclashibi" class="facebook"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.youtube.com/@sbcclashibi/streams" class="youtube"><i class="bi bi-youtube"></i></i></a>
+          <a href="https://www.instagram.com/bakhitayouth/" class="instagram"><i class="bi bi-instagram"></i></a>
+        </div>
+      </div>
+    </section>
+    
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex align-items-center">
+      <div class="container d-flex align-items-center">
+        
+        <a href="/" class="logo me-auto"><img src="assets/img/header-logo.png" alt="" class="img-fluid"></a>
+        <!-- <h1 class="logo me-auto"><a href="index.html">St Bakhita</a></h1> -->
+        
+        <nav id="navbar" class="navbar">
+          <ul>
+            <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+            <li><a class="nav-link scrollto" href="#announcements">Announcements</a></li>
+            <li><a class="nav-link scrollto" href="#" data-bs-toggle="modal" data-bs-target="#modalDialog" data-bk-type="memberFormsModal">Forms...</a></li>
+            <li><a class="nav-link scrollto" href="#schedules-events">Events</a></li>
+            <li><a class="nav-link scrollto" href="#about">About the Church</a></li>
+            <li><a class="nav-link scrollto" href="#ministries">Ministries</a></li>
+            <li><a class="nav-link scrollto " href="#life-at-bakhita">Life at St Bakhita</a></li>
+            <li><a class="nav-link scrollto " href="#leadership">Leadership</a></li>
+            <li><a class="nav-link scrollto" href="#contact">Contact Us</a></li>
+            <li><a class="d-none d-lg-block getstarted" href="https://www.youtube.com/@sbcclashibi/streams">
+              LIVE STREAM <i class="bi bi-box-arrow-up-right"></i>
+            </a></li>
+          </ul>
+          <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
+        
+      </div>
+    </header><!-- End Header -->
+    
+    <!-- ======= Hero Section ======= -->
+    <section id="hero">
+      <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        
+        <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+        
+        <div id="slideInnerContainer" class="d-none carousel-inner" role="listbox">
+          
+          <div v-for="(it, index) in items" :key="index" :class="index === 0 ? 'carousel-item active' : 'carousel-item'" class="carousel-item" :style="{backgroundImage: 'url(' + it.src + ')'}">
+            <div class="carousel-container">
+              <div class="container">
+                <h1 class="display-1 animate__animated animate__fadeIn animate__fast">
+                  {{ it.title }}
+                </h1>
+                <p class="display-6 animate__animated animate__fadeIn animate__fast">
+                  {{ it.subTitle }}
+                </p>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+        
+        <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+        
+      </div>
+      
+    </section><!-- End Hero -->
+    
+    <!-- ======= Liturgical Season and Theme Section ======= -->
+    <section id="liturgical-season" class="liturgical-season">
+      <div class="container">
+
+        <figure class="text-center">
+          <blockquote class="blockquote">
+            <p>Let all that you do be done <span>in love</span></p>
+            <a class="d-none" href="#documents/test-article" 
+            role="button" 
+            aria-controls="articleCanvas">Click Me!</a>
+          </blockquote>
+          <figcaption class="blockquote-footer">
+            1 Corinthians 16:14 <cite title="Source Title">ESV</cite>
+          </figcaption>
+        </figure>
+
+      </div>
+    </section><!-- End Liturgical Season and Theme -->
+    
+    <main id="main">
+      
+      <!-- ======= Announcements Section ======= -->
+      <section id="announcements" class="featured-services section-bg">
+        <!-- 
+          announcementsApp relies on pure CSS and JS to hide moustaches before Vue takes control of page.
+          announcementsAppStatus pretends to be a status indicator to while away the time. This will break on network error...
+          announcementsAppRow wraps the main package in d-none, which is removed when we actually get data
+        -->
+        <div id="announcementsApp" class="container">
+          
+          <div class="section-title">
+            <h2>Announcements</h2>
+            <p id="announcementsAppStatus">loading...</p>
+          </div>
+          
+          <div id="announcementsAppRow" class="d-none row no-gutters">
+            <div v-if="announcements" v-for="a in announcements" :class="{'d-none': !announcements}" class="col-lg-4 col-md-6">
+              <div class="icon-box">
+                <h4 class="title">{{ a.title }}</h4>
+                <p class="description">{{ a.details }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section><!-- End Announcements Services Section -->
+   
+      <!-- ======= Schedules and Upcoming Events Section ======= -->
+      <section id="schedules-events" class="schedules-events">
+          <div class="container">
+            
+            <div class="section-title">
+              <h2>Schedules &amp; Upcoming Events</h2>
+            </div>
+            
+            <div class="row no-gutters">
+              <div class="table-responsive">
+                <table class="table table-borderless schedules-events-table">
+                  <caption>
+                    <i class="bi bi-info-circle"></i>
+                    Unless otherwise announced, the schedules for mass and the sacraments are accurate
+                  </caption>
+                  <thead>
+                    <tr>
+                      <th class="schedules-events-table-head">Events</th>
+                      <th class="schedules-events-table-head">Mass</th>
+                      <th class="schedules-events-table-head">Sacraments</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td><span class="event-day">Feast of St Bakhita</span> <span class="event-time">8th February</span></td>
+                      <td><span class="event-day">Sunday</span> <span class="event-time">7:00am &amp; 9:00am</span></td>
+                      <td><span class="event-day">Baptism</span> <span class="event-time">First Saturday of Every Month</span></td>
+                    </tr>
+                    <tr>
+                      <td><span class="event-day">Retreat for Church &amp; Youth Councils</span> <span class="event-time">11th February</span></td>
+                      <td><span class="event-day">Tuesday</span> <span class="event-time">7:00pm</span></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td><span class="event-day"></td>
+                      <td><span class="event-day">Wednesday</span><span class="event-time"> Feast of St. Bakhita 7:00pm</span></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td><span class="event-day">Thursday</span> <span class="event-time">6:00am</span></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td><span class="event-day">Friday</span> <span class="event-time">6:00am</span></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                      <td><span class="event-day">Saturday</span> <span class="event-time">6:30am</span></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            
+          </div>
+        </section><!-- End Schedules and Upcoming Eventss Section -->
+
+      <!-- ======= About Us Section ======= -->
+      <section id="about" class="about">
+        <div class="container">
+          
+          <div class="section-title">
+            <h2>About The Church</h2>
+          </div>
+          
+          <div class="row">
+            <div class="col-lg-6 order-1 order-lg-2">
+              <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            </div>
+            <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+              <h3>
+                Welcome to St. Bakhita Catholic Church; the fortunate one.
+              </h3>
+              <p class="fst-italic">
+                Located in the heart of Lashibi, we are a Christian family inspired by the virtue of our patron saint,
+                Bakhita, founded on the virtues of love, charity and unity.
+                We uphold Catholic principles and teachings, promote respect, love for humanity 
+                and service to the community, and above all, Christ-likeness.
+              </p>
+              <p class="d-none d-lg-block">
+                The church was born from the need to accommodate and bring God closer to the 
+                flourishing faithful of Lashibi and its environs. 
+                Since its founding in 2005 as an out-station of Corpus Christi Catholic Church, Sakumono,
+                it has grown significantly. 
+              </p>
+              <p>
+                After over 15 years, Saint Bakhita Catholic Church now boasts a membership 
+                of over 1,000 people, a vibrant choir and brass band, children's service 
+                and an active youth front.
+              </p>
+              <p class="d-none d-lg-block">
+                Members of the church serve the faithful and the community through Day Groups, ministries and several societies.
+              </p>
+            </div>
+          </div>
+          
+        </div>
+      </section><!-- End About Us Section -->
+      
+      <!-- ======= Why Us Section ======= -->
+      <section id="why-us" class="d-none why-us">
+        <div class="container">
+          
+          <div class="row no-gutters">
+            
+            <div class="col-lg-4 col-md-6 content-item">
+              <span>01</span>
+              <h4>Lorem Ipsum</h4>
+              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 content-item">
+              <span>02</span>
+              <h4>Repellat Nihil</h4>
+              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 content-item">
+              <span>03</span>
+              <h4> Ad ad velit qui</h4>
+              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 content-item">
+              <span>04</span>
+              <h4>Repellendus molestiae</h4>
+              <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 content-item">
+              <span>05</span>
+              <h4>Sapiente Magnam</h4>
+              <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
+            </div>
+            
+            <div class="col-lg-4 col-md-6 content-item">
+              <span>06</span>
+              <h4>Facilis Impedit</h4>
+              <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>
+            </div>
+            
+          </div>
+          
+        </div>
+      </section><!-- End Why Us Section -->
+      
+      <!-- ======= Our Clients Section ======= -->
+      <section id="clients" class="d-none clients">
+        <div class="container">
+          
+          <div class="section-title">
+            <h2>Our Clients</h2>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          </div>
+          
+          <div class="clients-slider swiper">
+            <div class="swiper-wrapper align-items-center">
+              <div class="swiper-slide"><img src="assets/img/blank.png" class="img-fluid" alt=""></div>
+              <div class="swiper-slide"><img src="assets/img/blank.png" class="img-fluid" alt=""></div>
+            </div>
+            <div class="swiper-pagination"></div>
+          </div>
+          
+        </div>
+      </section><!-- End Our Clients Section -->
+      
+      <!-- ======= Ministries Section ======= -->
+      <section id="ministries" class="services">
+        <div class="container">
+          
+          <div class="section-title">
+            <h2>Ministries</h2>
+          </div>
+          
+          <div class="row">
+            
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+              <div class="icon-box iconbox-blue">
+                <img src="assets/img/ministries/choir.jpg" class="img-fluid" alt="">
+                <h4><a href="">Bakhita Choir</a></h4>
+                <p>Psalm 34: 1, “I will praise the Lord at all times. I will constantly speak His praises.” 
+                  Singing praises to the Lord is what the choir exists for.</p>
+                  <br>
+                  <p>Bakhita Choir; with angels, we sing!</p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                  <img src="assets/img/ministries/knolta.jpg" class="img-fluid" alt="">
+                  <h4><a href="">KNOLTA</a></h4>
+                  <p>The Knights of the Altar are dedicated youths whose mission is to help the priest 
+                    make the Mass and other liturgical celebrations worthy celebrations to the greater glory of God.</p>
+                  <br>
+                  <p>KNOLTA; At Your service, Lord.</p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                  <img src="assets/img/ministries/ushers.jpg" class="img-fluid" alt="">
+                  <h4><a href="">Ushers</a></h4>
+                  <p>“Let all things be done decently and in order.”; 1 Corinthians 14:40. 
+                    Maintaining order and ensuring that the sanctity of Mass and other liturgical celebrations is sustained, 
+                    is the responsibility of this group of amiable people.</p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                  <img src="assets/img/ministries/lectors.jpg" class="img-fluid" alt="">
+                  <h4><a href="">Lectors</a></h4>
+                  <p>The Word is the pivot around which the Christian faith revolves, 
+                    for this, it is important that God’s people hear and understand His word. It is the duty of the lectors to serve the church with God’s word.</p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                  <img src="assets/img/ministries/bakhita_arts.jpg" class="img-fluid" alt="">
+                  <h4><a href="">Bakhita Arts</a></h4>
+                  <p>Bakhita Arts harnesses the creativity of the church's youth to help animate our 
+                    liturgies and provide upliftment to the community
+                  </p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                  <img src="assets/img/ministries/brass_band.jpg" class="img-fluid" alt="">
+                  <h4><a href="">Bakhita Brass Band</a></h4>
+                  <p>The Brass Band provides music for liturgical and social events. 
+                    It has grown to be a sought-after band within the Accra Archdiocese.</p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                  <img src="assets/img/ministries/marian_choir.jpg" class="img-fluid" alt="">
+                  <h4><a href="">Marian Choir</a></h4>
+                  <p>The Marian choir is a singing ministry for children. 
+                    It aims to equip the youngest members of the community with the skills and discipline
+                    needed to become full-fledged choristers.</p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                  <img src="assets/img/blank.png" class="img-fluid" alt="">
+                  <h4><a href="">Charismatic Renewal</a></h4>
+                  <p>The Charismatic Renewal is a confraternity geared towards enkindling 
+                    and rekindling the fire of the faith in the faithful.</p> 
+                </div>
+              </div>
+              
+            </div>
+            
+          </div>
+        </section><!-- End Ministries Section -->
+        
+        <!-- ======= Cta Section ======= -->
+        <section id="cta" class="d-none cta">
+          <div class="container">
+            
+            <div class="row">
+              <div class="col-lg-9 text-center text-lg-start">
+                <h3>Call To Action</h3>
+                <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              </div>
+              <div class="col-lg-3 cta-btn-container text-center">
+                <a class="cta-btn align-middle" href="#">Call To Action</a>
+              </div>
+            </div>
+            
+          </div>
+        </section><!-- End Cta Section -->
+        
+        <!-- ======= Life at Bakhita Section ======= -->
+        <section id="life-at-bakhita" class="portfolio">
+          <div class="container">
+            
+            <div class="section-title">
+              <h2>Life at St Bakhita</h2>
+              <p>
+                Beyond the mass, the community engages in many other activites, 
+                such as retreats, excursions, fun parties, and seminars. <br>
+              </p>
+              <p>
+                All of these help ensure the holistic development of the community 
+                by addressing both spiritual and social needs.
+              </p>
+            </div>
+            
+            <div class="d-none row">
+              <div class="col-lg-12 d-flex justify-content-center">
+                <ul id="portfolio-flters">
+                  <li data-filter="*" class="filter-active">All</li>
+                  <li data-filter=".filter-app">App</li>
+                  <li data-filter=".filter-card">Card</li>
+                  <li data-filter=".filter-web">Web</li>
+                </ul>
+              </div>
+            </div>
+            
+            <div id="galleryApp" class="row portfolio-container">
+              
+              <div v-for="item in gallery" class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="portfolio-wrap">
+                  <img :src="item.src" class="img-fluid" :alt="item.title">
+                  <div class="portfolio-info">
+                    <h4>{{ item.title }}</h4>
+                    <p>{{ item.subTitle }}</p>
+                    <div class="portfolio-links">
+                      <a :href="item.src" data-gallery="portfolioGallery" class="portfolio-lightbox" :title="item.title"><i class="bi bi-plus-lg"></i></a>
+                      <a :class="{'d-none': !item.externalLink}" target="_blank" :href="item.externalLink" title="More Details"><i class="bi bi-link-45deg"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+            
+          </div>
+        </section><!-- End Life at Bakhita Section -->
+        
+        <!-- ======= Leadership Section ======= -->
+        <section id="leadership" class="team section-bg">
+          <div class="container">
+            
+            <div class="section-title">
+              <h2>Church Leadership</h2>
+              <p>A body without a head is incomplete so is an organization without any form of leadership. 
+                The church's leadership is centered around the priest in charge, who presides over a Pastoral Council 
+                made up of members of the community. Their task is to ensure the smooth running of St Bakhita Catholic Church.</p>
+            </div>
+            
+            <div class="row">
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                <div class="member">
+                  <img src="assets/img/team/hillary.jpg" alt="">
+                  <h4>Rev Fr Hillary Agbenosi</h4>
+                  <span>Rector, Priest in Charge</span>
+                  <p>
+                    Fr. Hillary joined St. Bakhita as its first rector in the year of its dedication, 2018.
+                  </p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                <div class="member">
+                  <img src="assets/img/blank.png" alt="">
+                  <h4>Church Pastoral Council</h4>
+                  <p>
+                    The current CPC assumed its term of office in 2023. It is currently headed by Mr Nafrah.
+                  </p>
+                </div>
+              </div>
+              
+              <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                <div class="member">
+                  <img src="assets/img/blank.png" alt="">
+                  <h4>Church Youth Council</h4>
+                  <p>
+                    The Youth Council, headed by Ms Rebecca Bataka, 
+                    represents the interests and guides the energies of the youth of the church
+                    towards the greater good of the community.
+                  </p>
+                </div>
+              </div>
+              
+            </div>
+            
+          </div>
+        </section><!-- End Leadership Section -->
+        
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+          <div class="container">
+            
+            <div class="section-title">
+              <h2>Contact Us</h2>
+            </div>
+            
+            <div class="row">
+              
+              <div class="col-lg-5 d-flex align-items-stretch">
+                <div class="info">
+                  <div class="address">
+                    <i class="bi bi-geo-alt"></i>
+                    <h4>Location:</h4>
+                    <p>Community 20, Lashibi</p>
+                  </div>
+                  
+                  <div class="email">
+                    <i class="bi bi-envelope"></i>
+                    <h4>Email:</h4>
+                    <p>info@saintbakhita.com</p>
+                  </div>
+                  
+                  <div class="phone">
+                    <i class="bi bi-phone"></i>
+                    <h4>Call:</h4>
+                    <p>(+233) 0303 340 5739</p>
+                  </div>
+                  
+                </div>
+                
+              </div>
+              
+              <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">     
+                <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3970.4001816099853!2d-0.06907628507216862!3d5.655111434216683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf815069dca5c1%3A0x274ba4dd72cef851!2sSt.%20Bakhita%20Catholic%20Church!5e0!3m2!1sen!2sgh!4v1674268645602!5m2!1sen!2sgh" 
+                frameborder="0" 
+                style="border:0; width: 100%; height: 290px;" 
+                allowfullscreen>
+              </iframe>
+            </div>
+            
+          </div>
+          
+        </div>
+      </section><!-- End Contact Section -->
+
+      <!-- ======= Document Canvas Section ======= -->
+      <div class="offcanvas offcanvas-bottom" tabindex="-1" id="documentCanvas" aria-labelledby="documentCanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="documentCanvasLabel"></h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+          </div>
+          <div id="markDownContent" class="offcanvas-body"></div>
+      </div><!-- End Canvas Section -->
+
+      <!-- ======= Modal Dialog Section ======= -->
+      <div class="modal fade" id="modalDialog" tabindex="-1" aria-labelledby="modalDialogLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header d-none">
+              <h1 class="modal-title fs-5" id="modalDialogLabel">Modal title</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <ul class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action" target="_blank" href="https://forms.gle/XvasBbj7RVsLBuSu9">Submit Mass Intention <i class="bi bi-box-arrow-up-right"></i></a>
+                <a class="list-group-item list-group-item-action" target="_blank" href="https://forms.gle/6a4ngF1H5u3trrfAA">Send Baptism Request <i class="bi bi-box-arrow-up-right"></i></a>
+              </ul>
+            </div>
+            <div class="modal-footer d-none">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div><!-- End Modal Dialog Section -->
+      
+    </main><!-- End #main -->
+    
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+      <div class="container">
+        <h3>St Bakhita Catholic Church, Lashibi</h3>
+        <p>The Fortunate Ones; we are building our church!</p>
+        <div class="social-links">
+          <a href="https://www.youtube.com/@sbcclashibi/streams" class="youtube"><i class="bi bi-youtube"></i></a>
+          <a href="https://web.facebook.com/sbcclashibi" class="facebook"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/bakhitayouth/" class="instagram"><i class="bi bi-instagram"></i></a>
+        </div>
+        <div class="copyright">
+          &copy; Copyright 2023, St Bakhita Catholic Church, Lashibi. <br>All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/green-free-one-page-bootstrap-template/ -->
+          <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        </div>
+      </div>
+    </footer><!-- End Footer -->
+    
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="assets/vendor/glightbox/js/glightbox.min.js"></script> -->
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+    <script type="module" src="assets/js/app.js"></script>
+    
+  </body>
+  
+  </html>
