@@ -704,6 +704,16 @@ section {
   background: #fff;
 }
 
+.schedule-pill {
+  /* background-color: transparent; */
+  color: #fff;
+  text-shadow: var(--defaultTextShadow);
+}
+
+.schedule-pill:hover {
+  color: #ddff00f4;
+}
+
 .schedules-events-table {
   color: #fff;
 }
