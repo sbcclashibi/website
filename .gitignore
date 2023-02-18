@@ -1,2 +1,4 @@
 .firebaserc
 .DS_Store
+.firebase/
+*.cache

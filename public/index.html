@@ -166,6 +166,14 @@
               <div class="icon-box">
                 <h4 class="title">{{ a.title }}</h4>
                 <p class="description">{{ a.details }}</p>
+                <!-- https://forum.vuejs.org/t/programmatically-add-target-attribute-to-href/25331/3 -->
+                <a 
+                  v-if="a.link != null && a.linkText != null" 
+                  :href="a.link" 
+                  :target="/^http/.test(a.link) ? '_blank' : '_self'"
+                  >
+                  <button class="btn btn-sm btn-dark">{{ a.linkText }}</button>
+                </a>
               </div>
             </div>
           </div>
@@ -318,53 +326,6 @@
                     ...
                   </div>
                 </div>
-              </div>
-            </div>
-                      
-            <div class="row no-gutters d-none">
-              <div class="table-responsive">
-                <table class="table table-borderless schedules-events-table">
-                  <caption>
-                    <i class="bi bi-info-circle"></i>
-                    Unless otherwise announced, the schedules for mass and the sacraments are accurate
-                  </caption>
-                  <thead>
-                    <tr>
-                      <th class="schedules-events-table-head">Events</th>
-                      <th class="schedules-events-table-head">Mass</th>
-                      <th class="schedules-events-table-head">Sacraments</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td><span class="event-day">Feast of St Bakhita</span> <span class="event-time">8th February</span></td>
-                      <td><span class="event-day">Sunday</span> <span class="event-time">7:00am &amp; 9:00am</span></td>
-                      <td><span class="event-day">Baptism</span> <span class="event-time">First Saturday of Every Month</span></td>
-                    </tr>
-                    <tr>
-                      <td><span class="event-day">Retreat for Church &amp; Youth Councils</span> <span class="event-time">11th February</span></td>
-                      <td><span class="event-day">Tuesday</span> <span class="event-time">7:00pm</span></td>
-                      <td></td>
-                    </tr>
-                    <tr>
-                      <td><span class="event-day"></td>
-                      <td><span class="event-day">Wednesday</span><span class="event-time">6:00am</span></td>
-                      <td></td>
-                    </tr>
-                    <tr>
-                      <td></td>
-                      <td><span class="event-day">Thursday</span> <span class="event-time">6:00am</span></td>
-                    </tr>
-                    <tr>
-                      <td></td>
-                      <td><span class="event-day">Friday</span> <span class="event-time">6:00am</span></td>
-                    </tr>
-                    <tr>
-                      <td></td>
-                      <td><span class="event-day">Saturday</span> <span class="event-time">6:30am</span></td>
-                    </tr>
-                  </tbody>
-                </table>
               </div>
             </div>
             
@@ -743,7 +704,7 @@
             <h5 class="offcanvas-title" id="documentCanvasLabel"></h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
           </div>
-          <div id="markDownContent" class="offcanvas-body"></div>
+          <div id="markDownContent" class="offcanvas-body mx-auto"></div>
       </div><!-- End Canvas Section -->
 
       <!-- ======= Modal Dialog Section ======= -->

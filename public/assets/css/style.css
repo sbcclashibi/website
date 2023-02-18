@@ -1533,6 +1533,18 @@ section {
   --bs-offcanvas-height: 80%;
 }
 
+#markDownContent {
+  width: 65%;
+  text-align: justify;
+}
+
+@media (max-width: 575.98px) {
+  #markDownContent {
+    width: 95%;
+    text-align: justify;
+  }
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
