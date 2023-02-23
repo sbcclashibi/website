@@ -189,9 +189,14 @@
             </div>
 
             <div class="row">
+
+              <!-- Pills -->
               <ul class="nav nav-pills nav-fill mb-3 p-1" id="pills-tab" role="tablist">
                 <li class="nav-item" role="presentation">
                   <button class="nav-link schedule-pill active" id="pills-masses-tab" data-bs-toggle="pill" data-bs-target="#pills-masses" type="button" role="tab" aria-controls="pills-masses" aria-selected="true">Masses</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                  <button class="nav-link schedule-pill" id="pills-lent-tab" data-bs-toggle="pill" data-bs-target="#pills-lent" type="button" role="tab" aria-controls="pills-lent" aria-selected="false">Lenten Observances</button>
                 </li>
                 <li class="nav-item" role="presentation">
                   <button class="nav-link schedule-pill" id="pills-events-tab" data-bs-toggle="pill" data-bs-target="#pills-events" type="button" role="tab" aria-controls="pills-events" aria-selected="false">Upcoming Events</button>
@@ -201,6 +206,8 @@
                 </li>
               </ul>
               <div class="tab-content" id="pills-tabContent">
+
+                <!-- Masses -->
                 <div class="tab-pane fade show active" id="pills-masses" role="tabpanel" aria-labelledby="pills-masses-tab" tabindex="0">
                   <div class="list-group col-md-6">
                     <li class="list-group-item list-group-item-action">
@@ -249,6 +256,38 @@
                     </li>
                   </div>
                 </div>
+
+                <!-- Lenten Observances -->
+                <div class="tab-pane fade" id="pills-lent" role="tabpanel" aria-labelledby="pills-lent-tab" tabindex="0">
+                  <div class="list-group col-md-6">
+                    <li class="list-group-item list-group-item-action">
+                      <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Morning Prayers</h5>
+                        <!-- <small>3 days ago</small> -->
+                      </div>
+                      <p class="mb-1">Monday to Friday at 5:30am</p>
+                      <!-- <small class="text-muted">Mass schedules are valid unless otherwise announced.</small> -->
+                    </li>
+                    <li class="list-group-item list-group-item-action">
+                      <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Evening Prayers</h5>
+                        <!-- <small>3 days ago</small> -->
+                      </div>
+                      <p class="mb-1">Monday to Friday at 6:00pm</p>
+                      <!-- <small class="text-muted">Mass schedules are valid unless otherwise announced.</small> -->
+                    </li>
+                    <li class="list-group-item list-group-item-action">
+                      <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">Stations of the Cross</h5>
+                        <!-- <small>3 days ago</small> -->
+                      </div>
+                      <p class="mb-1">Fridays at 6:00pm</p>
+                      <small class="text-muted">Stations of the Cross begins after Friday evening prayers</small>
+                    </li>
+                  </div>
+                </div>
+
+                <!-- Upcoming Events -->
                 <div class="tab-pane fade" id="pills-events" role="tabpanel" aria-labelledby="pills-events-tab" tabindex="0">
                   <div class="list-group col-md-6">
                     <li class="list-group-item list-group-item-action">
@@ -261,6 +300,8 @@
                     </li>
                   </div>
                 </div>
+
+                <!-- Sacraments -->
                 <div class="tab-pane fade" id="pills-sacraments" role="tabpanel" aria-labelledby="pills-sacraments-tab" tabindex="0">
                   <div class="list-group col-md-6">
                     <li class="list-group-item list-group-item-action">
@@ -286,54 +327,6 @@
                   </div>
                 </div>
               </div>              
-            </div>
-
-            <div class="row d-none">
-              <div class="col-md-4">
-                <div class="list-group p-1" id="list-tab" role="tablist">
-                  <a class="list-group-item schedule-list-group-item active" id="list-masses-list" data-bs-toggle="list" href="#list-masses" role="tab" aria-controls="list-home">Masses</a>
-                  <a class="list-group-item schedule-list-group-item" id="list-events-list" data-bs-toggle="list" href="#list-events" role="tab" aria-controls="list-events">Events</a>
-                  <a class="list-group-item schedule-list-group-item" id="list-sacraments-list" data-bs-toggle="list" href="#list-sacraments" role="tab" aria-controls="list-sacraments">Sacraments</a>
-                </div>
-              </div>
-              <div class="col-md-8">
-                <div class="tab-content p-1" id="nav-tabContent">
-                  <div class="tab-pane fade show active" id="list-masses" role="tabpanel" aria-labelledby="list-masses-list">
-                    <div class="list-group">
-                      <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-                        <div class="d-flex w-100 justify-content-between">
-                          <h5 class="mb-1">List group item heading</h5>
-                          <small>3 days ago</small>
-                        </div>
-                        <p class="mb-1">Some placeholder content in a paragraph.</p>
-                        <small>And some small print.</small>
-                      </a>
-                      <a href="#" class="list-group-item list-group-item-action">
-                        <div class="d-flex w-100 justify-content-between">
-                          <h5 class="mb-1">List group item heading</h5>
-                          <small class="text-muted">3 days ago</small>
-                        </div>
-                        <p class="mb-1">Some placeholder content in a paragraph.</p>
-                        <small class="text-muted">And some muted small print.</small>
-                      </a>
-                      <a href="#" class="list-group-item list-group-item-action">
-                        <div class="d-flex w-100 justify-content-between">
-                          <h5 class="mb-1">List group item heading</h5>
-                          <small class="text-muted">3 days ago</small>
-                        </div>
-                        <p class="mb-1">Some placeholder content in a paragraph.</p>
-                        <small class="text-muted">And some muted small print.</small>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="tab-pane fade" id="list-events" role="tabpanel" aria-labelledby="list-events-list">
-                    ...
-                  </div>
-                  <div class="tab-pane fade" id="list-sacraments" role="tabpanel" aria-labelledby="list-sacraments-list">
-                    ...
-                  </div>
-                </div>
-              </div>
             </div>
             
           </div>
