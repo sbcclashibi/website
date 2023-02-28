@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "sbcc",
     "public": "public",
     "ignore": [
       "firebase.json",
