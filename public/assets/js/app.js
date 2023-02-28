@@ -14,7 +14,8 @@ const firebaseConfig = {
     projectId: "sbcc-website-339820",
     storageBucket: "sbcc-website-339820.appspot.com",
     messagingSenderId: "211208154905",
-    appId: "1:211208154905:web:565871c26e7f562fff1f88",
+    appId: "1:211208154905:web:a6ddcef6a52fc709ff1f88",
+    measurementId: "G-MFK69HVM3Y",
     databaseUrl: "https://sbcc-website-339820-default-rtdb.firebaseio.com/"
 };
 
