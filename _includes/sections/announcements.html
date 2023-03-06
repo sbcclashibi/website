@@ -1,0 +1,29 @@
+<!-- ======= Announcements Section ======= -->
+<section id="announcements" class="featured-services section-bg">
+	<!-- 
+		announcementsApp relies on pure CSS and JS to hide moustaches before Vue takes control of page.
+		announcementsAppStatus pretends to be a status indicator to while away the time. This will break on network error...
+		announcementsAppRow wraps the main package in d-none, which is removed when we actually get data
+	-->
+    <div id="announcementsApp" class="container"> 
+        <div class="section-title">
+        	<h2>Announcements</h2>
+            <p id="announcementsAppStatus">loading...</p>
+        </div>
+        <div id="announcementsAppRow" class="d-none row no-gutters">
+            <div v-if="announcements" v-for="a in announcements" :class="{'d-none': !announcements}" class="col-lg-4 col-md-6">
+            	<div class="icon-box">
+                	<h4 class="title">[[ a.title ]]</h4>
+                	<p class="description">[[ a.details ]]</p>
+                	<!-- https://forum.vuejs.org/t/programmatically-add-target-attribute-to-href/25331/3 -->
+					<a 
+						v-if="a.link != null && a.linkText != null" 
+						:href="a.link" 
+						:target="/^http/.test(a.link) ? '_blank' : '_self'">
+						<button class="btn btn-sm btn-dark">[[ a.linkText ]]</button>
+					</a>
+            	</div>
+            </div>
+        </div>
+    </div>
+</section><!-- End Announcements Services Section -->

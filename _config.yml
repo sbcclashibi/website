@@ -1,0 +1,10 @@
+name: "St Bakhita Catholic Church"
+description: "The official website of St Bakhita Catholic Church, Lashibi"
+url: "http://saintbakhita.com"
+markdown: kramdown
+permalink: pretty
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'changelog.txt', 'Dockerfile', 'Makefile', 'trashcan', 'Readme.txt']
+
+# collections:
+#  documents:
+#   output: true

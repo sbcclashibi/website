@@ -3,3 +3,4 @@
 .firebase/
 *.cache
 *.log
+_site/

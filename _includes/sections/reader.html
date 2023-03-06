@@ -1,0 +1,82 @@
+<!-- 
+    By default, the "Reader Section" displays the latest post on the site.
+    However, it should also display the *current* post when reading a post's page.
+    We achieve this by first assigning the default case,
+    and then, if the Jekyll collection the page belongs to is 'posts',
+    we reassign 'post' to the page, since it is a post.
+
+    If the post has feature_image set, we use that in the "Reader Section",
+    or default to a greyed out pattern.
+
+    This same state affects where the "Read Now" button links. 
+    When on a post's page, "Read Now" merely updates the url hash,
+    triggering the document canvas to re-evaluate the current url 
+    to open the content from /documents (see: app.js)
+
+    Hint: the documentSlug that is found is not evaluated from the hash,
+    since it is an invalid document path. documentSlug is instead found
+    in the url path, since it contains a recognized post category and matching slug.
+
+    If we're on /reader ie. the main "reader" page,
+    instead link to the posts url, so we go to its actual page.
+    Loading that page triggers the document canvas like in the previous paragaph
+
+-->
+{% assign post = site.posts.first %}
+{% if page.collection == 'posts' %}
+    {% assign post = page %}
+{% endif %}
+
+<!-- ======= Reader Section ======= -->
+<section 
+    id="cta" 
+    class="cta"
+    {% if post.feature_image %}
+        style="
+            background: url('/assets/img/{{ post.feature_image }}');
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center;
+            "
+    {% else %}
+        style="
+            background: linear-gradient(rgba(92, 96, 100, 0.98), rgba(92, 96, 100, 0.98)), url('/assets/img/pattern.png');
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center;
+            "
+    {% endif %}
+    >
+    <div class="container">
+         <div class="row">
+            <div class="col-lg-9 text-center text-lg-start">
+                <h1>{{ post.title }}</h1>
+                <p>{{ post.description }}</p>
+            </div>
+            <div class="col-lg-3 cta-btn-container text-center">
+                {% if page.collection != 'posts' %}
+                    <a class="cta-btn align-middle" href="{{ post.url }}">Read Now <i class="bi bi-chevron-right"></i></a>
+                {% else %}
+                    <a class="cta-btn align-middle" href="#read">Read Now <i class="bi bi-chevron-down"></i></a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section><!-- End Reader Section -->
+
+<!-- ======= More Section ======= -->
+<section id="why-us" class="why-us">
+    <div class="container">
+        <div class="row no-gutters m-2">
+            {% for p in site.posts %}
+            <div class="col-lg-4 col-md-6 content-item">
+                <a href="{{ p.url }}">
+                    <span>{{ p.date | date: "%-d %B %Y" }}</span>
+                    <h4 class="d-inline">{{ p.title }}</h4>
+                    <p class="">{{ p.description }}</p>
+                </a>
+            </div>    
+            {% endfor %} 
+        </div>    
+    </div>
+</section><!-- End More Section -->

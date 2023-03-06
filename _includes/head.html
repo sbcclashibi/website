@@ -1,0 +1,50 @@
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    
+    <title> {{ page.title }} | St Bakhita Catholic Church, Lashibi</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="keywords" content="Catholic Church">
+  
+    <!-- tags for Facebook OpenGraph -->
+    <meta property="og:url" content="https://saintbakhita.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }} | St Bakhita Catholic Church, Lashibi" />
+    <meta property="og:site_name" content="St Bakhita Catholic Church, Lashibi">
+    <meta property="og:description" content="{{ page.description }}" />
+    {% if page.feature_image %}
+    	<meta property="og:image" itemprop="image" content="/assets/img/{{ page.feature_image }}" />
+    	<meta property="og:image:secure_url" itemprop="image" content="/assets/img/{{ page.feature_image }}" />
+    {% else %}
+    	<meta property="og:image" itemprop="image" content="/assets/img/ogimage.jpg" />
+    	<meta property="og:image:secure_url" itemprop="image" content="/assets/img/ogimage.jpg" />
+    {% endif %}
+    <meta property="og:image" itemprop="image" content="/assets/img/ogimage.jpg" />
+    <meta property="og:image:secure_url" itemprop="image" content="/assets/img/ogimage.jpg" />
+    <meta property="og:image:width" content="200px">
+    <meta property="og:image:height" content="200px">
+    
+    <!-- Favicons -->
+    <link href="/assets/img/favicon.ico" rel="icon">
+    <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:800,400|Lato|EB+Garamond:600" rel="stylesheet">
+    
+    <!-- Vendor CSS Files -->
+    <link href="/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    
+    <!-- Template Main CSS File -->
+    <link href="/assets/css/style.css" rel="stylesheet">
+    
+    <!-- =======================================================
+      * Template Name: Green - v4.10.0
+      * Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
+      * Author: BootstrapMade.com
+      * License: https://bootstrapmade.com/license/
+      ======================================================== -->
+</head>
