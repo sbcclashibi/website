@@ -989,14 +989,16 @@ section {
   padding: 80px 0;
 }
 
-.cta h3, h1 {
+.cta h3{
+  font-size: 28px; 
+  font-weight: 700; 
   color: #fff;
-  /* font-size: 28px; */
-  /* font-weight: 700; */
+  text-shadow: var(--defaultTextShadow);
 }
 
-.cta p {
+.cta p, .cta h1  {
   color: #fff;
+  text-shadow: var(--defaultTextShadow);
 }
 
 .cta .cta-btn {

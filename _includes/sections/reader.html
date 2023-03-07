@@ -33,15 +33,15 @@
     class="cta"
     {% if post.feature_image %}
         style="
-            background: url('/assets/img/{{ post.feature_image }}');
-            background-attachment: fixed;
+            background: linear-gradient(rgba(92, 96, 100, 0.58), rgba(92, 96, 100, 0.58)), url('/assets/img/{{ post.feature_image }}');
+            background-attachment: local;
             background-size: cover;
             background-position: center;
             "
     {% else %}
         style="
             background: linear-gradient(rgba(92, 96, 100, 0.98), rgba(92, 96, 100, 0.98)), url('/assets/img/pattern.png');
-            background-attachment: fixed;
+            background-attachment: local;
             background-size: cover;
             background-position: center;
             "
@@ -55,9 +55,9 @@
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
                 {% if page.collection != 'posts' %}
-                    <a class="cta-btn align-middle" href="{{ post.url }}">Read Now <i class="bi bi-chevron-right"></i></a>
+                    <a class="cta-btn align-middle" href="{{ post.url }}">Read more... <i class="bi bi-chevron-right"></i></a>
                 {% else %}
-                    <a class="cta-btn align-middle" href="#read">Read Now <i class="bi bi-chevron-down"></i></a>
+                    <a class="cta-btn align-middle" href="#read">Tap to read <i class="bi bi-chevron-down"></i></a>
                 {% endif %}
             </div>
         </div>

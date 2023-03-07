@@ -92,7 +92,10 @@ const documentsApp = createApp({
                 const canvas = new bootstrap.Offcanvas('#documentCanvas');
                 if(response.status == 200) {
                     response.text().then(md => {
-                        const m = markdownIt();
+                        const m = markdownIt({
+                            html: true,
+                            typographer: true
+                        });
                         contentElement.innerHTML = m.render(md);
                         log("document_open", {"slug": this.documentSlug});
                     });
