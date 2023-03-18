@@ -1,7 +1,7 @@
 # 3RD SUNDAY OF LENT YEAR A
 Theme: Is the Lord in our midst or not?
 
- ---
+---
 
 #### 1st Reading: Exodus, chapter 17:3-7
 
