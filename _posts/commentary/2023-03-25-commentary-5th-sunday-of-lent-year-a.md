@@ -1,7 +1,7 @@
 ---
-title: "Commentary: 4th Sunday of Lent, Year A"
+title: "Commentary: 5th Sunday of Lent"
 layout: reader
-description: "Theme: Faith and unbelief"
+description: "Theme: Newness of life"
 feature_image: posts/commentary-lent.webp
 category: commentary
 published: true

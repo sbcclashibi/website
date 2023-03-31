@@ -68,15 +68,23 @@
 <section id="why-us" class="why-us">
     <div class="container">
         <div class="row no-gutters m-2">
-            {% for p in site.posts %}
+            {% for p in site.posts limit:6 %}
             <div class="col-lg-4 col-md-6 content-item">
                 <a href="{{ p.url }}">
                     <span>{{ p.date | date: "%-d %B %Y" }}</span>
                     <h4 class="d-inline">{{ p.title }}</h4>
                     <p class="">{{ p.description }}</p>
+                    <span class="badge rounded-pill bg-light text-dark d-inline">{{ p.category }}</span>
                 </a>
             </div>    
             {% endfor %} 
+            <div class="m-3">
+                <p>
+                    {% for p in site.posts %}
+                        <a href="{{ p.url }}">{{ p.title }}</a> ﹒
+                    {% endfor %} 
+                </p>
+            </div>
         </div>    
     </div>
 </section><!-- End More Section -->
