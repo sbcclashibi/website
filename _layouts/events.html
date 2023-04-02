@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+        <style>
+            body {
+                background-color: brown;
+            }
+            #topbar {
+                background: rgba(0, 0, 0, 0.0);
+                color: #FFF;
+            }
+
+            #topbar .contact-info a {
+                color: #FFF;
+            }
+
+            #topbar .contact-info i {
+                color: #FFF;
+            }
+
+            #topbar .social-links a {
+                color: #FFF;
+            }
+
+            #header {
+                background: rgba(0, 0, 0, 0.0);
+            }
+        </style>
+        {% include sections/top_bar.html %}
+        {% include sections/header_events.html %}
+        {% include sections/hero.html %}
+        {% include sections/theme.html %}
+        <main id="main">
+            {{ content }}
+            {% include sections/contact.html %}
+            {% include sections/canvas.html %}
+            {% include sections/dialog.html %}        
+        </main><!-- End #main -->
+        {% include footer.html %}
+        {% include scripts.html %}
+    </body>
+</html>
