@@ -172,7 +172,7 @@ const galleryApp = createApp({
         getGalleryItems() {
             var URL = "/gallery/gallery.json";
             console.log(window.location.pathname);
-            if(window.location.pathname == "/events/") {
+            if(window.location.pathname.startsWith("/events")) {
                 URL = "/gallery/gallery-events.json";
             }
             fetch(URL)
@@ -218,7 +218,7 @@ const slideApp = createApp({
         getSlideItems() {
             var URL = "/slide/slide.json";
             console.log(window.location.pathname);
-            if(window.location.pathname == "/events/") {
+            if(window.location.pathname.startsWith("/events")) {
                 URL = "/slide/slide-events.json";
             }
             fetch(URL)
