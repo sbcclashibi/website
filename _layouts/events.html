@@ -1,43 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-    {% include head.html %}
-    <body>
-        <style>
-            body {
-                background-color: brown;
-            }
-            #topbar {
-                background: rgba(0, 0, 0, 0.0);
-                color: #FFF;
-            }
-
-            #topbar .contact-info a {
-                color: #FFF;
-            }
-
-            #topbar .contact-info i {
-                color: #FFF;
-            }
-
-            #topbar .social-links a {
-                color: #FFF;
-            }
-
-            #header {
-                background: rgba(0, 0, 0, 0.0);
-            }
-        </style>
-        {% include sections/top_bar.html %}
-        {% include sections/header_events.html %}
-        {% include sections/hero.html %}
-        {% include sections/theme.html %}
-        <main id="main">
-            {{ content }}
-            {% include sections/contact.html %}
-            {% include sections/canvas.html %}
-            {% include sections/dialog.html %}        
-        </main><!-- End #main -->
-        {% include footer.html %}
-        {% include scripts.html %}
-    </body>
+{% include head.html %}
+<body>
+    <style>
+        body {
+            background: 
+            linear-gradient(135deg,
+            rgba(29, 34, 40, 0.92),
+            rgba(39, 44, 50, 0.92)
+            ),
+            /* linear-gradient(135deg,
+            rgba(12, 67, 121, 0.88), 
+            rgba(62, 56, 52, 0.88),
+            rgba(33, 39, 45, 0.88)
+            ), */
+            url('/assets/img/events-bg.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        #topbar {
+            background: rgba(0, 0, 0, 0.0);
+            color: #FFF;
+        }
+        #topbar .contact-info a {
+            color: #FFF;
+        }
+        #topbar .contact-info i {
+            color: #FFF;
+        }
+        #topbar .social-links a {
+            color: #FFF;
+        }
+        #header {
+            background: rgba(0, 0, 0, 0.0);
+        }
+        #hero {
+            background: rgba(0, 0, 0, 0.0);
+            padding: 0px;
+        }
+        #countdown {
+            padding-top: 10px;
+        }
+        .event-details {
+            padding-top: 10px;
+            color: #FFF;
+            text-align: justify;
+        }
+        .cta {
+            background: 
+            linear-gradient(135deg,
+            rgba(255, 255, 255, 0.92), 
+            rgba(255, 255, 255, 0.92)
+            ),
+            url('/assets/img/events-bg-2.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            /* background: rgba(238, 228, 228, 0.8); */
+        }
+        .cta h3, .cta p {
+            color: #333;
+            text-shadow: none;
+        }
+        .cta .cta-btn {
+            border: 2px solid #db9494;
+            color: #d66363;
+        }
+        .cta .cta-btn:hover {
+            background: #d6f813;
+            color: #160303;
+            border: 2px solid #160303;
+        }
+        .section-title h2 {
+            color: #FFF;
+        }
+        .section-title h2::after {
+            background-color: #d6f813;
+        }
+        .portfolio {
+            background: rgba(0, 0, 0, 0.0);
+        }
+    </style>
+    {% include sections/top_bar.html %}
+    {% include sections/header_events.html %}
+    {% include sections/hero_events.html %}
+    {% include sections/cta_events.html %}
+    {% include sections/gallery_events.html %}
+    <main id="main">
+        {% include sections/canvas.html %}
+        {% include sections/dialog.html %}        
+    </main><!-- End #main -->
+    {% include footer.html %}
+    {% include scripts.html %}
+</body>
 </html>
