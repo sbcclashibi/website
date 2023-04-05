@@ -170,7 +170,12 @@ const galleryApp = createApp({
     },
     methods: {
         getGalleryItems() {
-            fetch("/gallery/gallery.json")
+            var URL = "/gallery/gallery.json";
+            console.log(window.location.pathname);
+            if(window.location.pathname == "/events/") {
+                URL = "/gallery/gallery-events.json";
+            }
+            fetch(URL)
             .then(response => response.json())
             .then(items => {
                 this.gallery = items;
@@ -211,7 +216,12 @@ const slideApp = createApp({
     },
     methods: {
         getSlideItems() {
-            fetch("/slide/slide.json")
+            var URL = "/slide/slide.json";
+            console.log(window.location.pathname);
+            if(window.location.pathname == "/events/") {
+                URL = "/slide/slide-events.json";
+            }
+            fetch(URL)
             .then(response => response.json())
             .then(it => {
                 this.items = it;

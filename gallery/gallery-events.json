@@ -1,0 +1,40 @@
+[
+    {
+        "src": "/assets/img/gallery/event-7.jpg",
+        "title": "The people of God in worship",
+        "subTitle": "Laudamus 2022",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.1641646692873309&type=3"
+    },
+    {
+        "src": "/assets/img/gallery/event-4.jpg",
+        "title": "Joe Mettle",
+        "subTitle": "Laudamus 2022",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.1644519429252702&type=3"
+    },
+    {
+        "src": "https://www.youtube.com/watch?v=MUb6ejQF4pQ",
+        "imageSrc": "/assets/img/gallery/event-9.jpg",
+        "title": "Ministration: Athanasius Amuzu",
+        "subTitle": "Laudamus 2022",
+        "externalLink": "https://www.youtube.com/watch?v=MUb6ejQF4pQ"
+    },
+    {
+        "src": "/assets/img/gallery/event-3.jpg",
+        "title": "Daughters of Glorious Jesus",
+        "subTitle": "Laudamus 2022",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.1642172319487413&type=3"
+    },
+    {
+        "src": "/assets/img/gallery/event-8.jpg",
+        "title": "Backdrop Moments",
+        "subTitle": "Laudamus 2022",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.1643002666071045&type=3"
+    },
+    {
+        "src": "https://www.youtube.com/watch?v=e6wfCVSitb4",
+        "imageSrc": "/assets/img/gallery/event-2.jpg",
+        "title": "Ministration: Daughters of Glorious Jesus",
+        "subTitle": "Laudamus 2022",
+        "externalLink": "https://www.youtube.com/watch?v=e6wfCVSitb4"
+    }
+]
