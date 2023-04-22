@@ -1,7 +1,7 @@
 ---
 title: "Commentary: Good Friday"
 layout: reader
-description: "We have a great High Priest"
+description: "Theme: We have a great High Priest"
 feature_image: posts/commentary-lent.webp
 category: commentary
 published: true
