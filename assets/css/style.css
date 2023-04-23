@@ -991,9 +991,9 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(
-    #2a4b33ef, 
+    #2a4b33ba, 
     rgb(37, 80, 48)
-    ), url('../img/pattern.png');
+    ), url('../img/cta/harvest_rectory.jpg');
     background-attachment: fixed;
   /* background: #5cb874; */
   /* padding: 80px 0; */
