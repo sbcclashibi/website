@@ -24,7 +24,7 @@ const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 const analytics = getAnalytics(app);
 const isLiveSite = window.location.hostname.startsWith("saintbakhita.");
-const contentCategories = ["uncategorized", "commentary"];
+const contentCategories = ["uncategorized", "commentary", "reflection"];
 
 const log = function(eventName = "unknown_event", eventData = {}){
     if(isLiveSite) { /* logEvent(analytics, eventName, eventData); */ }
