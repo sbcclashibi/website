@@ -1,5 +1,5 @@
-# 6th Sunday of Easter, May 13, 2023
-_From the Homily of Fr Evans Halolo_
+# 6th Sunday of Easter, May 14, 2023
+_From the Homily of Fr Evans Sena Halolo_
 
 ---
 
