@@ -13,5 +13,4 @@ Scripture says that when we suffer because of good Christian conduct, Jesus will
 
 #### Gospel Reading: John, chapter 17: 1 – 11a
 
-Jesus prays for his disciples, and all who follow him, that we may know and believe the oneness of God and his son, so that our lives would reveal his character and presence
-Message
+Jesus prays for his disciples, and all who follow him, that we may know and believe the oneness of God and his son, so that our lives would reveal his character and presence.
