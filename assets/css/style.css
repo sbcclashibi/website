@@ -630,14 +630,14 @@ section {
 --------------------------------------------------------------*/
 
 .liturgical-season {
-  color: #333333;
-  background-color: var(--liturgicalWhite);
+  color: var(--liturgicalWhite);
+  background-color: var(--liturgicalRed);
   padding: 30px 0;
 }
 
 .liturgical-season .blockquote-footer {
-  /* color: #f5f5f5; */
-  color: #4c4c4c;
+  color: #f5f5f5;
+  /* color: #4c4c4c; */
 }
 
 /*--------------------------------------------------------------
