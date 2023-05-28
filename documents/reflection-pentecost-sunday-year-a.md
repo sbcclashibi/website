@@ -13,13 +13,13 @@ The Holy Spirit is not an option for the Christian. He is a necessity. A number 
 
 The Holy Spirit covers you, the whole of you, ie, you literally sink into the Holy Spirit. There are three implications for being clothed with the Holy Spirit:
 
-1. You are clothed; you are no more naked. 
+#### 1. You are clothed; you are no more naked. 
 God doesn’t want his children to go out naked. He covers them with the Holy Spirit. Once you are in the world, without the Holy Spirit, you are naked. Clothing is a necessity; the Holy Spirit is a basic need.
 
-2. Clothing gives you an identification.
+#### 2. Clothing gives you an identification.
 When the Holy Spirit clothes you, he gives you an identity. Your identity comes with privileges, and sets new standards for you. You can’t live below these standards. You can’t continue living in sin. You are obliged to serve the Lord, and love the things of the Lord. A royal does not discard his royal robes; the mantle of the Holy Spirit is yours to don always. So when the evil one comes near you, he’ll know, instantly, that you are a no-go area.
 
-3.	Being clothed with the Holy Spirit is power.
+#### 3.	Being clothed with the Holy Spirit is power.
 The Holy Spirit gives you a certain authority (Read 1 Kings 19:19, 2 Kings 2: 5-15). It’s the story about Elijah and Elisha, and the power/miracles that were in Elijah’s mantle that continued in Elisha’s ministry.
 
 May all powers and principalities bow before you when they see you in the mantle (clothe) of the Holy Spirit.
