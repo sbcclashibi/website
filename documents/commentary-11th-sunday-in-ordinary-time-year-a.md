@@ -1,5 +1,6 @@
 # 11TH SUNDAY IN ORDINARY TIME YEAR A
 Theme: God’s kindness endures forever
+
 ---
 
 #### 1st Reading: The Book of Exodus, Chapter 19: 2 – 6a
