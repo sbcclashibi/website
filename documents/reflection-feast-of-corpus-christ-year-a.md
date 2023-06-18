@@ -2,7 +2,9 @@
 _Reflection on the Homily by Rev. Fr. Hillary Agbenosi June 11, 2023_
 
 ---
-<iframe src="https://podcasters.spotify.com/pod/show/st-bakhita-catholic/embed/episodes/Sermons-at-Bakhita-Corpus-Christi-Year-A---Rev-Fr-Hillary-Agbenosi-e25in6n" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://podcasters.spotify.com/pod/show/st-bakhita-catholic/embed/episodes/Sermons-at-Bakhita-Corpus-Christi-Year-A---Rev-Fr-Hillary-Agbenosi-e25in6n" height="170px" width="100%" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 1. When we celebrate the Mass, we come to receive God himself, in his totality.

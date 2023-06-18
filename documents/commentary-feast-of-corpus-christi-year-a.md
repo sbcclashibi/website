@@ -1,7 +1,7 @@
 # SOLEMNITY OF THE BODY AND BLOOD OF CHRIST (CORPUS CHRISTI)
 Theme: Sharing life with Christ
 
---- 
+---
 
 #### 1st Reading: The Book of Deuteronomy, chapter 8: 2 - 3, 14b – 16a
 
