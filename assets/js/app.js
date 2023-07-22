@@ -71,6 +71,46 @@ const announcementsApp = createApp({
     }
 }).mount("#announcementsApp");
 
+const schedulesApp = createApp({
+    delimiters: ["[[", "]]"],
+    data() {
+        return {
+            schedules: []
+        }
+    },
+    methods: {
+        getschedules() {
+            // the exact database ref is based on the subdomain.
+            // the beta site listens on "beta/*" refs, and all others listen on "prod/*" refs
+            const schedulesRef = ref(database, 
+                isLiveSite ? "prod/schedules" : "beta/schedules"
+            );
+            onValue(schedulesRef, (snapshot) => {
+                const data = snapshot.val();
+                if(data) {
+                    schedulesApp.schedules = data
+                    // We add and remove d-none from the status indicator and schedules row proper
+                    // to prevent ugly moustaches from showing before Vue takes control of web page
+                    document.getElementById("announcementsAppStatus").classList.add("d-none");
+                    document.getElementById("announcementsAppRow").classList.remove("d-none");
+                }
+            });
+        }
+    },
+    created() {
+        this.getschedules();
+        setTimeout(_ => {
+            // if for some reason schedules took too long to load,
+            // let the user know
+            // hint: this might not be terribly useful :(
+            document.getElementById("announcementsAppStatus").innerHTML =
+                "Announcements took too long to load. " 
+                + "<br>Kindly refresh the page. <i class='bi bi-arrow-clockwise'></i>";
+        }, 5000);
+    }
+}).mount("#schedulesApp");
+
+
 const documentsApp = createApp({
     data() {
         return {
