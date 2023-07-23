@@ -5,12 +5,7 @@
         "subTitle": "The Fortunate One!"
     },
     {
-        "src": "/assets/img/slide/slide-7.jpg",
-        "title": "",
-        "subTitle": ""
-    },
-    {
-        "src": "/assets/img/slide/slide-6.jpg",
+        "src": "/assets/img/slide/slide-1.jpg",
         "title": "",
         "subTitle": ""
     },
@@ -20,7 +15,17 @@
         "subTitle": ""
     },
     {
+        "src": "/assets/img/slide/slide-3.jpg",
+        "title": "",
+        "subTitle": ""
+    },
+    {
         "src": "/assets/img/slide/slide-4.jpg",
+        "title": "",
+        "subTitle": ""
+    },
+    {
+        "src": "/assets/img/slide/slide-5.jpg",
         "title": "",
         "subTitle": ""
     }
