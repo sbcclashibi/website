@@ -80,7 +80,7 @@
             {% endfor %} 
             <div class="m-3">
                 <p>
-                    {% for p in site.posts %}
+                    {% for p in site.posts limit:12 %}
                         <a href="{{ p.url }}">{{ p.title }}</a> ﹒
                     {% endfor %} 
                 </p>
