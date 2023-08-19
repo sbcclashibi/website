@@ -1,6 +1,8 @@
 # 19TH SUNDAY IN ORDINARY TIME YEAR A
 Theme: Prayer in days of affliction
 
+---
+
 #### 1st Reading: 1 Kings, chapter 19: 9a, 11 – 13a
 
 While escaping the wrath of Queen Jezebel, the prophet Elijah encountered the Lord, not in the dramatic way he had expected, but in a “tiny whispering sound”. The message for us is that God comes to us in ways we least expect.

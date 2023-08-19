@@ -1,6 +1,8 @@
 # 17TH SUNDAY IN ORDINARY TIME YEAR A
 Theme: Priority of values
 
+---
+
 #### 1st Reading: 1 Kings, chapter 3: 5, 7 - 12
 
 Solomon asked for the gift of understanding, but God made him the wisest man that ever lived. Through this scripture God is telling us to make his Divine wisdom the priority of our lives.
