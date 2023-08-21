@@ -8,7 +8,7 @@ Lessons from the 1st Reading and the Gospel Reading.
 
 #### 1. Treat the House of God as a place of prayer.
 
-In years gone by, you would remove your footwear before entering the church, as a sign of reverence to the house of God. These days we dishonour the house of God in a lot of ways, such as by Tik Tokking, FaceBooking, chewing gum and littering, while others are praying. It appears there are some who cannot take a second off their phones, even when they are in church, let alone give only two hours of their twenty-four God-given hours to appreciate him! Someone was even busy betting on his phone. What will this fellow tell his friends about what he heard in church?
+In years gone by, you would remove your footwear before entering the church, as a sign of reverence to the house of God. These days we dishonour the house of God in a lot of ways, such as by TikToking, Facebooking, chewing gum and littering, while others are praying. It appears there are some who cannot take a second off their phones, even when they are in church, let alone give only two hours of their twenty-four God-given hours to appreciate him! Someone was even busy betting on his phone. What will this fellow tell his friends about what he heard in church?
 
 In the 1st Reading, we hear that “….my house shall be called a house of prayer for all peoples.”(Isaiah 56: 7). The moment we step foot in the house of God, we should know that it is time to set everything else aside, sit, pray and prepare ourselves for the celebration of the Mass. You are in the house of God; a house of prayer.
 
