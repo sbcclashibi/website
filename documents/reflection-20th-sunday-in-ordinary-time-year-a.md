@@ -4,6 +4,9 @@ _Homilist: Rev. Fr. James Gyekye Danso, Parochial Vicar, St Bakhita Catholic Chu
 - _2nd Reading: Romans 11: 13-15, 29-32._
 - _Gospel Reading: Matthew 15: 21-28._
 
+---
+<iframe src="https://podcasters.spotify.com/pod/show/sbcclashibi/embed/episodes/Sermons-at-Bakhita-20th-Sunday-in-Ordinary-Time-Year-A---Rev-Fr-James-Danso-e28b6in" height="180px" width="100% frameborder="0" scrolling="no"></iframe>
+
 Lessons from the 1st Reading and the Gospel Reading.
 
 #### 1. Treat the House of God as a place of prayer.
