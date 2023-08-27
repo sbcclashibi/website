@@ -71,6 +71,54 @@ const announcementsApp = createApp({
     }
 }).mount("#announcementsApp");
 
+const schedulesApp = createApp({
+    delimiters: ["[[", "]]"],
+    data() {
+        return {
+            masses: [],
+            events: [],
+            sacraments: []
+        }
+    },
+    methods: {
+        getschedules() {
+            // the exact database ref is based on the subdomain.
+            // the beta site listens on "beta/*" refs, and all others listen on "prod/*" refs
+            const schedulesRef = ref(database, 
+                isLiveSite ? "prod/schedules" : "beta/schedules"
+            );
+            onValue(schedulesRef, (snapshot) => {
+                const data = snapshot.val();
+                if(data) {
+                    // We add and remove d-none from the status indicator and schedules row proper
+                    // to prevent ugly moustaches from showing before Vue takes control of web page
+                    schedulesApp.masses = data["masses"];
+                    schedulesApp.events = data["events"];
+                    schedulesApp.sacraments = data["sacraments"];
+
+                    // By default, the containers for events are hidden.
+                    // Unhide them after they have been set
+                    document.getElementById("massItems").classList.remove("d-none");
+                    document.getElementById("eventItems").classList.remove("d-none");
+                    document.getElementById("sacramentItems").classList.remove("d-none");
+                }
+            });
+        }
+    },
+    created() {
+        this.getschedules();
+        setTimeout(_ => {
+            // if for some reason schedules took too long to load,
+            // let the user know
+            // hint: this might not be terribly useful :(
+            document.getElementById("announcementsAppStatus").innerHTML =
+                "Schedules took too long to load. " 
+                + "<br>Kindly refresh the page. <i class='bi bi-arrow-clockwise'></i>";
+        }, 5000);
+    }
+}).mount("#schedulesApp");
+
+
 const documentsApp = createApp({
     data() {
         return {
