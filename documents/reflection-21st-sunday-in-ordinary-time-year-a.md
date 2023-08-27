@@ -1,5 +1,5 @@
 # 21ST SUNDAY IN ORDINARY TIME: YEAR A: 27th August, 2023
-_Homilist: Rev. Fr. James Gyekye Danso, Parochial Vicar, St Bakhita Catholic Church. _
+_Homilist: Rev. Fr. James Gyekye Danso, Parochial Vicar, St Bakhita Catholic Church._
 
 - _1st Reading: Isaiah 22: 19-23._
 - _2nd Reading: Romans 11: 33-36._
