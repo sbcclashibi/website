@@ -6,7 +6,7 @@
             <h2>Schedules &amp; Upcoming Events</h2>
           </div>
 
-          <div class="row">
+          <div id="schedulesApp" class="row">
 
             <!-- Pills -->
             <ul class="nav nav-pills nav-fill mb-3 p-1" id="pills-tab" role="tablist">
@@ -27,87 +27,53 @@
 
               <!-- Masses -->
               <div class="tab-pane fade show active" id="pills-masses" role="tabpanel" aria-labelledby="pills-masses-tab" tabindex="0">
-                <div class="list-group col-md-6">
-                  <li class="list-group-item list-group-item-action">
+                <div id="massItems" class="list-group col-md-6 d-none">
+                  <li v-if="masses" v-for="m in masses" :class="{'d-none': !masses}"  class="list-group-item list-group-item-action">
                     <div class="d-flex w-100 justify-content-between">
-                      <h5 class="mb-1">Sunday Morning Mass</h5>
-                      <!-- <small>3 days ago</small> -->
+                      <h5 class="mb-1">[[ m.title ]]</h5>
                     </div>
-                    <p class="mb-1">First Mass at 7:00am, Second Mass at 9:30am</p>
+                    <p class="mb-1">[[ m.subtitle ]]</p>
                     <small class="text-muted">
-                      Mass schedules are valid unless otherwise announced.
-                      <a href="#" data-bs-toggle="modal" data-bs-target="#modalDialog" data-bk-type="memberFormsModal">
+                      [[ m.details ]]
+                      <a class="d-none" href="#" data-bs-toggle="modal" data-bs-target="#modalDialog" data-bk-type="memberFormsModal">
                         Click here to submit a mass intention.
                       </a>
                     </small>
-                  </li>
-                  <li class="list-group-item list-group-item-action d-none">
-                    <div class="d-flex w-100 justify-content-between">
-                      <h5 class="mb-1">Weekday Evening Mass</h5>
-                      <!-- <small>3 days ago</small> -->
-                    </div>
-                    <p class="mb-1">Every Tuesday at 7:00pm</p>
-                    <!-- <small>And some small print.</small> -->
-                  </li>
-                  <li class="list-group-item list-group-item-action">
-                    <div class="d-flex w-100 justify-content-between">
-                      <h5 class="mb-1">Weekday Morning Mass</h5>
-                      <!-- <small class="text-muted">3 days ago</small> -->
-                    </div>
-                    <p class="mb-1">Wednesday to Friday at 6:00am</p>
-                    <small class="text-muted">The Blessed Sacrament will be exposed on Wednesday morning for private adoration.</small>
-                  </li>
-                  <li class="list-group-item list-group-item-action">
-                    <div class="d-flex w-100 justify-content-between">
-                      <h5 class="mb-1">Grotto Mass</h5>
-                      <!-- <small class="text-muted">3 days ago</small> -->
-                    </div>
-                    <p class="mb-1">Every Saturday at 6:30am</p>
-                    <small class="text-muted">Mass begins after 6:00am rosary prayers.</small>
                   </li>
                 </div>
               </div>
 
               <!-- Upcoming Events -->
               <div class="tab-pane fade" id="pills-events" role="tabpanel" aria-labelledby="pills-events-tab" tabindex="0">
-                <div class="list-group col-md-6">
-                  <li class="list-group-item list-group-item-action d-none">
+                <div id="eventItems" class="list-group col-md-6 d-none">
+                  <li v-if="events" v-for="e in events" :class="{'d-none': !events}" class="list-group-item list-group-item-action">
                     <div class="d-flex w-100 justify-content-between">
-                      <h5 class="mb-1">Laudamus 2023</h5>
-                      <small><i class="bi bi-cash-coin d-none"></i> GHS 60.00 single, GHS 100.00 double</small>
+                      <h5 class="mb-1">[[ e.title ]]</h5>
+                      <small><i v-if="e.rate" class="bi bi-cash-coin"></i> [[ e.rate ]]</small>
                     </div>
-                    <p class="mb-1">Laudamus 2023 comes off on 21st May, 2023 at St. Bakhita Catholic Church.</p>
-                    <small class="text-muted">Laudamus is a charitable concert featuring the biggest gospel stars in Ghana. This year's event is in support of the St Francis Rehab Centre. <a href="/events">Find out more here</a> </small>
+                    <p class="mb-1">[[ e.subtitle ]]</p>
+                    <small class="text-muted">[[ e.details ]]</small>
                   </li>
+                  <p class="schedule-footer">
+                    <small>
+                      <i class="bi bi-info-circle"></i><a href="/events"> Find out more about St Bakhita events here</a>
+                    </small>
+                  </p>
                 </div>
               </div>
-              <p class="schedule-footer d-none">Find out about events at St Bakhita here</p>
 
               <!-- Sacraments -->
               <div class="tab-pane fade" id="pills-sacraments" role="tabpanel" aria-labelledby="pills-sacraments-tab" tabindex="0">
-                <div class="list-group col-md-6">
-                  <li class="list-group-item list-group-item-action">
+                <div id="sacramentItems" class="list-group col-md-6 d-none">
+                  <li v-if="sacraments" v-for="s in sacraments" :class="{'d-none': !sacraments}" class="list-group-item list-group-item-action">
                     <div class="d-flex w-100 justify-content-between">
-                      <h5 class="mb-1">Infant Baptism</h5>
-                      <!-- <small>3 days ago</small> -->
+                      <h5 class="mb-1">[[ s.title ]]</h5>
                     </div>
-                    <p class="mb-1">First Saturday of every month, after Grotto Mass</p>
-                    <small class="text-muted">
-                      <a href="#" data-bs-toggle="modal" data-bs-target="#modalDialog" data-bk-type="memberFormsModal">
-                        Click here to place a baptism request.
-                      </a>
-                    </small>
-                  </li>
-                  <li class="list-group-item list-group-item-action">
-                    <div class="d-flex w-100 justify-content-between">
-                      <h5 class="mb-1">Confession</h5>
-                      <!-- <small>3 days ago</small> -->
-                    </div>
-                    <p class="mb-1">By appointment with the priest in charge.</p>
-                    <!-- <small>And some small print.</small> -->
+                    <p class="mb-1">[[ s.subtitle ]]</p>
                   </li>
                 </div>
               </div>
+              
             </div>              
           </div>
           

@@ -75,7 +75,9 @@ const schedulesApp = createApp({
     delimiters: ["[[", "]]"],
     data() {
         return {
-            schedules: []
+            masses: [],
+            events: [],
+            sacraments: []
         }
     },
     methods: {
@@ -88,11 +90,17 @@ const schedulesApp = createApp({
             onValue(schedulesRef, (snapshot) => {
                 const data = snapshot.val();
                 if(data) {
-                    schedulesApp.schedules = data
                     // We add and remove d-none from the status indicator and schedules row proper
                     // to prevent ugly moustaches from showing before Vue takes control of web page
-                    document.getElementById("announcementsAppStatus").classList.add("d-none");
-                    document.getElementById("announcementsAppRow").classList.remove("d-none");
+                    schedulesApp.masses = data["masses"];
+                    schedulesApp.events = data["events"];
+                    schedulesApp.sacraments = data["sacraments"];
+
+                    // By default, the containers for events are hidden.
+                    // Unhide them after they have been set
+                    document.getElementById("massItems").classList.remove("d-none");
+                    document.getElementById("eventItems").classList.remove("d-none");
+                    document.getElementById("sacramentItems").classList.remove("d-none");
                 }
             });
         }
@@ -104,7 +112,7 @@ const schedulesApp = createApp({
             // let the user know
             // hint: this might not be terribly useful :(
             document.getElementById("announcementsAppStatus").innerHTML =
-                "Announcements took too long to load. " 
+                "Schedules took too long to load. " 
                 + "<br>Kindly refresh the page. <i class='bi bi-arrow-clockwise'></i>";
         }, 5000);
     }
