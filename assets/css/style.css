@@ -991,10 +991,12 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(
-    #2a4b33ba, 
-    rgb(37, 80, 48)
-    ), url('../img/cta/harvest_rectory.jpg');
+    #0c88edca, 
+    rgba(12, 76, 150, 0.814)
+    ), url('../img/cta/podcast.jpg');
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
   /* background: #5cb874; */
   /* padding: 80px 0; */
 }
