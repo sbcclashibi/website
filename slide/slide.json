@@ -1,6 +1,6 @@
 [
     {
-        "src": "/assets/img/slide/slide-2.jpg",
+        "src": "/assets/img/slide/slide-1.jpg",
         "title": "Welcome to St Bakhita",
         "subTitle": "The Fortunate One!"
     },
@@ -11,6 +11,11 @@
     },
     {
         "src": "/assets/img/slide/slide-4.jpg",
+        "title": "",
+        "subTitle": ""
+    },
+    {
+        "src": "/assets/img/slide/slide-2.jpg",
         "title": "",
         "subTitle": ""
     },
