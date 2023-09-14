@@ -1,4 +1,4 @@
-# FEAST OF THE TRIUMPH OF THE CROSS
+# SOLEMNITY OF THE TRIUMPH OF THE CROSS
 Theme: We should glory in the cross of our Lord Jesus Christ
 
 #### 1st Reading: Numbers, chapter 21: 4 - 9
