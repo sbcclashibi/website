@@ -98,6 +98,7 @@ const schedulesApp = createApp({
 
                     // By default, the containers for events are hidden.
                     // Unhide them after they have been set
+                    document.getElementById("schedulesAppStatus").classList.add("d-none");
                     document.getElementById("massItems").classList.remove("d-none");
                     document.getElementById("eventItems").classList.remove("d-none");
                     document.getElementById("sacramentItems").classList.remove("d-none");
