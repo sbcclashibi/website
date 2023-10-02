@@ -7,7 +7,7 @@ Homilist: Most Rev. John Louis, Axillary Bishop, Catholic archdiocese of Accra.
 
 ---
 
-<iframe src="https://podcasters.spotify.com/pod/show/sbcclashibi/embed/episodes/Sermons-at-Bakhita-25th-Sunday-in-Ordinary-Time-Year-A---Most-Rev-John-Louis-e29n0dv" height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/sbcclashibi/embed/episodes/Sermons-at-Bakhita-25th-Sunday-in-Ordinary-Time-Year-A---Most-Rev-John-Louis-e29n0dv" height="180px" width="100%" frameborder="0" scrolling="no" autoplay=1></iframe>
 
 #### Theme: God’s ways are not our ways. 
 
