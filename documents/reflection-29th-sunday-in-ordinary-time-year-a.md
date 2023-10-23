@@ -2,7 +2,9 @@
 Homilist: Rev. Fr. James Gyekye Danso, Parochial Vicar, St Bakhita Catholic Church. 
 
 _1st Reading: Isaiah 45: 4-6._
+
 _2nd Reading: 1 Thessalonians 1: 1-5b._
+
 _Gospel Reading: Matthew 22: 15-21._
 
 ---
@@ -12,7 +14,7 @@ We learn from the 1st Reading that God chose Cyrus, a pagan king, to save his pe
 
 The Gospel Reading is the focus of our reflection.
 
-**1. We need to give to Caesar what is Caésar’s.** In the same vein, we need to give to our nation what it is due.
+**1. We need to give to Caesar what is Caesar’s.** In the same vein, we need to give to our nation what it is due.
 
 Some people, i.e. individuals and corporate bodies are unwilling to pay taxes, with several excuses, including the excuse that they are Christians. As Christians, it is our duty to not only pay, but to also actively encourage everyone to do likewise. The question we don’t often ask is: If you don’t pay your taxes, which is a civic duty, how do you expect the country to run? Is it right, therefore, to expect the government to provide amenities to the citizenry if you don’t pay your taxes? Think about it.
 
