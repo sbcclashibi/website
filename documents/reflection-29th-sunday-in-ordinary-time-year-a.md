@@ -6,6 +6,7 @@ _2nd Reading: 1 Thessalonians 1: 1-5b._
 _Gospel Reading: Matthew 22: 15-21._
 
 ---
+<iframe src="https://podcasters.spotify.com/pod/show/sbcclashibi/embed/episodes/Sermons-at-Bakhita-29th-Sunday-in-Ordinary-Time-Year-A---Rev-Fr-James-Gyekye-Danso-e2aucn7" height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 We learn from the 1st Reading that God chose Cyrus, a pagan king, to save his people, Israel. God can choose anyone to fulfil his promise. In the 2nd Reading, Paul thanks the Thessalonians for accepting and living out the faith. This is a challenge for us to do likewise.
 
