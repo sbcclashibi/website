@@ -9,7 +9,7 @@ Scripture paints a picture of unsurpassed peace and unparalleled bliss of the he
 
 This scripture teaches that salvation is God’s own initiative that is meant to show us how much he loves us, though we are unworthy of his saving grace.
 
-OR
+_OR_
 
 #### Romans, chapter 6: 3 - 9
 
