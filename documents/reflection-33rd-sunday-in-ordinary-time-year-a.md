@@ -4,6 +4,9 @@ Homilist: Rev. Fr. James Gyekye Danso, Parochial Vicar, St Bakhita Catholic Chur
 - _1st Reading: Proverbs 31: 10-13, 19-20, 30-31._
 - _2nd Reading: 1 Thessalonians 5: 1-6._
 - _Gospel Reading: Matthew 25: 14-30._
+
+---
+<iframe src="https://podcasters.spotify.com/pod/show/sbcclashibi/embed/episodes/Sermons-at-Bakhita-33rd-Sunday-in-Ordinary-Time-Year-A---Rev-Fr-James-Gyekye-Danso-e2c5lmk" height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
  
 It is another day, and another opportunity to glorify God, and to put our talents to good use.
 
