@@ -991,8 +991,8 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(
-    #0c88edca, 
-    rgba(12, 76, 150, 0.814)
+    #d2601aca, 
+    rgba(12, 150, 72, 0.814)
     ), url('../img/cta/podcast.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
