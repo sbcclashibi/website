@@ -631,7 +631,7 @@ section {
 
 .liturgical-season {
   color: var(--liturgicalWhite);
-  background-color: var(--liturgicalGreen);
+  background-color: var(--liturgicalViolet);
   padding: 30px 0;
 }
 
