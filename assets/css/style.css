@@ -630,14 +630,13 @@ section {
 --------------------------------------------------------------*/
 
 .liturgical-season {
-  color: var(--liturgicalWhite);
-  background-color: var(--liturgicalViolet);
+  color: #3c3c3c;
+  background-color: var(--liturgicalWhite);
   padding: 30px 0;
 }
 
 .liturgical-season .blockquote-footer {
-  color: #f5f5f5;
-  /* color: #4c4c4c; */
+  color: #4c4c4c;
 }
 
 /*--------------------------------------------------------------
@@ -991,8 +990,8 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(
-    #d2601aca, 
-    rgba(12, 150, 72, 0.814)
+    #417de5ca, 
+    rgba(110, 254, 172, 0.814)
     ), url('../img/cta/podcast.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
