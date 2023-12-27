@@ -5,6 +5,10 @@ Homilist: Most Rev. John K. Louis, Auxiliary Bishop, Catholic Archdiocese of Acc
 - _2nd Reading: Hebrews 1: 1-6._
 - _Gospel Reading: John 1: 1-18._
 
+---
+
+<iframe src="https://podcasters.spotify.com/pod/show/sbcclashibi/embed/episodes/Sermons-at-Bakhita-Nativity-of-the-Lord-Year-B---Most-Rev--John-K--Louis--Auxiliary-Bishop--Catholic-Archdiocese-of-Accra-e2dn39c" height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
+
 
 Today is Christmas Day. The day is themed “The Feast of Giving and Appreciation.” God gave us his greatest gift, his son, Jesus Christ. We need to appreciate this special gift.
 
