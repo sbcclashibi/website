@@ -1,4 +1,4 @@
-# RETIREMENT: Part I
+# Financial Planning for Retirement: Part I
 _by Magnus Betuur Wiedong_
 
 _“There is a time for everything, and a season for every activity under the heavens: a time to be born and a time to die, a time to plant and a time to uproot” ~ Eccl 3:1-2_
