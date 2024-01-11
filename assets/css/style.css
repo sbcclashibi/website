@@ -630,13 +630,13 @@ section {
 --------------------------------------------------------------*/
 
 .liturgical-season {
-  color: #3c3c3c;
-  background-color: var(--liturgicalWhite);
+  color: #FBFBFB;
+  background-color: var(--liturgicalGreen);
   padding: 30px 0;
 }
 
 .liturgical-season .blockquote-footer {
-  color: #4c4c4c;
+  color: #FBFBFB;
 }
 
 /*--------------------------------------------------------------
@@ -991,7 +991,7 @@ section {
 .cta {
   background: linear-gradient(
     #417de5ca, 
-    rgba(110, 254, 172, 0.814)
+    rgba(30, 62, 119, 0.814)
     ), url('../img/cta/podcast.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
