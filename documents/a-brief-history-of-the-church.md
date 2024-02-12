@@ -1,5 +1,5 @@
-# A Brief History of St Bakhita Catholic Church
-Published on the Occassion of the 15th Anniversary and Dedication of the Church, February 2020
+# A Brief History of St Bakhita Parish
+First published on the Occassion of the 15th Anniversary and Dedication of the Church, February 2020
 
 ---
 
@@ -99,4 +99,4 @@ Among other milestones, the church is proud to be the first outstation of Corpus
 
 The church, which was hitherto an outstation of Corpus Christi, was elevated to the status of a rectorate on September 4, 2019. This came after a forum with His Grace John Bonaventure Kwofie on Saturday, June 22, 2019, during which a plea was made for the appointment of a dedicated priest for the fast-growing church.
 
-Rev. Fr. Hillary Agbenosi is the first Rector of the newly established Rectorate, whose appointment took effect from October 1, 2019.
+Rev. Fr. Hillary Agbenosi was appointed as the first Rector of the newly established Rectorate, on October 1, 2019. On the 11th of February 2024, St Bakhita Catholic Church was elevated to the status of a parish.
