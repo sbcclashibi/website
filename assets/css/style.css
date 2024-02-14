@@ -649,7 +649,7 @@ section {
 
 .liturgical-season {
   color: #FBFBFB;
-  background-color: var(--liturgicalGreen);
+  background-color: var(--liturgicalViolet);
   padding: 30px 0;
 }
 
@@ -1008,8 +1008,8 @@ section {
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(
-    #417de5ca, 
-    rgba(30, 62, 119, 0.814)
+    #42bd4fca, 
+    rgba(110, 79, 15, 0.814)
     ), url('../img/cta/podcast.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
