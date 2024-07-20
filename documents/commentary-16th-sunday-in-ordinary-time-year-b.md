@@ -1,7 +1,7 @@
 # 16TH SUNDAY IN ORDINARY TIME YEAR B
 Theme: As a shepherd tends his flock.
 
----- 
+---
 
 #### 1st Reading: Jeremiah, chapter 23:1-6
 
