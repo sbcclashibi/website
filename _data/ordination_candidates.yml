@@ -1,0 +1,80 @@
+- name: "Rev. Dominic Anafo"
+  image: "/assets/img/ordination/dominic.jpeg"
+  parish: "St. Kizito, Numa"
+  link: "ordination/rev-dominic"
+
+- name: "Rev. Emmanuel Yao Gabianku"
+  image: "/assets/img/ordination/emmanuel.jpeg"
+  parish: "Martyrs Of Uganda, Mamprobi"
+  link: "ordination/rev-emmanuel"
+
+- name: "Rev. Evans Tulasi"
+  image: "/assets/img/ordination/evans.jpeg"
+  parish: "St. Kizito, Nima"
+  link: "ordination/rev-evans"
+
+- name: "Rev. Fredrick Kofi Doe"
+  image: "/assets/img/ordination/fredrick.jpeg"
+  parish: "St. Kizito, Nima"
+  link: "ordination/rev-fred"
+
+- name: "Rev. Godson Kwame Bentum"
+  image: "/assets/img/ordination/godson.jpeg"
+  parish: "Holy Family, Mataheko"
+  link: "ordination/rev-godson"
+
+- name: "Rev. Isaac Kofi Quayson"
+  image: "/assets/img/ordination/isaac.jpeg"
+  parish: "Good Shepherd, Tema Community 2"
+  link: "ordination/rev-isaac"
+
+- name: "Rev. John Ametepe"
+  image: "/assets/img/ordination/john.jpeg"
+  parish: "St. Theresa, Kaneshie"
+  link: "ordination/rev-john"
+
+- name: "Rev. Joseph Vomalemo Sablah"
+  image: "/assets/img/ordination/joseph.jpeg"
+  parish: "St. Joseph The Worker, Medie"
+  link: "ordination/rev-joseph"
+
+- name: "Rev. Paul Atidoh"
+  image: "/assets/img/ordination/paul.jpeg"
+  parish: "St. John The Baptist, Odorkor-Tipper"
+  link: "ordination/rev-paul"
+
+- name: "Rev. Lawrence Krah"
+  image: "/assets/img/ordination/lawrence.jpeg"
+  parish: "St. Theresa, Kaneshie"
+  link: "ordination/rev-lawrence"
+
+- name: "Rev. Michael Dziwornu Etsey"
+  image: "/assets/img/ordination/michael.jpeg"
+  parish: "Ss. Anne And Joachim, Teshie"
+  link: "ordination/rev-michael"
+
+- name: "Rev. Raphael Insor-Brown"
+  image: "/assets/img/ordination/raphi.jpeg"
+  parish: "Good Shepherd, Tema Community 2"
+  link: "ordination/rev-raphi"
+
+- name: "Rev. Raphael Kojo Mensah"
+  image: "/assets/img/ordination/raphm.jpeg"
+  parish: "St. Kizito, Nima"
+  link: "ordination/rev-raphm"
+
+- name: "Rev. Samuel Ebo Hymore"
+  image: "/assets/img/ordination/samuel.jpeg"
+  parish: "St. Patrick, Atomic"
+  link: "ordination/rev-samuel"
+
+- name: "Rev. Winston Komla Dzidzorli Semenou"
+  image: "/assets/img/ordination/winston.jpeg"
+  parish: "St. Theresa, Kaneshie"
+  link: "ordination/rev-winston"
+
+- name: "Rev. Wisdom Kwabena Asare"
+  image: "/assets/img/ordination/wisdom.jpeg"
+  parish: "Ss. Thomas More And John Fisher, Achimota"
+  link: "ordination/rev-wisdom"
+

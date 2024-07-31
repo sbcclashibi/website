@@ -119,7 +119,6 @@ const schedulesApp = createApp({
     }
 }).mount("#schedulesApp");
 
-
 const documentsApp = createApp({
     data() {
         return {
@@ -221,7 +220,7 @@ const galleryApp = createApp({
         getGalleryItems() {
             var URL = "/gallery/gallery.json";
             console.log(window.location.pathname);
-            if(window.location.pathname.startsWith("/events")) {
+            if(window.location.pathname.startsWith("/ordination")) {
                 URL = "/gallery/gallery-events.json";
             }
             fetch(URL)
@@ -322,3 +321,4 @@ const modalDialogApp = createApp({
         });
     }
 }).mount("#modalDialog");
+

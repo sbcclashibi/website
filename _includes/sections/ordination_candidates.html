@@ -1,0 +1,33 @@
+        <!-- ======= Ordination Candidates Section ======= -->
+        <section id="leadership" class="team section-bg">
+            <div class="container">
+              
+              <div class="section-title">
+                <h2>The Candidates</h2>
+                <p>
+                  All candidates are alumni of St Paul's Seminary, Sowutuom, and St Peter's regional seminary, Pedu. They completed their Philosophy and Theology studies at St Paul's and St Peter's respectively. 
+                  <br>
+                  Together, they are the highest number of candidates to be ordained in the Catholic Archdiocese of Accra.
+                  <br>
+                  St Kizito Parish, Nima, presents the highest number of candidates at this year's ordination.  
+                </p>
+              </div>
+              
+              <div class="row">
+
+                {% for c in site.data.ordination_candidates %}
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                  <a href="#documents/{{ c.link }}">
+                    <div class="member">
+                      <img src="{{ c.image }}" alt="">
+                      <h4>{{ c.name }}</h4>
+                      <span>{{ c.parish }}</span>
+                    </div>
+                  </a>
+                </div>
+                {% endfor %}
+                
+              </div>
+              
+            </div>
+          </section><!-- End Leadership Section -->
