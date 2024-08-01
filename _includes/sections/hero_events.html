@@ -1,12 +1,12 @@
 <!-- ======= Hero Section ======= -->
-<section id="hero">
+<section id="hero" style="min-height: 337px; max-height: 450px;">
 	<div class="row justify-content-center">
-        <div class="col-md-6">
-            <img src="/assets/img/laudamus-logo.png" class="img-fluid d-none" alt="Ordination logo">
-            <h1 class="display-1 text-center">Priestly Ordination</h1>
+        <div class="col-md-7">
+            <img src="/assets/img/events-bg.jpg" class="img-fluid d-none" alt="Ordination logo">
+            <h1 class="display-1 text-center">Priestly Ordination 2024</h1>
             <p class="text-center display-6">Accra Archdiocese<p>
-            <h1 id="countdown" class="text-center d-none">loading...</h1>
-            <div class="event-details text-center">
+            <h1 id="countdown" class="text-center">loading...</h1>
+            <div class="event-details text-center d-none">
               <ul class="list-inline">
                 <li class="list-inline-item">
                   <i class="bi bi-calendar3 text-warning"></i> Saturday 24th August, 2024
@@ -15,7 +15,7 @@
                   <i class="bi bi-geo-alt text-warning"></i> St Bakhita Catholic Church, Lashibi
                 </li>
                 <li class="list-inline-item">
-                  <i class="bi bi-clock text-warning"></i> 0800hrs GMT
+                  <i class="bi bi-clock text-warning"></i> 0930hrs GMT
                 </li>
               </ul>
               <button type="button" class="btn btn-light btn-lg mx-3 my-1 d-none">
@@ -38,7 +38,7 @@
     </div>
     <script>
         // Set the date we're counting down to
-        var countDownDate = new Date("May 21, 2023 17:00:00").getTime();
+        var countDownDate = new Date("August 24, 2024 09:30:00").getTime();
         
         // Update the count down every 1 second
         var x = setInterval(function() {
@@ -50,7 +50,7 @@
           var distance = countDownDate - now;
         
           // Time calculations for days, hours, minutes and seconds
-          var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+          var days = Math.floor(distance / (1000 * 60 * 60 * 24) + 1);
           var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
           var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
           var seconds = Math.floor((distance % (1000 * 60)) / 1000);
