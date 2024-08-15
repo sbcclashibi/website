@@ -82,7 +82,7 @@ h6 {
   opacity: 1;
 }
 
-.floating-chat-button {
+/* .floating-chat-button {
   position: fixed;
   left: 15px;
   bottom: 15px;
@@ -92,12 +92,18 @@ h6 {
   height: 50px;
   border-radius: 25px;
   transition: all 0.4s;
+} */
+
+.floating-chat-button {
+  position: fixed;
+  left: 15px;
+  bottom: 15px;
+  z-index: 996;
+  transition: all 0.4s;
 }
 
 .floating-chat-button i {
-  font-size: 28px;
   color: #fff;
-  line-height: 0;
 }
 
 /*--------------------------------------------------------------
