@@ -61,9 +61,12 @@
         //   + minutes + " mminutes " + seconds + "s ";
         
           // If the count down is finished, write some text
+          if (days == 1) {
+            document.getElementById("countdown").innerHTML = "It's tomorrow!";
+          }
           if (distance < 0) {
             clearInterval(x);
-            document.getElementById("countdown").innerHTML = "Thank You!";
+            document.getElementById("countdown").innerHTML = "Thank You for participating.";
           }
         }, 1000);
     </script>
