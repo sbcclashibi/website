@@ -37,37 +37,16 @@
     <div class="row justify-content-center px-4">
     </div>
     <script>
-        // Set the date we're counting down to
+        // Set the date we're counting down to 
         var countDownDate = new Date("August 24, 2024 09:30:00").getTime();
+        var countDownElement = document.getElementById("countdown");
         
         // Update the count down every 1 second
         var x = setInterval(function() {
+
+         var relativeTime = moment(countDownDate).fromNow();
+         countDownElement.innerHTML = relativeTime;
         
-          // Get today's date and time
-          var now = new Date().getTime();
-        
-          // Find the distance between now and the count down date
-          var distance = countDownDate - now;
-        
-          // Time calculations for days, hours, minutes and seconds
-          var days = Math.floor(distance / (1000 * 60 * 60 * 24) + 1);
-          var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-          var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-        
-          // Display the result in the element with id="demo"
-          document.getElementById("countdown").innerHTML = days + " days to go...";
-        //   document.getElementById("countdown").innerHTML = days + " days " + hours + " hours "
-        //   + minutes + " mminutes " + seconds + "s ";
-        
-          // If the count down is finished, write some text
-          if (days == 1) {
-            document.getElementById("countdown").innerHTML = "It's today!";
-          }
-          if (distance < 0) {
-            clearInterval(x);
-            document.getElementById("countdown").innerHTML = "Thank You for participating.";
-          }
         }, 1000);
     </script>
 </section><!-- End Hero -->
