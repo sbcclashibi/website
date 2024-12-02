@@ -1,0 +1,77 @@
+{
+  "announcements": [
+    {
+      "details": "Listen to the Homily On the 1st Sunday of Advent by Rev. Fr. James Gyekye Daanso.",
+      "link": "https://open.spotify.com/episode/6y0YGJg8P9i0AKnTYs7cUU?si=e6740a2b0a05409a",
+      "linkText": "Listen Now 🎧",
+      "title": "Homily: 1st Sunday of Advent"
+    },
+    {
+      "details": "There will be TWO masess on Sunday, 8th December, 2024. Offertory will be led by the Tuesday borns and the St Theresa of the Child Jesus respectively. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 2nd Sunday of Advent"
+    },    
+    {
+      "details": "Advent Vespers resumes on Saturday, 7th December 2024.",
+      "title": "Advent Vespers"
+    },
+    {
+      "details": "Please note that this year's Advent recollection is scheduled for Saturday, 14th December 2024 from 8am-12pm at the Youth Centre",
+      "title": "Advent Recollection"
+    },
+    {
+      "details": "Kindly note that this year's Carol Service will take place on Sunday, 22nd December 2024 at 6pm here at the church.",
+      "title": "Carol Service"
+    }
+  ],
+  "schedules": {
+    "liturgicalWeek": "1st Week of Advent, 1st-7th December",
+    "events": [
+      {
+        "details": "Date: 14th December, 2024 | Time: 8am-12pm | Venue: Catholic Youth Centre",
+        "rate": "",
+        "subtitle": "The theme for this year's event is “Stay awake (Be watchful, be alert) Mark 13:33”",
+        "title": "Advent Recollection"
+      },
+      {
+        "details": "Date: 22nd December, 2024 | Time: 6pm | Venue: Church premises",
+        "rate": "",
+        "subtitle": "",
+        "title": "Carol Service"
+      }
+    ],
+    "masses": [
+      {
+        "details": "",
+        "subtitle": "First mass: 7am, Second mass: 9am",
+        "title": "Sunday Morning Mass"
+      },
+      {
+        "details": "Kindly note that the Blessed Sacrament will be exposed in the Adoration Chapel throughout the week",
+        "subtitle": "Monday, Wednesday, Thursday at 6:00am",
+        "title": "Weekday Morning Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Tuesday & Friday at 7:00pm",
+        "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "Mass begins after 6:00am rosary prayers.",
+        "subtitle": "Every Saturday at 6:30am",
+        "title": "Saturday Morning"
+      }
+    ],
+    "sacraments": [
+      {
+        "details": "Kindly contact the church office to register for Infant Baptism",
+        "subtitle": "First Saturday of every month, after Grotto Mass",
+        "title": "Infant Baptism"
+      },
+      {
+        "details": "",
+        "subtitle": "By appointment with the priest in charge.",
+        "title": "Confession"
+      }
+    ]
+  }
+}

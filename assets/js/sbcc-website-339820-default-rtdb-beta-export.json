@@ -1,0 +1,70 @@
+{
+  "announcements": [
+    {
+      "details": "The COVID 19 Vaccination team will be back on Sunday 12th February 2023. All those who were not able to get the jabs should come prepared with their Ghana cards and old vaccination cards.",
+      "link": "#documents/auxiliary-and-coadjutor-bishops",
+      "linkText": "Read more...",
+      "title": "COVID-19 Vaccination"
+    },
+    {
+      "details": "Offertory and Bidding Prayers at the first and second masses will be led by the Christian Mothers and the Knights of St John International respectively.",
+      "link": "https://www.google.com",
+      "linkText": "Visit Site",
+      "title": "There will be two masses next Sunday, 12th February"
+    },
+    {
+      "details": "Copies of the 2023 Calendar are still on sale. Members are encouraged to purchase a copy for themselves, or as gifts for their loved ones. A copy costs only GH¢ 20. ",
+      "title": "Sale of 2023 Calendar"
+    }
+  ],
+  "schedules": {
+    "liturgicalWeek": "1st Week of Advent, 1st-7th December",
+    "events": [
+      {
+        "details": "Date: 24th September, 2023 | Time: 4:00pm | Venue: Church premises",
+        "rate": "Free",
+        "subtitle": "Bakhita Praise is a choral concert led by the church choir and other music ministries",
+        "title": "Bakhita Praise"
+      }
+    ],
+    "masses": [
+      {
+        "details": "Mass schedules are valid unless otherwise announced.",
+        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
+        "title": "Sunday Morning Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Every Tuesday at 7:00pm",
+        "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "The Blessed Sacrament will be exposed on Wednesday morning for private adoration.",
+        "subtitle": "Wednesday to Friday at 6:00am",
+        "title": "Weekday Morning Mass"
+      },
+      {
+        "details": "Mass begins after 6:00am rosary prayers.",
+        "subtitle": "Every Saturday at 6:30am",
+        "title": "Grotto Mass"
+      }
+    ],
+    "sacraments": [
+      {
+        "details": "Kindly contact the church office to register for Infant Baptism",
+        "subtitle": "First Saturday of every month, after Grotto Mass",
+        "title": "Infant Baptism"
+      },
+      {
+        "details": "",
+        "subtitle": "By appointment with the priest in charge.",
+        "title": "Confession"
+      },
+      {
+        "details": "Sundays at 4:00pm at the church premises",
+        "subtitle": "The St Bakhita Marriage School is currently in session. Kindly contact the church office to register.",
+        "title": "Marriage School"
+      }
+    ]
+  }
+}

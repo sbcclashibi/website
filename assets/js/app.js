@@ -75,6 +75,7 @@ const schedulesApp = createApp({
     delimiters: ["[[", "]]"],
     data() {
         return {
+            liturgicalWeek: "",
             masses: [],
             events: [],
             sacraments: []
@@ -95,6 +96,7 @@ const schedulesApp = createApp({
                     schedulesApp.masses = data["masses"];
                     schedulesApp.events = data["events"];
                     schedulesApp.sacraments = data["sacraments"];
+                    schedulesApp.liturgicalWeek = data["liturgicalWeek"]
 
                     // By default, the containers for events are hidden.
                     // Unhide them after they have been set
