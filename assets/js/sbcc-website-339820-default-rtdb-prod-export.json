@@ -1,17 +1,21 @@
 {
   "announcements": [
     {
-      "details": "Listen to the Homily On the 1st Sunday of Advent by Rev. Fr. James Gyekye Danso.",
-      "link": "https://open.spotify.com/episode/6y0YGJg8P9i0AKnTYs7cUU?si=e6740a2b0a05409a",
-      "linkText": "Listen Now 🎧",
-      "title": "Homily: 1st Sunday of Advent"
+      "details": "Read the commentary on the readings for the 2nd Sunday of Advent.",
+      "link": "/commentary/2024/12/07/commentary-2nd-sunday-of-advent-year-c/",
+      "linkText": "Read Now",
+      "title": "Commentary: 2nd Sunday of Advent"
     },
     {
-      "details": "There will be TWO masess on Sunday, 8th December, 2024. Offertory will be led by the Tuesday borns and the St Theresa of the Child Jesus respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 2nd Sunday of Advent"
-    },    
+      "details": "There will be TWO masess on Sunday, 15th December, 2024. Offertory will be led by Legion of Mary and the Wednesday borns respectively. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 3rd Sunday of Advent"
+    },      
+     {
+      "details": "Monday, 9th December 2024 is the Solemnity of the Immaculate Conception. In view of this, Mass will be in the evening at 7pm.",
+      "title": "Solemnity of the Immaculate Conception"
+    }, 
     {
-      "details": "Advent Vespers resumes on Saturday, 7th December 2024.",
+      "details": "Advent Vespers resumes on Saturday, 14th December 2024.",
       "title": "Advent Vespers"
     },
     {
@@ -24,7 +28,7 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "1st Week of Advent, 1st-7th December",
+    "liturgicalWeek": "2nd Week of Advent, 8th-14th December",
     "events": [
       {
         "details": "Date: 14th December, 2024 | Time: 8am-12pm | Venue: Catholic Youth Centre",
@@ -47,12 +51,17 @@
       },
       {
         "details": "Kindly note that the Blessed Sacrament will be exposed in the Adoration Chapel throughout the week",
-        "subtitle": "Monday, Wednesday, Thursday at 6:00am",
+        "subtitle": "Wednesday - Friday at 6:00am",
         "title": "Weekday Morning Mass"
+      },      
+      {
+        "details": "",
+        "subtitle": "Monday at 7:00pm",
+        "title": "Solemnity of the Immaculate Conception"
       },
       {
         "details": "",
-        "subtitle": "Tuesday & Friday at 7:00pm",
+        "subtitle": "Tuesday at 7:00pm",
         "title": "Weekday Evening Mass"
       },
       {
