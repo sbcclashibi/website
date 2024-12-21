@@ -1,26 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 2nd Sunday of Advent.",
-      "link": "/commentary/2024/12/07/commentary-2nd-sunday-of-advent-year-c/",
+      "details": "Read the commentary on the readings for the 3rd Sunday of Advent.",
+      "link": "/commentary/2024/12/14/commentary-3rd-sunday-of-advent-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 2nd Sunday of Advent"
+      "title": "Commentary: 3rd Sunday of Advent"
     },
     {
-      "details": "There will be TWO masess on Sunday, 15th December, 2024. Offertory will be led by Legion of Mary and the Wednesday borns respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 3rd Sunday of Advent"
+      "details": "There will be ONE mass on Sunday, 22nd December, 2024. Offertory will be led by the Thursday borns and the Knights and Ladies of Marshall. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 4th Sunday of Advent"
     },      
      {
-      "details": "Monday, 9th December 2024 is the Solemnity of the Immaculate Conception. In view of this, Mass will be in the evening at 7pm.",
-      "title": "Solemnity of the Immaculate Conception"
+      "details": "The Christian Fathers' Association invites all St Bakhita fathers to an event dubbed “Rendezvous with Father” on Sunday,22nd December 2024 right after day group meetings.",
+      "title": "Rendezvous with Father"
     }, 
     {
-      "details": "Advent Vespers resumes on Saturday, 14th December 2024.",
+      "details": "Advent Vespers resumes on Saturday, 21st December 2024.",
       "title": "Advent Vespers"
-    },
-    {
-      "details": "Please note that this year's Advent recollection is scheduled for Saturday, 14th December 2024 from 8am-12pm at the Youth Centre",
-      "title": "Advent Recollection"
     },
     {
       "details": "Kindly note that this year's Carol Service will take place on Sunday, 22nd December 2024 at 6pm here at the church.",
@@ -28,14 +24,8 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "2nd Week of Advent, 8th-14th December",
+    "liturgicalWeek": "3rd Week of Advent, 14th-21st December",
     "events": [
-      {
-        "details": "Date: 14th December, 2024 | Time: 8am-12pm | Venue: Catholic Youth Centre",
-        "rate": "",
-        "subtitle": "The theme for this year's event is “Stay awake (Be watchful, be alert) Mark 13:33”",
-        "title": "Advent Recollection"
-      },
       {
         "details": "Date: 22nd December, 2024 | Time: 6pm | Venue: Church premises",
         "rate": "",
@@ -46,19 +36,14 @@
     "masses": [
       {
         "details": "",
-        "subtitle": "First mass: 7am, Second mass: 9am",
+        "subtitle": "7:30am",
         "title": "Sunday Morning Mass"
       },
       {
         "details": "Kindly note that the Blessed Sacrament will be exposed in the Adoration Chapel throughout the week",
-        "subtitle": "Wednesday - Friday at 6:00am",
+        "subtitle": "Monday, Wednesday - Friday at 6:00am",
         "title": "Weekday Morning Mass"
       },      
-      {
-        "details": "",
-        "subtitle": "Monday at 7:00pm",
-        "title": "Solemnity of the Immaculate Conception"
-      },
       {
         "details": "",
         "subtitle": "Tuesday at 7:00pm",
