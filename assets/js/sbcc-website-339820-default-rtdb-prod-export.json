@@ -1,37 +1,19 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 3rd Sunday of Advent.",
-      "link": "/commentary/2024/12/14/commentary-3rd-sunday-of-advent-year-c/",
+      "details": "Read the commentary on the readings for the 4th Sunday of Advent.",
+      "link": "/commentary/2024/12/21/commentary-4th-sunday-of-advent-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 3rd Sunday of Advent"
+      "title": "Commentary: 4th Sunday of Advent"
     },
     {
-      "details": "There will be ONE mass on Sunday, 22nd December, 2024. Offertory will be led by the Thursday borns and the Knights and Ladies of Marshall. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 4th Sunday of Advent"
-    },      
-     {
-      "details": "The Christian Fathers' Association invites all St Bakhita fathers to an event dubbed “Rendezvous with Father” on Sunday,22nd December 2024 right after day group meetings.",
-      "title": "Rendezvous with Father"
-    }, 
-    {
-      "details": "Advent Vespers resumes on Saturday, 21st December 2024.",
-      "title": "Advent Vespers"
-    },
-    {
-      "details": "Kindly note that this year's Carol Service will take place on Sunday, 22nd December 2024 at 6pm here at the church.",
-      "title": "Carol Service"
+      "details": "There will be ONE mass on Sunday, 29th December, 2024. Offertory will be led by the Saturday borns and St Vincent de Paul society. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: Feast of the Holy Family of Jesus, Mary and Joseph"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "3rd Week of Advent, 14th-21st December",
+    "liturgicalWeek": "Christmas, 23rd-29th December",
     "events": [
-      {
-        "details": "Date: 22nd December, 2024 | Time: 6pm | Venue: Church premises",
-        "rate": "",
-        "subtitle": "",
-        "title": "Carol Service"
-      }
     ],
     "masses": [
       {
@@ -40,14 +22,19 @@
         "title": "Sunday Morning Mass"
       },
       {
-        "details": "Kindly note that the Blessed Sacrament will be exposed in the Adoration Chapel throughout the week",
-        "subtitle": "Monday, Wednesday - Friday at 6:00am",
-        "title": "Weekday Morning Mass"
+        "details": "Mass will be in the evening at 7pm, offertory by Christian Sons and Daughters",
+        "subtitle": "Tuesday, 7pm",
+        "title": "Eve of Christmas"
+      },   
+      {
+        "details": "Christmas, Mass will be in the morning at 8am. Offertory by Christian Fathers' Association and Friday borns",
+        "subtitle": "Wednesday, 8am",
+        "title": "The Nativity of the Lord"
       },      
       {
         "details": "",
-        "subtitle": "Tuesday at 7:00pm",
-        "title": "Weekday Evening Mass"
+        "subtitle": "Thursday and Friday, 7am",
+        "title": "Weekday Morning Mass"
       },
       {
         "details": "Mass begins after 6:00am rosary prayers.",
