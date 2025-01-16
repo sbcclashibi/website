@@ -7,8 +7,8 @@
       "title": "Homily: The Baptism of the Lord"
     },
     {
-      "details": "There will be TWO masses on Sunday, 12th January, 2025. Offertory will be led by the Tuesday Borns and St. Theresa of the Child Jesus. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: The Baptism of the Lord"
+      "details": "There will be TWO masses on Sunday, 19th January, 2025. Offertory will be led by St Vincent De Paul and the Wednesday borns respectively. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 2nd Sunday in Ordinary Time"
     },
     {
       "details": "The St Bakhita Marriage School will reopen early February, 2025. Prospective counselees who wish to have their marriages solemnized in 2025 should please pick up registration forms from the office of the Rector.",
@@ -16,7 +16,7 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "Baptism of the Lord, 5th-12th Jan",
+    "liturgicalWeek": "First week in Ordinary Time, 12th-19th Jan",
     "events": [
     ],
     "masses": [
@@ -27,12 +27,12 @@
       },
       {
         "details": "",
-        "subtitle": "Tuesday, 9pm",
-        "title": "New Year Vigil"
+        "subtitle": "Tuesday, 7pm",
+        "title": "Weekday Evening Mass"
       },  
       {
         "details": "",
-        "subtitle": "Thursday and Friday, 6am",
+        "subtitle": "Wednesday to Friday, 6am",
         "title": "Weekday Morning Mass"
       },
       {
