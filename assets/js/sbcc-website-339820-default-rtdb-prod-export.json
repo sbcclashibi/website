@@ -1,14 +1,26 @@
 {
   "announcements": [
     {
-      "details": "Listen to the Homily for The Baptism of the Lord by Rev. Fr. James Gyekye Danso",
-      "link": "https://open.spotify.com/episode/0WDuf1iTykiwC8ZUjcmarz?si=df17c05580484f04",
-      "linkText": "Listen Now",
-      "title": "Homily: The Baptism of the Lord"
+      "details": "Read the commentary on the readings for the 2nd Sunday in Ordinary Time.",
+      "link": "/commentary/2025/01/18/commentary-2nd-sunday-in-ordinary-time-year-c/",
+      "linkText": "Read Now",
+      "title": "Commentary: 2nd Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 19th January, 2025. Offertory will be led by St Vincent De Paul and the Wednesday borns respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 2nd Sunday in Ordinary Time"
+      "details": "There will be ONE mass on Sunday, 26th January, 2025. Offertory will be led by the Thursday borns and Christian Fathers' Association. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 3rd Sunday in Ordinary Time"
+    },
+    {
+      "details": "There will be a revival from 5th-7th February 2025 at 7pm each night right here at the church",
+      "title": "Revival"
+    },
+    {
+      "details": "Bible studies continues today at 4pm at the church. Kindly come along with a friend.",
+      "title": "Bible Studies"
+    },
+    {
+      "details": "There will be In His Presence next Sunday,26th January 2025 at 6pm. In attendance, will be Team Jesus.",
+      "title": "In His Presence"
     },
     {
       "details": "The St Bakhita Marriage School will reopen early February, 2025. Prospective counselees who wish to have their marriages solemnized in 2025 should please pick up registration forms from the office of the Rector.",
@@ -16,13 +28,25 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "First week in Ordinary Time, 12th-19th Jan",
+    "liturgicalWeek": "2nd week in Ordinary Time, 20th-26th Jan",
     "events": [
+      {
+        "details": "Date: 5th-7th February 2025 | Time: 7:00pm | Venue: Church premises",
+        "rate": "",
+        "subtitle": "",
+        "title": "Revival"
+      },
+      {
+        "details": "Date: 26th January, 2025 | Time: 6:00pm | Venue: Church premises",
+        "rate": "",
+        "subtitle": "In attendance, will be Team Jesus.",
+        "title": "In His Presence"
+      }
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "7:00am & 9:30am",
+        "subtitle": "7:30am",
         "title": "Sunday Morning Mass"
       },
       {
@@ -32,7 +56,7 @@
       },  
       {
         "details": "",
-        "subtitle": "Wednesday to Friday, 6am",
+        "subtitle": "Monday, Wednesday to Friday, 6am",
         "title": "Weekday Morning Mass"
       },
       {
