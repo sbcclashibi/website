@@ -1,34 +1,38 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 3rd Sunday in Ordinary Time.",
-      "link": "/commentary/2025/01/25/commentary-3rd-sunday-in-ordinary-time-year-c/",
+      "details": "Read the commentary on the readings for the Presentation of the Lord.",
+      "link": "/commentary/2025/02/01/commentary-presentation-of-the-lord/",
       "linkText": "Read Now",
-      "title": "Commentary: 3rd Sunday in Ordinary Time"
+      "title": "Commentary: Presentation of the Lord"
     },
     {
-      "details": "There will be TWO masses on Sunday, 2nd February, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Friday borns respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: Presentation of the Lord"
-    },   
+      "details": "There will be ONE mass on Sunday, 9th February, 2025. Offertory will be led by all Day Groups. Bidding Prayers will be led by the Children Service.",
+      "title": "Mass Schedule: 5th Sunday in Ordinary Time"
+    },
     {
-      "details": "There will be In His Presence on Sunday, 26th January 2025 at 6pm. In attendance, will be Team Jesus.",
-      "title": "In His Presence"
+      "details": "Bible studies continues today at 4pm at the church. Kindly come along with a friend",
+      "title": "Bible Studies"
     },
     {
       "details": "There will be a revival from 5th-7th February 2025 at 7pm each night right here at the church",
       "title": "Revival"
     },
     {
+      "details": "The St. Bakhita youth has something special for this year's Valentine's Day on Friday, 14th February, 2025. It will be a day of engaging interactions on love with reasoned guests aside other love-fun activities.",
+      "title": "Valentine's Day"
+    },
+    {
       "details": "Life in the Spirit Seminar starts on Sunday 16th February, 2025. Registration is still ongoing at the church.",
       "title": "Life in the Spirit Seminar"
     },
     {
-      "details": "The St Bakhita Marriage School will reopen early February, 2025. Prospective counselees who wish to have their marriages solemnized in 2025 should please pick up registration forms from the office of the Rector.",
+      "details": "The St Bakhita Marriage School will reopen on 9th February, 2025. Prospective counselees who wish to have their marriages solemnized in 2025 should please pick up registration forms from the office of the Rector.",
       "title": "St Bakhita Marriage School"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "3rd week in Ordinary Time, 27th Jan -2nd Feb",
+    "liturgicalWeek": "4th week in Ordinary Time, 3rd-8th Feb",
     "events": [
       {
         "details": "Date: 5th-7th February 2025 | Time: 7:00pm | Venue: Church premises",
@@ -46,7 +50,7 @@
     "masses": [
       {
         "details": "",
-        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
+        "subtitle": "Mass at 7:30am",
         "title": "Sunday Morning Mass"
       },
       {
