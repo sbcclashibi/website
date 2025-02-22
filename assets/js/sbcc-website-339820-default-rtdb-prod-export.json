@@ -1,22 +1,26 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 5th Sunday in Ordinary Time.",
-      "link": "/commentary/2025/02/08/commentary-5th-sunday-in-ordinary-time-year-c/",
+      "details": "Read the commentary on the readings for the 6th Sunday in Ordinary Time.",
+      "link": "/commentary/2025/02/15/commentary-6th-sunday-in-ordinary-time-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 5th Sunday in Ordinary Time"
+      "title": "Commentary: 6th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 16th February, 2025. Offertory will be led by all Christian Sons and Daughters Association and the Knights and Ladies of Marshall respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 6th Sunday in Ordinary Time"
-    },
-    {
-      "details": "The St. Bakhita youth has something special for this year's Valentine's Day on Friday night, 14th February, 2025. It will be a day of engaging interactions on love with reasoned guests aside other love-fun activities.",
-      "title": "Valentine's Day"
+      "details": "There will be ONE mass on Sunday, 23rd February, 2025. Offertory will be led by the Monday Borns and Legion of Mary. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 7th Sunday in Ordinary Time"
     },
     {
       "details": "Life in the Spirit Seminar starts on Sunday 16th February, 2025. Registration is still ongoing at the church.",
       "title": "Life in the Spirit Seminar"
+    },
+    {
+      "details": "There will be In His Presence next Sunday, 23rd February, 2025 at 6pm. Come with a heart full gratitude and praise.",
+      "title": "In His Presence"
+    },    
+    {
+      "details": "Ash Wednesday falls on 5th March, 2025. There will be evening Mass at 7pm on the day. Parishioners who have their last year's palm branches are encouraged to drop them with the administrator during the week.",
+      "title": "Ash Wednesday"
     },
     {
       "details": "The St Bakhita Marriage School opens on 16th February, 2025. Prospective counselees who wish to have their marriages solemnized in 2025 should please pick up registration forms from the office of the Rector.",
@@ -24,13 +28,13 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "4th week in Ordinary Time, 3rd-8th Feb",
+    "liturgicalWeek": "6th week in Ordinary Time, 16th-23rd Feb",
     "events": [
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "Two masses at 7:00am and 9:30am",
+        "subtitle": "One masses at 7:30am",
         "title": "Sunday Morning Mass"
       },      
       {
