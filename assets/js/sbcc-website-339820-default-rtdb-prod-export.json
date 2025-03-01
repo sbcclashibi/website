@@ -1,25 +1,25 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 6th Sunday in Ordinary Time.",
-      "link": "/commentary/2025/02/15/commentary-6th-sunday-in-ordinary-time-year-c/",
+      "details": "Read the commentary on the readings for the 7th Sunday in Ordinary Time.",
+      "link": "/commentary/2025/02/22/commentary-7th-sunday-in-ordinary-time-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 6th Sunday in Ordinary Time"
+      "title": "Commentary: 7th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 23rd February, 2025. Offertory will be led by the Monday Borns and Legion of Mary. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 7th Sunday in Ordinary Time"
-    },
-    {
-      "details": "Life in the Spirit Seminar starts on Sunday 16th February, 2025. Registration is still ongoing at the church.",
-      "title": "Life in the Spirit Seminar"
+      "details": "There will be TWO masses on Sunday, 2nd March, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Tuesday Borns. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 8th Sunday in Ordinary Time"
     },
     {
       "details": "There will be In His Presence next Sunday, 23rd February, 2025 at 6pm. Come with a heart full gratitude and praise.",
       "title": "In His Presence"
+    },     
+    {
+      "details": "Please be informed that registration of students for the school visitation project is opened.  Parents should submit details with any of the school visitation team members or PYC executives",
+      "title": "School Visitation"
     },    
     {
-      "details": "Ash Wednesday falls on 5th March, 2025. There will be evening Mass at 7pm on the day. Parishioners who have their last year's palm branches are encouraged to drop them with the administrator during the week.",
+      "details": "Ash Wednesday falls on 5th March, 2025. There will be TWO masses at 6am and 7pm on the day. Parishioners who have their last year's palm branches are encouraged to drop them with the administrator during the week.",
       "title": "Ash Wednesday"
     },
     {
@@ -28,13 +28,13 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "6th week in Ordinary Time, 16th-23rd Feb",
+    "liturgicalWeek": "7th week in Ordinary Time, 24th Feb-2nd March",
     "events": [
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "One masses at 7:30am",
+        "subtitle": "Two masses at 7am and 9:30am",
         "title": "Sunday Morning Mass"
       },      
       {
