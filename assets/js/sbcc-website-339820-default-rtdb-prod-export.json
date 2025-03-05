@@ -1,22 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 7th Sunday in Ordinary Time.",
-      "link": "/commentary/2025/02/22/commentary-7th-sunday-in-ordinary-time-year-c/",
-      "linkText": "Read Now",
-      "title": "Commentary: 7th Sunday in Ordinary Time"
+      "details": "Listen to the Homily for the 8th Sunday in Ordinary Time by Rev. Fr. James Gyekye Danso",
+      "link": "https://open.spotify.com/episode/1YtwSQD4si7K7LMBIBcgEQ?si=sc34kiwGSxypzt185-1R7Q",
+      "linkText": "Listen Now 🎧",
+      "title": "Homily: 8th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 2nd March, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Tuesday Borns. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 8th Sunday in Ordinary Time"
-    },
-    {
-      "details": "There will be In His Presence next Sunday, 23rd February, 2025 at 6pm. Come with a heart full gratitude and praise.",
-      "title": "In His Presence"
-    },     
+      "details": "There will be TWO masses on Sunday, 9th March, 2025. Offertory will be led by the Wednesday borns and the Christian Sons and Daughters Association respectively. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 1st Sunday of Lent"
+    },  
     {
       "details": "Please be informed that registration of students for the school visitation project is opened.  Parents should submit details with any of the school visitation team members or PYC executives",
       "title": "School Visitation"
+    },      
+    {
+      "details": "Registration for our Lenten pilgrimage is ongoing. The place of this year's pilgrimage is Our Lady of Lourdes Grotto, Osonson in the Eastern Region. The date for the pilgrimage is Saturday, 29th March, 2025. Every participant is to pay a minimum commitment fee of 50 cedis.",
+      "title": "Lenten Pilgrimage"
     },    
     {
       "details": "Ash Wednesday falls on 5th March, 2025. There will be TWO masses at 6am and 7pm on the day. Parishioners who have their last year's palm branches are encouraged to drop them with the administrator during the week.",
@@ -28,8 +28,14 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "7th week in Ordinary Time, 24th Feb-2nd March",
+    "liturgicalWeek": "8th week in Ordinary Time, 3rd-9th March",
     "events": [
+      {
+        "details": "Date: 29th March, 2025 | Venue: Our Lady of Lourdes Grotto, Osonson",
+        "rate": "50 cedis",
+        "subtitle": "",
+        "title": "Lenten Pilgrimage"
+      }
     ],
     "masses": [
       {
