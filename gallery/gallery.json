@@ -1,32 +1,44 @@
 [
     {
-        "src": "/assets/img/gallery/life-6.jpg",
-        "title": "School Visitation",
-        "subTitle": "CYC School Visitation to Kumasi",
-        "externalLink": ""
+        "src": "/assets/img/gallery/life-1.jpg",
+        "title": "BYF 2024 Family Day Out",
+        "subTitle": "Youth trip to Kwaminga Park",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.597416779312661&type=3"
     },
     {
         "src": "/assets/img/gallery/life-2.jpg",
-        "title": "Holy Saturday Easter Vigil",
-        "subTitle": "Holy Week at Bakhita, 2023",
-        "externalLink": "https://www.facebook.com/media/set/?set=a.250513750669634&type=3"
+        "title": "First Mass at Klagon",
+        "subTitle": "First Mass at St Bakhita's Outstation at Klagon",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.596165856104420&type=3"
     },
     {
         "src": "/assets/img/gallery/life-5.jpg",
-        "title": "Youth Day Out",
-        "subTitle": "Bakhita Youth Day Out 2022",
-        "externalLink": "https://www.facebook.com/media/set/?set=a.1129375294402630&type=3"
-    },
-    {
-        "src": "/assets/img/gallery/life-1.jpg",
-        "title": "Lenten Retreat 2023",
-        "subTitle": "March 2023, Agbenoxoe in the Volta Region",
-        "externalLink": "https://www.facebook.com/media/set/?set=a.238624311858578&type=3"
+        "title": "Priestly Ordination",
+        "subTitle": "Ordination for the Accra Archdiocese",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.528156806238659&type=3"
     },
     {
         "src": "/assets/img/gallery/life-3.jpg",
-        "title": "",
-        "subTitle": "",
-        "externalLink": ""
+        "title": "20th Anniversary Climax",
+        "subTitle": "Climax of the 20th Anniversary Celebrations",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.647110454343293&type=3"
+    },
+    {
+        "src": "/assets/img/gallery/life-7.jpg",
+        "title": "Career Day",
+        "subTitle": "Bakhita Career & Vocations Day Celebration",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.553309567056716&type=3"
+    },
+    {
+        "src": "/assets/img/gallery/life-4.jpg",
+        "title": "Bakhita Praise",
+        "subTitle": "Bakhita Praise 2024",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.553374930383513&type=3"
+    },
+    {
+        "src": "/assets/img/gallery/life-6.jpg",
+        "title": "Salve Regina",
+        "subTitle": "Walk with Jesus & Mary and Salve Regina",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.574128024974870&type=3"
     }
 ]
