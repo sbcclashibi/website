@@ -1,14 +1,14 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 1st Sunday of Lent.",
-      "link": "/commentary/2025/03/08/commentary-1st-sunday-of-lent-year-c/",
-      "linkText": "Read Now",
-      "title": "Commentary: 1st Sunday of Lent"
+      "details": "Listen to the Homily for the 1st Sunday of Lent by Rev Fr Cudjoe.",
+      "link": "https://open.spotify.com/episode/2yxgbFcYmy8YbetRLKSxZL?si=SbrU9D0BQk-BEaqS5hqxqg",
+      "linkText": "Listen Now 🎧",
+      "title": "Homily: 1st Sunday of Lent"
     },
     {
-      "details": "There will be TWO masses on Sunday, 9th March, 2025. Offertory will be led by the Wednesday borns and the Christian Sons and Daughters Association respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 1st Sunday of Lent"
+      "details": "There will be TWO masses on Sunday, 16th March, 2025. Offertory will be led by the Christian Mothers Association and the Thursday borns respectively. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 2nd Sunday of Lent"
     },  
     {
       "details": "Please be informed that registration of students for the school visitation project is opened.  Parents should submit details with any of the school visitation team members or PYC executives",
@@ -24,7 +24,7 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "8th week in Ordinary Time, 3rd-9th March",
+    "liturgicalWeek": "1st week of Lent, 10th-16th March",
     "events": [
       {
         "details": "Date: 29th March, 2025 | Venue: Our Lady of Lourdes Grotto, Osonson",
@@ -41,13 +41,8 @@
       },      
       {
         "details": "",
-        "subtitle": "Monday, Wednesday to Friday, 6am",
+        "subtitle": "Monday to Friday, 6am",
         "title": "Weekday Morning Mass"
-      },
-      {
-        "details": "",
-        "subtitle": "Tuesday, 7pm",
-        "title": "Weekday Evening Mass"
       },
       {
         "details": "Mass begins after 6:00am rosary prayers.",
