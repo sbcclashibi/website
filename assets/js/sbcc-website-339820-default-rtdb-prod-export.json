@@ -1,19 +1,23 @@
 {
   "announcements": [
     {
-      "details": "Listen to the Homily for the 1st Sunday of Lent by Rev Fr Cudjoe.",
-      "link": "https://open.spotify.com/episode/2yxgbFcYmy8YbetRLKSxZL?si=SbrU9D0BQk-BEaqS5hqxqg",
-      "linkText": "Listen Now 🎧",
-      "title": "Homily: 1st Sunday of Lent"
+      "details": "Read the commentary on the readings for the 2nd Sunday of Lent.",
+      "link": "/commentary/2025/03/15/commentary-2nd-sunday-of-lent-year-c/",
+      "linkText": "Read Now",
+      "title": "Commentary: 2nd Sunday of Lent"
     },
     {
-      "details": "There will be TWO masses on Sunday, 16th March, 2025. Offertory will be led by the Christian Mothers Association and the Thursday borns respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 2nd Sunday of Lent"
+      "details": "There will be ONE mass on Sunday, 23rd March, 2025. Offertory will be led by the Friday Borns and Knights  of St. John International and Ladies Auxiliary. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 3rd Sunday of Lent"
     },  
     {
-      "details": "Please be informed that registration of students for the school visitation project is opened.  Parents should submit details with any of the school visitation team members or PYC executives",
-      "title": "School Visitation"
+      "details": "Classes for adults take place every sunday after 1st mass, and for children, every Saturday at 3pm. Kindly see Bro Dominic Mensah or Emmanuel Hinson for more details.",
+      "title": "Catechism Classes"
     },      
+    {
+      "details": "Time with our Priests comes off on 30th March after mass. Questions, suggestions and concerns can be placed in a labeled box at the entrances of the church.",
+      "title": "Time with our Priests"
+    },    
     {
       "details": "Registration for our Lenten pilgrimage is ongoing. The place of this year's pilgrimage is Our Lady of Lourdes Grotto, Osonson in the Eastern Region. The date for the pilgrimage is Saturday, 29th March, 2025. Every participant is to pay a minimum commitment fee of 50 cedis.",
       "title": "Lenten Pilgrimage"
@@ -24,7 +28,7 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "1st week of Lent, 10th-16th March",
+    "liturgicalWeek": "2nd week of Lent, 16th-23rd March",
     "events": [
       {
         "details": "Date: 29th March, 2025 | Venue: Our Lady of Lourdes Grotto, Osonson",
@@ -41,8 +45,18 @@
       },      
       {
         "details": "",
-        "subtitle": "Monday to Friday, 6am",
+        "subtitle": "Monday, Tuesday, Thursday & Friday, 6am",
         "title": "Weekday Morning Mass"
+      },      
+      {
+        "details": "",
+        "subtitle": "Wednesday at 7pm",
+        "title": "Solemnity of St. Joseph Husband of the Blessed Virgin Mary"
+      },     
+      {
+        "details": "Stations of the Cross begins after the evening prayers",
+        "subtitle": "Friday at 6pm",
+        "title": "Stations of the Cross"
       },
       {
         "details": "Mass begins after 6:00am rosary prayers.",
@@ -60,6 +74,11 @@
         "details": "",
         "subtitle": "The St Bakhita Marriage School opens on 16th February, 2025.",
         "title": "Marriage School"
+      },
+      {
+        "details": "",
+        "subtitle": "Adults: Sunday after first mass; Children: Saturdays at 3pm",
+        "title": "Catechism Classes"
       },
       {
         "details": "",
