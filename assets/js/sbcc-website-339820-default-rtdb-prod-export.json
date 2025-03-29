@@ -1,14 +1,18 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 2nd Sunday of Lent.",
-      "link": "/commentary/2025/03/15/commentary-2nd-sunday-of-lent-year-c/",
-      "linkText": "Read Now",
-      "title": "Commentary: 2nd Sunday of Lent"
+      "details": "Listen to the homily delivered on the 3rd Sunday of Lent by Most Rev. John K. Louis, Auxiliary Bishop, Catholic Archdiocese of Accra.",
+      "link": "https://open.spotify.com/episode/6KEcngch4tjmKOsiw3umMx?si=B1huwtbiQiWqU4ElNc3euQ",
+      "linkText": "Listen Now 🎧",
+      "title": "Homily: 3rd Sunday of Lent"
     },
     {
-      "details": "There will be ONE mass on Sunday, 23rd March, 2025. Offertory will be led by the Friday Borns and Knights  of St. John International and Ladies Auxiliary. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 3rd Sunday of Lent"
+      "details": "There will be ONE mass on Sunday, 30th March, 2025. Offertory will be led by St. Theresa of the Child Jesus and Saturday borns. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 4th Sunday of Lent"
+    },      
+    {
+      "details": "As part of the Archdiocesan 24hrs with the Lord, there shall be a community 24hr adoration on Friday 28th to Saturday 29th March. The Adoration will be climax on Saturday at 5:00am.",
+      "title": "Adoration"
     },  
     {
       "details": "Classes for adults take place every sunday after 1st mass, and for children, every Saturday at 3pm. Kindly see Bro Dominic Mensah or Emmanuel Hinson for more details.",
@@ -28,7 +32,7 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "2nd week of Lent, 16th-23rd March",
+    "liturgicalWeek": "3rd week of Lent, 24th-30th March",
     "events": [
       {
         "details": "Date: 29th March, 2025 | Venue: Our Lady of Lourdes Grotto, Osonson",
@@ -45,13 +49,13 @@
       },      
       {
         "details": "",
-        "subtitle": "Monday, Tuesday, Thursday & Friday, 6am",
+        "subtitle": "Monday, Wednesday, Thursday & Friday, 6am",
         "title": "Weekday Morning Mass"
       },      
       {
         "details": "",
-        "subtitle": "Wednesday at 7pm",
-        "title": "Solemnity of St. Joseph Husband of the Blessed Virgin Mary"
+        "subtitle": "Tuesday at 7pm",
+        "title": "Solemnity of the Annunciation of the Lord"
       },     
       {
         "details": "Stations of the Cross begins after the evening prayers",
