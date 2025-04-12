@@ -7,8 +7,12 @@
       "title": "Commentary: 5th Sunday of Lent"
     },
     {
-      "details": "There will be TWO masses on Sunday, 6th April, 2025. Offertory will be led Sunday borns and Sacred Heart of Jesus Confraternity respectively. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 5th Sunday of Lent"
+      "details": "There will be ONE mass on Sunday, 13th April, 2025. Offertory will be led by the Knights and Ladies of Marshall  and Monday Borns. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: Palm Sunday"
+    },     
+    {
+      "details": "This year's community Stations of the Cross dubbed 'Road to Calvary' is scheduled for Friday, 11th April at 7pm. The theme is “Hope in the Cross: A Story of Faith, Endurance and Miraculous Hope”",
+      "title": "Road to Calvary"
     },     
     {
       "details": "Registration for Easter Sales is ongoing. The date for this year's sale is on Sunday 13th April 2025 which is Palm Sunday. Interested vendors can see the church secretary for more information.",
@@ -20,7 +24,7 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "4th week of Lent, 24th-30th March",
+    "liturgicalWeek": "5th week of Lent, 6th-12th April",
     "events": [
       {
         "details": "Date: 21st April, 2025 | Venue: St Bakhita Catholic Church",
@@ -32,19 +36,14 @@
     "masses": [
       {
         "details": "",
-        "subtitle": "Two masses at 7am and 9:30am",
+        "subtitle": "One mass at 7am",
         "title": "Sunday Morning Mass"
       },      
       {
         "details": "",
         "subtitle": "Monday, Wednesday, Thursday & Friday, 6am",
         "title": "Weekday Morning Mass"
-      },      
-      {
-        "details": "",
-        "subtitle": "Tuesday at 7pm",
-        "title": "Solemnity of the Annunciation of the Lord"
-      },     
+      },          
       {
         "details": "Stations of the Cross begins after the evening prayers",
         "subtitle": "Friday at 6pm",
