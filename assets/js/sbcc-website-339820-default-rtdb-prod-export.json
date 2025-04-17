@@ -1,30 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 5th Sunday of Lent.",
-      "link": "/commentary/2025/04/05/commentary-5th-sunday-of-lent-year-c/",
+      "details": "Read the commentary on the readings for Palm Sunday.",
+      "link": "/commentary/2025/04/12/commentary-passion-sunday-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 5th Sunday of Lent"
+      "title": "Commentary: Palm Sunday"
     },
     {
-      "details": "There will be ONE mass on Sunday, 13th April, 2025. Offertory will be led by the Knights and Ladies of Marshall  and Monday Borns. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: Palm Sunday"
-    },     
-    {
-      "details": "This year's community Stations of the Cross dubbed 'Road to Calvary' is scheduled for Friday, 11th April at 7pm. The theme is “Hope in the Cross: A Story of Faith, Endurance and Miraculous Hope”",
-      "title": "Road to Calvary"
-    },     
-    {
-      "details": "Registration for Easter Sales is ongoing. The date for this year's sale is on Sunday 13th April 2025 which is Palm Sunday. Interested vendors can see the church secretary for more information.",
-      "title": "Easter Sales"
-    }, 
+      "details": "There will be ONE mass on Sunday, 20th April, 2025. Offertory will be led by the Communicants, Tuesday borns and Christian Mothers Association. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: Easter Sunday"
+    },  
     {
       "details": "On Monday, April 21st, 2025, we shall conclude our Easter celebrations with a fun-filled day by celebrating a joint picnic with Epiphany Catholic Church and Corpus Christi. More details will come soon.",
       "title": "Easter Monday Picnic"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "5th week of Lent, 6th-12th April",
+    "liturgicalWeek": "Holy Week, 14th-20th April",
     "events": [
       {
         "details": "Date: 21st April, 2025 | Venue: St Bakhita Catholic Church",
@@ -36,23 +28,28 @@
     "masses": [
       {
         "details": "",
-        "subtitle": "One mass at 7am",
-        "title": "Sunday Morning Mass"
+        "subtitle": "One mass at 7:30am",
+        "title": "Easter Sunday"
       },      
       {
         "details": "",
-        "subtitle": "Monday, Wednesday, Thursday & Friday, 6am",
+        "subtitle": "Monday - Thursday, 6am",
         "title": "Weekday Morning Mass"
-      },          
+      },           
       {
-        "details": "Stations of the Cross begins after the evening prayers",
-        "subtitle": "Friday at 6pm",
-        "title": "Stations of the Cross"
+        "details": "Mass will begin after evening prayers",
+        "subtitle": "Thursday at 7pm",
+        "title": "Holy Thursday"
+      },       
+      {
+        "details": "Stations of the Cross begins at 7am, and Veneration of the Cross at 3pm",
+        "subtitle": "Friday at 7am & 3pm",
+        "title": "Good Friday"
       },
       {
         "details": "Mass begins after 6:00am rosary prayers.",
-        "subtitle": "Every Saturday at 6:30am",
-        "title": "Saturday Morning"
+        "subtitle": "Saturday at 7pm",
+        "title": "Holy Saturday"
       }
     ],
     "sacraments": [
