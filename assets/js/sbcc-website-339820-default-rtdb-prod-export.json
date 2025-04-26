@@ -7,49 +7,49 @@
       "title": "Commentary: Easter Sunday"
     },
     {
-      "details": "There will be ONE mass on Sunday, 20th April, 2025. Offertory will be led by the Communicants, Tuesday borns and Christian Mothers Association. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: Easter Sunday"
+      "details": "There will be ONE mass on Sunday, 27th April, 2025. Offertory will be led by St. Vincent De Paul and Wednesday borns. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: Divine Mercy Sunday"
     },  
     {
       "details": "On Monday, April 21st, 2025, we shall conclude our Easter celebrations with a fun-filled day by celebrating a joint picnic with Epiphany Catholic Church and Corpus Christi. More details will come soon.",
       "title": "Easter Monday Picnic"
+    },  
+    {
+      "details": "The 3-day deanery crusade comes off from Friday, April 25 to Sunday, April 27 here in St. Bakhita. On Friday, the crusade will start at 6pm. Come and surrender your praises and prayers with hope and you shall not be disappointed.",
+      "title": "3-Day Deanery Crusade"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "Holy Week, 14th-20th April",
+    "liturgicalWeek": "1st Week of Easter, 21st-27th April",
     "events": [
       {
-        "details": "Date: 21st April, 2025 | Venue: St Bakhita Catholic Church",
+        "details": "Date: 21st April, 2025 | Venue: Corpus Christi Catholic Church",
         "rate": "",
         "subtitle": "",
         "title": "Easter Monday Picnic"
+      },
+      {
+        "details": "Date: 25th-27th April, 2025 | Venue: St Bakhita Catholic Church",
+        "rate": "",
+        "subtitle": "",
+        "title": "3-Day Deanery Crusade"
       }
     ],
     "masses": [
       {
         "details": "",
         "subtitle": "One mass at 7:30am",
-        "title": "Easter Sunday"
+        "title": "Divine Mercy Sunday"
       },      
       {
-        "details": "",
-        "subtitle": "Monday - Thursday, 6am",
+        "details": "Divine Mercy prayers begin 30 mins before mass",
+        "subtitle": "Monday at 7am, Tuesday - Friday, 6am",
         "title": "Weekday Morning Mass"
-      },           
+      },                 
       {
-        "details": "Mass will begin after evening prayers",
-        "subtitle": "Thursday at 7pm",
-        "title": "Holy Thursday"
-      },       
-      {
-        "details": "Stations of the Cross begins at 7am, and Veneration of the Cross at 3pm",
-        "subtitle": "Friday at 7am & 3pm",
-        "title": "Good Friday"
-      },
-      {
-        "details": "Mass begins after 6:00am rosary prayers.",
-        "subtitle": "Saturday at 7pm",
-        "title": "Holy Saturday"
+        "details": "Divine Mercy prayers begin 30 mins before mass",
+        "subtitle": "Saturday at 6:30am",
+        "title": "Saturday Morning Mass"
       }
     ],
     "sacraments": [

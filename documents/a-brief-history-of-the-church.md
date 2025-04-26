@@ -72,7 +72,6 @@ On November 10, 2004, about nine months after the first mass was held, the first
     </tbody>
 </table><br> 
 
-
 To promote the growth, unity and connectedness of the newly-formed community, the interim Council advocated for programs to be held in the new community, to help set it apart from Corpus Christi. The first Eucharistic Sunday Celebration was held on the first Sunday of Lent in 2005 - February 14, 2005 - with Rev. Fr. Fred Agyeman as the celebrant. There were over 400 faithful in attendance.
 
 The interim Church Council met every Wednesday and Friday evening after Mass in order to prepare for Sunday Mass. This led to the formation of the Day Groups in June, 2005, a concept adopted from the mother church. The Day Group concept still serves as the pivot around which the church organizes all its activities.
