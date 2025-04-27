@@ -98,4 +98,14 @@ Among other milestones, the church is proud to be the first outstation of Corpus
 
 The church, which was hitherto an outstation of Corpus Christi, was elevated to the status of a rectorate on September 4, 2019. This came after a forum with His Grace John Bonaventure Kwofie on Saturday, June 22, 2019, during which a plea was made for the appointment of a dedicated priest for the fast-growing church.
 
-Rev. Fr. Hillary Agbenosi was appointed as the first Rector of the newly established Rectorate, on October 1, 2019. On the 11th of February 2024, St Bakhita Catholic Church was elevated to the status of a parish.
+Rev. Fr. Hillary Agbenosi was appointed as the first Rector of the newly established Rectorate, on October 1, 2019.
+
+#### IV
+
+Since the 2020 COVID-19 pandemic and partial lockdowns that affected Accra, the church has consistently produced content for online consumption, including daily live streams of masses and other church services and events, as well as a podcast of homilies given at the church.
+
+On 19th April 2023, Bishop John Kobina Louis was consecrated as an auxilliary bishop of the Archdiocese of Accra. He took up residence at St Bakhita, while maintaining an office at Corpus Christi Parish. St Bakhita was elevated to a parish on 11th February 2024 in a grand ceremony that was celebrated by His Grace John Bonaventure Kwofie.
+
+On 24th August 2024, 16 deacons of the Archdiocese of Accra were ordained as priests of the Accra Archdiocese at the newly elevated parish. The mass was presided over by His Eminence Cardinal Peter Turkson, chancellor of the Pontifical Academies of Sciences.
+
+On 1st December 2024, the 1st Sunday of Advent, the first mass at St Bakhita Parish's first outstation at Klagon was celebrated by Rev Fr Hillary Agbenosi. The mass was attended by parishioners from St Bakhita and catholic faithful from Klagon and its environs. The church has since been named "Epiphany Catholic Church" by the Archbishop of Accra.

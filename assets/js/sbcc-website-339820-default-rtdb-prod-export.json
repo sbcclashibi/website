@@ -1,49 +1,45 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for Easter Sunday.",
-      "link": "/commentary/2025/04/19/commentary-easter-sunday-year-c/",
+      "details": "Read the commentary on the readings for Divine Mercy Sunday.",
+      "link": "/commentary/2025/04/26/commentary-divine-mercy-sunday-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: Easter Sunday"
+      "title": "Commentary: Divine Mercy Sunday"
     },
     {
-      "details": "There will be ONE mass on Sunday, 27th April, 2025. Offertory will be led by St. Vincent De Paul and Wednesday borns. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: Divine Mercy Sunday"
-    },  
-    {
-      "details": "On Monday, April 21st, 2025, we shall conclude our Easter celebrations with a fun-filled day by celebrating a joint picnic with Epiphany Catholic Church and Corpus Christi. More details will come soon.",
-      "title": "Easter Monday Picnic"
-    },  
+      "details": "There will be TWO masses on Sunday, 4th May, 2025. Offertory will be led by Sacred Heart Confratenity and the Thursday borns. Bidding Prayers will be led by the Lectors.",
+      "title": "Mass Schedule: 3rd Sunday of Easter"
+    },
     {
       "details": "The 3-day deanery crusade comes off from Friday, April 25 to Sunday, April 27 here in St. Bakhita. On Friday, the crusade will start at 6pm. Come and surrender your praises and prayers with hope and you shall not be disappointed.",
       "title": "3-Day Deanery Crusade"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "1st Week of Easter, 21st-27th April",
+    "liturgicalWeek": "2nd Week of Easter, 28th April-4th May",
     "events": [
-      {
-        "details": "Date: 21st April, 2025 | Venue: Corpus Christi Catholic Church",
-        "rate": "",
-        "subtitle": "",
-        "title": "Easter Monday Picnic"
-      },
       {
         "details": "Date: 25th-27th April, 2025 | Venue: St Bakhita Catholic Church",
         "rate": "",
         "subtitle": "",
         "title": "3-Day Deanery Crusade"
+      },
+      {
+        "details": "Date: 25th May, 2025 | Venue: St Bakhita Catholic Church | Time: 5pm",
+        "rate": "GHS 100",
+        "subtitle": "This year's concert features Joshua, Nacee and Ohemaa Mercy.",
+        "title": "Laudamus 2025"
       }
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "One mass at 7:30am",
-        "title": "Divine Mercy Sunday"
+        "subtitle": "1st mass at 7:00am, 2nd mass at 9:30am",
+        "title": "3rd Sunday of Easter"
       },      
       {
-        "details": "Divine Mercy prayers begin 30 mins before mass",
-        "subtitle": "Monday at 7am, Tuesday - Friday, 6am",
+        "details": "",
+        "subtitle": "Monday, Wednesday and Friday, 6am. Thursday at 7am",
         "title": "Weekday Morning Mass"
       },                 
       {
