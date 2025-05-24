@@ -1,18 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 3rd Sunday of Easter.",
-      "link": "/commentary/2025/05/03/commentary-3rd-sunday-of-easter-year-c/",
+      "details": "Read the commentary on the readings for the 5th Sunday of Easter.",
+      "link": "/commentary/2025/05/17/commentary-5th-sunday-of-easter-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 3rd Sunday of Easter"
+      "title": "Commentary: 5th Sunday of Easter"
+    },    
+    {
+      "details": "There will be ONE mass on Sunday, 25th May, 2025. Offertory will be led by Sunday borns and Christian Fathers Association. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 6th Sunday of Easter"
     },
     {
-      "details": "There will be TWO masses on Sunday, 4th May, 2025. Offertory will be led by Sacred Heart Confratenity and the Thursday borns. Bidding Prayers will be led by the Lectors.",
-      "title": "Mass Schedule: 3rd Sunday of Easter"
+      "details": "Laudamus 2025 comes off on the 25th of May, 2025 at St Bakhita Parish. Featuring in this year's concert are Joshua, Nacee and Ohemaa Mercy. Tickets go for 100 cedis, available at the church premises.",
+      "title": "Laudamus 2025"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "2nd Week of Easter, 28th April-4th May",
+    "liturgicalWeek": "5th Week of Easter, 18th-24th May",
     "events": [
       {
         "details": "Date: 25th May, 2025 | Venue: St Bakhita Catholic Church | Time: 5pm",
@@ -24,16 +28,21 @@
     "masses": [
       {
         "details": "",
-        "subtitle": "1st mass at 7:00am, 2nd mass at 9:30am",
-        "title": "3rd Sunday of Easter"
+        "subtitle": "One mass at 7:30am",
+        "title": "6th Sunday of Easter"
       },      
       {
         "details": "",
-        "subtitle": "Monday, Wednesday and Friday, 6am. Thursday at 7am",
+        "subtitle": "Monday, Wednesday to Friday, 6am.",
         "title": "Weekday Morning Mass"
+      },    
+      {
+        "details": "",
+        "subtitle": "Tuesday at 7pm.",
+        "title": "Weekday Evening Mass"
       },                 
       {
-        "details": "Divine Mercy prayers begin 30 mins before mass",
+        "details": "Rosary prayers begin 30 mins before mass",
         "subtitle": "Saturday at 6:30am",
         "title": "Saturday Morning Mass"
       }
