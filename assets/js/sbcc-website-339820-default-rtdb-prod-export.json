@@ -1,46 +1,45 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 5th Sunday of Easter.",
-      "link": "/commentary/2025/05/17/commentary-5th-sunday-of-easter-year-c/",
+      "details": "Read the commentary on the readings for the 7th Sunday of Easter.",
+      "link": "/commentary/2025/05/31/commentary-7th-sunday-of-easter-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 5th Sunday of Easter"
+      "title": "Commentary: 7th Sunday of Easter"
     },    
     {
-      "details": "There will be ONE mass on Sunday, 25th May, 2025. Offertory will be led by Sunday borns and Christian Fathers Association. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 6th Sunday of Easter"
+      "details": "There will be TWO masses on Sunday, 1st June, 2025. Offertory will be led by Monday borns and Sacred Heart of Jesus Confraternity. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 7th Sunday of Easter"
     },
     {
-      "details": "Laudamus 2025 comes off on the 25th of May, 2025 at St Bakhita Parish. Featuring in this year's concert are Joshua, Nacee and Ohemaa Mercy. Tickets go for 100 cedis, available at the church premises.",
-      "title": "Laudamus 2025"
+      "details": "Registration for UCMAS which is a child brain development programme is ongoing. Kindly register your child for a training in concentration, self-confidence and all-round academic proficiency. Contact 0242146843 to register.",
+      "title": "UCMAS Brain Development Programme"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "5th Week of Easter, 18th-24th May",
+    "liturgicalWeek": "6th Week of Easter, 25th May - 1st June",
     "events": [
-      {
-        "details": "Date: 25th May, 2025 | Venue: St Bakhita Catholic Church | Time: 5pm",
-        "rate": "GHS 100",
-        "subtitle": "This year's concert features Joshua, Nacee and Ohemaa Mercy.",
-        "title": "Laudamus 2025"
-      }
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "One mass at 7:30am",
-        "title": "6th Sunday of Easter"
+        "subtitle": "1st mass at 7am, 2nd mass at 9:30am",
+        "title": "7th Sunday of Easter"
       },      
       {
         "details": "",
-        "subtitle": "Monday, Wednesday to Friday, 6am.",
+        "subtitle": "Monday, Wednesday and Friday, 6am.",
         "title": "Weekday Morning Mass"
       },    
       {
         "details": "",
         "subtitle": "Tuesday at 7pm.",
         "title": "Weekday Evening Mass"
-      },                 
+      },    
+      {
+        "details": "",
+        "subtitle": "Thursday at 7pm.",
+        "title": "Solemnity of the Ascension of Our Lord"
+      },                   
       {
         "details": "Rosary prayers begin 30 mins before mass",
         "subtitle": "Saturday at 6:30am",
