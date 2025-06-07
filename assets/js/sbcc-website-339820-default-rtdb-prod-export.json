@@ -1,14 +1,18 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 7th Sunday of Easter.",
-      "link": "/commentary/2025/05/31/commentary-7th-sunday-of-easter-year-c/",
+      "details": "Read the commentary on the readings for Pentecost Sunday.",
+      "link": "/commentary/2025/06/07/commentary-pentecost-sunday-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 7th Sunday of Easter"
-    },    
+      "title": "Commentary: Pentecost Sunday"
+    },  
     {
-      "details": "There will be TWO masses on Sunday, 1st June, 2025. Offertory will be led by Monday borns and Sacred Heart of Jesus Confraternity. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 7th Sunday of Easter"
+      "details": "There will be TWO masses on Sunday, 8th June, 2025. Offertory will be led by the Christian Sons and Daughters and the Tuesday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Pentecost Sunday"
+    },
+    {
+      "details": "There will be the Pentecost Upper Room experience prayer meeting held here at St. Bakhita at 1:30pm under the theme: You shall receive power when the Holy Spirit comes upon you, (Acts 1:8). Come and be filled with the Holy Spirit",
+      "title": "Pentecost Upper Room Experience"
     },
     {
       "details": "Registration for UCMAS which is a child brain development programme is ongoing. Kindly register your child for a training in concentration, self-confidence and all-round academic proficiency. Contact 0242146843 to register.",
@@ -16,30 +20,25 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "6th Week of Easter, 25th May - 1st June",
+    "liturgicalWeek": "7th Week of Easter, 1st - 8th June",
     "events": [
     ],
     "masses": [
       {
         "details": "",
         "subtitle": "1st mass at 7am, 2nd mass at 9:30am",
-        "title": "7th Sunday of Easter"
+        "title": "Pentecost Sunday"
       },      
       {
         "details": "",
-        "subtitle": "Monday, Wednesday and Friday, 6am.",
+        "subtitle": "Monday, Wednesday and Thursday, 6am. Friday, 7am.",
         "title": "Weekday Morning Mass"
       },    
       {
         "details": "",
         "subtitle": "Tuesday at 7pm.",
         "title": "Weekday Evening Mass"
-      },    
-      {
-        "details": "",
-        "subtitle": "Thursday at 7pm.",
-        "title": "Solemnity of the Ascension of Our Lord"
-      },                   
+      },                 
       {
         "details": "Rosary prayers begin 30 mins before mass",
         "subtitle": "Saturday at 6:30am",
