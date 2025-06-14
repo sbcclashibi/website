@@ -1,18 +1,18 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for Pentecost Sunday.",
-      "link": "/commentary/2025/06/07/commentary-pentecost-sunday-year-c/",
-      "linkText": "Read Now",
-      "title": "Commentary: Pentecost Sunday"
+      "details": "Listen to the Homily for the Pentecost Sunday by Rev. Fr. James K. Danso.",
+      "link": "https://open.spotify.com/episode/5vsFMvpqXl1KOqxMU31OFH?si=08a40d49a6784c3",
+      "linkText": "🎧 Listen Now",
+      "title": "Homily: Pentecost Sunday"
     },  
     {
-      "details": "There will be TWO masses on Sunday, 8th June, 2025. Offertory will be led by the Christian Sons and Daughters and the Tuesday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Pentecost Sunday"
+      "details": "There will be ONE mass on Sunday, 15th June, 2025. Offertory will be led by the Wednesday borns and the Knights and Ladies of Marshall. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: The Solemnity of the Most Holy Trinity"
     },
     {
-      "details": "There will be the Pentecost Upper Room experience prayer meeting held here at St. Bakhita at 1:30pm under the theme: You shall receive power when the Holy Spirit comes upon you, (Acts 1:8). Come and be filled with the Holy Spirit",
-      "title": "Pentecost Upper Room Experience"
+      "details": "The Archdiocesan Youth Summit Pilgrimage to Yamoussoukro, Ivory Coast comes off from the 31st of July to 4th August 2025 at a cost of GH￠2,400 per person. Reach out to the church administration for registration.",
+      "title": "Archdiocesan Youth Summit Pilgrimage"
     },
     {
       "details": "Registration for UCMAS which is a child brain development programme is ongoing. Kindly register your child for a training in concentration, self-confidence and all-round academic proficiency. Contact 0242146843 to register.",
@@ -20,18 +20,18 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "7th Week of Easter, 1st - 8th June",
+    "liturgicalWeek": "10th Week in Ordinary Time, 9th - 15th June",
     "events": [
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "1st mass at 7am, 2nd mass at 9:30am",
-        "title": "Pentecost Sunday"
+        "subtitle": "One mass at 7:30am",
+        "title": "The Solemnity of the Most Holy Trinity"
       },      
       {
         "details": "",
-        "subtitle": "Monday, Wednesday and Thursday, 6am. Friday, 7am.",
+        "subtitle": "Monday, Wednesday - Friday, 6am.",
         "title": "Weekday Morning Mass"
       },    
       {
