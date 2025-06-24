@@ -5,10 +5,14 @@
       "link": "https://open.spotify.com/episode/5vsFMvpqXl1KOqxMU31OFH?si=08a40d49a6784c3",
       "linkText": "🎧 Listen Now",
       "title": "Homily: Pentecost Sunday"
-    },  
+    },
     {
-      "details": "There will be ONE mass on Sunday, 15th June, 2025. Offertory will be led by the Wednesday borns and the Knights and Ladies of Marshall. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: The Solemnity of the Most Holy Trinity"
+      "details": "There will be ONE mass on Sunday, 29th June, 2025. Offertory will be led by the Christian Mothers Associatio and Friday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Solemnity of Saints Peter and Paul, Apostles"
+    },    
+    {
+      "details": "St. Bakhita is calling all her children to a 3-day Revival. From Wednesday, 25th to Friday 27th June, 2025 here in the church at 7pm each night.",
+      "title": "Revival"
     },
     {
       "details": "The Archdiocesan Youth Summit Pilgrimage to Yamoussoukro, Ivory Coast comes off from the 31st of July to 4th August 2025 at a cost of GH￠2,400 per person. Reach out to the church administration for registration.",
@@ -20,25 +24,23 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "10th Week in Ordinary Time, 9th - 15th June",
-    "events": [
-    ],
+    "liturgicalWeek": "12th Week in Ordinary Time, 23rd - 29th June",
     "masses": [
       {
         "details": "",
         "subtitle": "One mass at 7:30am",
-        "title": "The Solemnity of the Most Holy Trinity"
-      },      
+        "title": "The Solemnity of Saints Peter and Paul, Apostles"
+      },
       {
         "details": "",
         "subtitle": "Monday, Wednesday - Friday, 6am.",
         "title": "Weekday Morning Mass"
-      },    
+      },
       {
         "details": "",
         "subtitle": "Tuesday at 7pm.",
         "title": "Weekday Evening Mass"
-      },                 
+      },
       {
         "details": "Rosary prayers begin 30 mins before mass",
         "subtitle": "Saturday at 6:30am",
