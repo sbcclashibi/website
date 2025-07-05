@@ -1,18 +1,18 @@
 {
   "announcements": [
     {
-      "details": "Listen to the Homily for the Pentecost Sunday by Rev. Fr. James K. Danso.",
-      "link": "https://open.spotify.com/episode/5vsFMvpqXl1KOqxMU31OFH?si=08a40d49a6784c3",
-      "linkText": "🎧 Listen Now",
-      "title": "Homily: Pentecost Sunday"
+      "details": "Read the commentary on the readings for the 14th Sunday in Ordinary Time.",
+      "link": "/commentary/2025/07/05/commentary-14th-sunday-in-ordinary-time-year-c/",
+      "linkText": "Read Now",
+      "title": "Commentary: 14th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 29th June, 2025. Offertory will be led by the Christian Mothers Associatio and Friday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Solemnity of Saints Peter and Paul, Apostles"
+      "details": "There will be TWO masses on Sunday, 6th July, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and Sunday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 14th Sunday in Ordinary Time"
     },    
     {
-      "details": "St. Bakhita is calling all her children to a 3-day Revival. From Wednesday, 25th to Friday 27th June, 2025 here in the church at 7pm each night.",
-      "title": "Revival"
+      "details": "The St Bakhita marriage school will reopen on Sunday, 3rd august, 2025. Prospective counselees who wish to have their marriages solemnized in 2026 should pick up registration forms from the office of the parish priest.",
+      "title": "Marriage School"
     },
     {
       "details": "The Archdiocesan Youth Summit Pilgrimage to Yamoussoukro, Ivory Coast comes off from the 31st of July to 4th August 2025 at a cost of GH￠2,400 per person. Reach out to the church administration for registration.",
@@ -24,12 +24,12 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "12th Week in Ordinary Time, 23rd - 29th June",
+    "liturgicalWeek": "13th Week in Ordinary Time, 23rd - 29th June",
     "masses": [
       {
         "details": "",
         "subtitle": "One mass at 7:30am",
-        "title": "The Solemnity of Saints Peter and Paul, Apostles"
+        "title": "14th Sunday in Ordinary Time"
       },
       {
         "details": "",
@@ -55,7 +55,7 @@
       },
       {
         "details": "",
-        "subtitle": "The St Bakhita Marriage School opens on 16th February, 2025.",
+        "subtitle": "The St Bakhita Marriage School opens on 3rd August, 2025.",
         "title": "Marriage School"
       },
       {
