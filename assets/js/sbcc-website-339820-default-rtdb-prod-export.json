@@ -7,16 +7,20 @@
       "title": "Homily: 17th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 3rd August, 2025. Offertory will be led by the Thursday borns and Sacred Heart of Jesus Confraternity. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 18th Sunday in Ordinary Time"
+      "details": "There will be TWO masses on Sunday, 10th August, 2025. Offertory will be led by the Knights and ladies of Marshall and Friday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 19th Sunday in Ordinary Time"
+    },   
+    {
+      "details": "Wednesday 6th August is the Feast of the Transfiguration of the Lord. Mass will be in the evening at 7pm.",
+      "title": "Feast of the Transfiguarion of the Lord"
     },    
     {
-      "details": "The St Bakhita marriage school will reopen on Sunday, 3rd august, 2025. Prospective counselees who wish to have their marriages solemnized in 2026 should pick up registration forms from the office of the parish priest.",
+      "details": "The re-opening date for the St Bakhita marriage school has been postponed. A new date will be announced in due course.",
       "title": "Marriage School"
-    },
+    },    
     {
-      "details": "The Archdiocesan Youth Summit Pilgrimage to Yamoussoukro, Ivory Coast comes off from the 31st of July to 4th August 2025 at a cost of GH￠2,400 per person. Reach out to the church administration for registration.",
-      "title": "Archdiocesan Youth Summit Pilgrimage"
+      "details": "The Novena prayers at the Parish level will begin from Wednesday 6th August - Friday 8th August as well as on Sunday 10th August 2025. Prayers from Wednesday to Friday will begin at 6:30pm.",
+      "title": "Deanery Assumption Novena"
     },
     {
       "details": "Registration for UCMAS which is a child brain development programme is ongoing. Kindly register your child for a training in concentration, self-confidence and all-round academic proficiency. Contact 0242146843 to register.",
@@ -24,21 +28,21 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "17th Week in Ordinary Time, 28th July - 3rd August",
+    "liturgicalWeek": "18th Week in Ordinary Time, 4th - 10th August",
     "masses": [
       {
         "details": "",
         "subtitle": "Two masses at 7:00am",
-        "title": "18th Sunday in Ordinary Time"
+        "title": "19th Sunday in Ordinary Time"
       },
       {
         "details": "",
-        "subtitle": "Monday, Wednesday - Friday, 6am.",
+        "subtitle": "Monday 6am.",
         "title": "Weekday Morning Mass"
       },
       {
         "details": "",
-        "subtitle": "Tuesday at 7pm.",
+        "subtitle": "Tuesday - Friday at 7pm.",
         "title": "Weekday Evening Mass"
       },
       {
