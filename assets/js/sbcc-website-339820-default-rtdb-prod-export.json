@@ -1,26 +1,18 @@
 {
   "announcements": [
     {
-      "details": "Listen to the homily for the 17th Sunday in Ordinary Time by Most Rev John Louis",
-      "link": "https://open.spotify.com/episode/5RgbGR0rVMYufJLnqk5lme?si=e52b418f2a434cc4",
-      "linkText": "Listen Now 🎧",
-      "title": "Homily: 17th Sunday in Ordinary Time"
+      "details": "Read the commentary on the readings for the 20th Sunday in Ordinary Time.",
+      "link": "/commentary/2025/08/16/commentary-20th-sunday-in-ordinary-time-year-c/",
+      "linkText": "Read Now",
+      "title": "Commentary: 20th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 10th August, 2025. Offertory will be led by the Knights and ladies of Marshall and Friday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 19th Sunday in Ordinary Time"
-    },   
-    {
-      "details": "Wednesday 6th August is the Feast of the Transfiguration of the Lord. Mass will be in the evening at 7pm.",
-      "title": "Feast of the Transfiguarion of the Lord"
-    },    
+      "details": "There will be TWO masses on Sunday, 17th August, 2025. Offertory will be led by Saturday borns and the Christian Mothers Association respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 20th Sunday in Ordinary Time"
+    },  
     {
       "details": "The re-opening date for the St Bakhita marriage school has been postponed. A new date will be announced in due course.",
       "title": "Marriage School"
-    },    
-    {
-      "details": "The Novena prayers at the Parish level will begin from Wednesday 6th August - Friday 8th August as well as on Sunday 10th August 2025. Prayers from Wednesday to Friday will begin at 6:30pm.",
-      "title": "Deanery Assumption Novena"
     },
     {
       "details": "Registration for UCMAS which is a child brain development programme is ongoing. Kindly register your child for a training in concentration, self-confidence and all-round academic proficiency. Contact 0242146843 to register.",
@@ -28,21 +20,21 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "18th Week in Ordinary Time, 4th - 10th August",
+    "liturgicalWeek": "19th Week in Ordinary Time, 11th - 17th August",
     "masses": [
       {
         "details": "",
         "subtitle": "Two masses at 7:00am",
-        "title": "19th Sunday in Ordinary Time"
+        "title": "20th Sunday in Ordinary Time"
       },
       {
         "details": "",
-        "subtitle": "Monday 6am.",
+        "subtitle": "Monday, Wednesday - Friday at 6am",
         "title": "Weekday Morning Mass"
       },
       {
         "details": "",
-        "subtitle": "Tuesday - Friday at 7pm.",
+        "subtitle": "Tuesday 7pm.",
         "title": "Weekday Evening Mass"
       },
       {
@@ -59,7 +51,7 @@
       },
       {
         "details": "",
-        "subtitle": "The St Bakhita Marriage School opens on 3rd August, 2025.",
+        "subtitle": "The re-opening of the St Bakhita Marriage School has been postponed until further notice.",
         "title": "Marriage School"
       },
       {
