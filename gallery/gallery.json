@@ -1,9 +1,21 @@
 [
     {
         "src": "/assets/img/gallery/life-1.jpg",
-        "title": "BYF 2024 Family Day Out",
-        "subTitle": "Youth trip to Kwaminga Park",
-        "externalLink": "https://web.facebook.com/media/set/?set=a.597416779312661&type=3"
+        "title": "Holy Saturday",
+        "subTitle": "Easter Vigil Mass, 2025",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.712399557814382&type=3"
+    },
+    {
+        "src": "/assets/img/gallery/life-6.jpg",
+        "title": "World Youth Day",
+        "subTitle": "Reception of the World Youth Day cross",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.758432336544437&type=3"
+    },
+    {
+        "src": "/assets/img/gallery/life-4.jpg",
+        "title": "Laudamus",
+        "subTitle": "Laudamus 2025, in support of the Legacy of Hope project",
+        "externalLink": "https://web.facebook.com/media/set/?set=a.723737510013920&type=3"
     },
     {
         "src": "/assets/img/gallery/life-2.jpg",
@@ -28,17 +40,5 @@
         "title": "Career Day",
         "subTitle": "Bakhita Career & Vocations Day Celebration",
         "externalLink": "https://web.facebook.com/media/set/?set=a.553309567056716&type=3"
-    },
-    {
-        "src": "/assets/img/gallery/life-4.jpg",
-        "title": "Bakhita Praise",
-        "subTitle": "Bakhita Praise 2024",
-        "externalLink": "https://web.facebook.com/media/set/?set=a.553374930383513&type=3"
-    },
-    {
-        "src": "/assets/img/gallery/life-6.jpg",
-        "title": "Salve Regina",
-        "subTitle": "Walk with Jesus & Mary and Salve Regina",
-        "externalLink": "https://web.facebook.com/media/set/?set=a.574128024974870&type=3"
     }
 ]

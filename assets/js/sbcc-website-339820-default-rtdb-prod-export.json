@@ -7,9 +7,13 @@
       "title": "Commentary: 20th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 17th August, 2025. Offertory will be led by Saturday borns and the Christian Mothers Association respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 20th Sunday in Ordinary Time"
+      "details": "There will be ONE mass on Sunday, 24th August, 2025. Offertory will be led by the Christian Fathers association and the Sunday born. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 21st Sunday in Ordinary Time"
     },  
+    {
+      "details": "This year's Bakhita Praise comes off on the 31st of August 2025 at the church premises.",
+      "title": "Bakhita Praise, 2025"
+    }, 
     {
       "details": "Forms for the St Bakhita marriage school are still available. Prospective counselees who wish to have their marriages solemnized in 2026 should pick up registration forms from the office of the parish priest. Counselees who have already picked forms are encouraged to submit them as soon as possible.",
       "title": "Marriage School"
@@ -20,12 +24,12 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "19th Week in Ordinary Time, 11th - 17th August",
+    "liturgicalWeek": "20th Week in Ordinary Time, 18th - 24th August",
     "masses": [
       {
         "details": "",
-        "subtitle": "Two masses at 7:00am",
-        "title": "20th Sunday in Ordinary Time"
+        "subtitle": "One mass at 7:30am",
+        "title": "21st Sunday in Ordinary Time"
       },
       {
         "details": "",
@@ -41,6 +45,14 @@
         "details": "Rosary prayers begin 30 mins before mass",
         "subtitle": "Saturday at 6:30am",
         "title": "Saturday Morning Mass"
+      }
+    ],
+    "events": [
+      {
+        "details": "Date: 31st August, 2025 | Time: 4:00pm | Venue: Church premises",
+        "rate": "Free",
+        "subtitle": "Bakhita Praise is a choral concert led by the church choir and other music ministries",
+        "title": "Bakhita Praise"
       }
     ],
     "sacraments": [
