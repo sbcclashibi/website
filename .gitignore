@@ -4,4 +4,3 @@
 *.cache
 *.log
 _site/
-Gemfile.lock
