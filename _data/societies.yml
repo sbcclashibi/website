@@ -1,0 +1,50 @@
+- name: "Christian Mothers Association"
+  logo: "cma.png"
+  about: "The CMA is committed to the empowerment of women, poverty reduction and enhancement of dynamic Christian values among family members."
+  colour: "#f4e1c9"
+
+- name: "COSRA"
+  logo: "cosra.png"
+  about: "The Catholic Organization for Social and Religious Advancement is an adult youth movement  of the Catholic Church in Ghana."
+  colour: "#b9e4ef"
+
+- name: "Christian Fathers Association"
+  logo: ""
+  about: "The CDSA is the Male wing of Christian Mothers and Fathers Association."
+  colour: "#f4fc88"
+
+- name: "Legion of Mary"
+  logo: "lom.jpg"
+  about: "Legion of Mary is a lay apostolate association of Catholics who serve the Church and their neighbour on a voluntary basis."
+  colour: "#b6a8b8"
+
+- name: "St Theresa of the Child Jesus"
+  logo: ""
+  about: "The Society is a devotional group that aims to follow in the footprints of the St. Theresa of the child Jesus."
+  colour: "#e9857e"
+
+- name: "Sacred Heart Confraternity"
+  logo: ""
+  about: "The Sacred Heart Confraternity is a community devoted to the Sacred Heart of Jesus."
+  colour: "#f4e1c9"
+
+- name: "Christian Sons & Daughters Association"
+  logo: ""
+  about: "The CDSA is the Youth wing of Christian Mothers and Fathers Association."
+  colour: "#84a0e2"
+
+- name: "Knights of St John International"
+  logo: "ksji.png"
+  about: "The KSJI aims to create and foster a feeling of fraternity and fellowship among its members and to promote the welfare of the Roman Catholic Religion"
+  colour: "#7af4bf"
+
+- name: "Society of St Vincent de Paul"
+  logo: ""
+  about: "The Society is an international voluntary organization in the Catholic Church dedicated to the sanctification of its members by personal service of the poor."
+  colour: "#f6ad71"
+
+- name: "Knights of Marshall"
+  logo: "km.png"
+  about: "The Noble Order of the Knights of Marshall aims at bringing Catholic men (and women) together in the practice of Unity, Charity, Fraternity and Service."
+  colour: "#e9857e"
+

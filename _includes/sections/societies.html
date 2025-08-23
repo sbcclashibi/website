@@ -1,0 +1,38 @@
+     <!-- ======= Our Clients Section ======= -->
+     <!-- 
+      Christian Fathers
+      CMA
+      CSDA
+      LOM
+      SH
+      ST
+      COSRA
+      KSJI
+      Marshall
+      VincentdP
+      -->
+      <section id="clients" class="clients">
+        <div class="container">
+          
+          <div class="section-title">
+            <h2>Groups &amp; Societies</h2>
+            <p class="d-none">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          </div>
+          
+          <div class="clients-slider swiper">
+            <div class="swiper-wrapper align-items-center">
+              {% for s in site.data.societies %}
+                <div class="swiper-slide" style="background-color: {{s.colour}};">
+                  <div>
+                    <img src="assets/img/societies/{{s.logo}}" class="img-fluid d-none" alt="">
+                    <h4 class="align-items-center">{{ s.name }}</h4>
+                    <p>{{ s.about }}</p>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+            <div class="swiper-pagination"></div>
+          </div>
+          
+        </div>
+      </section><!-- End Our Clients Section -->
