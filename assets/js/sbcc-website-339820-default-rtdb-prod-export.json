@@ -1,19 +1,15 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 21st Sunday in Ordinary Time.",
-      "link": "/commentary/2025/08/23/commentary-21st-sunday-in-ordinary-time-year-c/",
+      "details": "Read the commentary on the readings for the 23rd Sunday in Ordinary Time.",
+      "link": "/commentary/2025/09/06/commentary-23rd-sunday-in-ordinary-time-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 21st Sunday in Ordinary Time"
+      "title": "Commentary: 23rd Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 31st August, 2025. Offertory will be led by the Monday borns and Knights of St John International. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 22nd Sunday in Ordinary Time"
-    },  
-    {
-      "details": "This year's Bakhita Praise comes off on the 31st of August 2025 at the church premises.",
-      "title": "Bakhita Praise, 2025"
-    }, 
+      "details": "There will be TWO masses on Sunday, 7th September, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Tuesday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 23rd Sunday in Ordinary Time"
+    },
     {
       "details": "Forms for the St Bakhita marriage school are still available. Prospective counselees who wish to have their marriages solemnized in 2026 should pick up registration forms from the office of the parish priest. Counselees who have already picked forms are encouraged to submit them as soon as possible.",
       "title": "Marriage School"
@@ -24,12 +20,12 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "21st Week in Ordinary Time, 25th - 31st August",
+    "liturgicalWeek": "22nd Week in Ordinary Time, 1st - 7th September",
     "masses": [
       {
         "details": "",
-        "subtitle": "One mass at 7:30am",
-        "title": "22nd Sunday in Ordinary Time"
+        "subtitle": "Two masses at 7am & 9:30am",
+        "title": "23rd Sunday in Ordinary Time"
       },
       {
         "details": "",
@@ -48,12 +44,6 @@
       }
     ],
     "events": [
-      {
-        "details": "Date: 31st August, 2025 | Time: 4:00pm | Venue: Church premises",
-        "rate": "Free",
-        "subtitle": "Bakhita Praise is a choral concert led by the church choir and other music ministries",
-        "title": "Bakhita Praise"
-      }
     ],
     "sacraments": [
       {
