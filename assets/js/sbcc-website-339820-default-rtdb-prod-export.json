@@ -1,14 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 23rd Sunday in Ordinary Time.",
-      "link": "/commentary/2025/09/06/commentary-23rd-sunday-in-ordinary-time-year-c/",
+      "details": "Read the commentary on the readings for the Solemnity of the Triumph of the Cross",
+      "link": "/commentary/2025/09/13/commentary-triumph-of-the-cross-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 23rd Sunday in Ordinary Time"
+      "title": "Commentary: Solemnity of the Triumph of the Cross"
     },
     {
-      "details": "There will be TWO masses on Sunday, 7th September, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Tuesday borns respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 23rd Sunday in Ordinary Time"
+      "details": "There will be ONE mass on Sunday, 14th September, 2025. Offertory will be led by the Wednesday borns and the Christian Sons and Daughters Association. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Triumph of the Cross"
+    },
+    {
+      "details": "Our new assistant parish priest, Rev Fr Victor Yaw Ampim, will be welcomed to the church on Sunday 14th September, 2025.",
+      "title": "Welcoming Rev Fr Victor Yaw Ampim"
+    },
+    {
+      "details": "This year's deanery games is scheduled for Saturday, September 13, 2025 at the Catholic Youth Centre, Lashibi. Activities include, football, volleyball etc. See the church secretary to register.",
+      "title": "Tema Deanery Games"
     },
     {
       "details": "Forms for the St Bakhita marriage school are still available. Prospective counselees who wish to have their marriages solemnized in 2026 should pick up registration forms from the office of the parish priest. Counselees who have already picked forms are encouraged to submit them as soon as possible.",
@@ -20,22 +28,27 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "22nd Week in Ordinary Time, 1st - 7th September",
+    "liturgicalWeek": "23rd Week in Ordinary Time, 8th - 14th September",
     "masses": [
       {
         "details": "",
-        "subtitle": "Two masses at 7am & 9:30am",
-        "title": "23rd Sunday in Ordinary Time"
+        "subtitle": "Sunday at 7:30am",
+        "title": "Solemnity of the Triumph of the Cross"
       },
       {
-        "details": "",
-        "subtitle": "Monday, Wednesday - Friday at 6am",
-        "title": "Weekday Morning Mass"
+        "details": "There will be no morning mass",
+        "subtitle": "Monday 7pm",
+        "title": "Feast of the Nativity of the Blessed Virgin Mary"
       },
       {
         "details": "",
         "subtitle": "Tuesday 7pm.",
         "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Wednesday - Friday at 6am",
+        "title": "Weekday Morning Mass"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
@@ -44,6 +57,12 @@
       }
     ],
     "events": [
+      {
+        "details": "Date: 13th September, 2025 | Venue: Catholic Youth Centre, Lashibi",
+        "rate": "Free",
+        "subtitle": "Activities include, football, volleyball, sack race, ladies' penalty kick-out, and 100m dash.",
+        "title": "Tema Deanery Games"
+      }
     ],
     "sacraments": [
       {
