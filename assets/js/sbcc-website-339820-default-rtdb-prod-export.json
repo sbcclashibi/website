@@ -1,14 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the Solemnity of the Triumph of the Cross",
-      "link": "/commentary/2025/09/13/commentary-triumph-of-the-cross-year-c/",
+      "details": "Read the commentary on the readings for the 25th Sunday in Ordinary Time",
+      "link": "/commentary/2025/09/20/commentary-25th-sunday-in-ordinary-time-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: Solemnity of the Triumph of the Cross"
+      "title": "Commentary: 25th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 21st September, 2025. Offertory will be led by Legion of Mary and the Thursday borns respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 25th Sunday in Ordinary Time"
+      "details": "There will be ONE mass on Sunday, 28th September, 2025. Offertory will be led by the Friday Borns and St Theresa of the Child Jesus. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 26th Sunday in Ordinary Time"
+    },
+    {
+      "details": "In His Presence comes off on Sunday 28th September at 6pm. Come with your written intentions and articles of faith to be blessed",
+      "title": "In His Presence"
+    },
+    {
+      "details": "We are kindly reminded of October as a Rosary Month. All parishioners are encouraged to prepare and participate fully in this prayer season in the month of October.",
+      "title": "Rosary Month"
     },
     {
       "details": "Forms for the St Bakhita marriage school are still available. Prospective counselees who wish to have their marriages solemnized in 2026 should pick up registration forms from the office of the parish priest. Counselees who have already picked forms are encouraged to submit them as soon as possible.",
@@ -20,12 +28,12 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "24th Week in Ordinary Time, 15th - 21st September",
+    "liturgicalWeek": "25th Week in Ordinary Time, 22nd - 28th September",
     "masses": [
       {
         "details": "",
-        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
-        "title": "25th Sunday in Ordinary Time"
+        "subtitle": "One mass at 7:30am",
+        "title": "26th Sunday in Ordinary Time"
       },
       {
         "details": "",
@@ -44,6 +52,12 @@
       }
     ],
     "events": [
+      {
+        "details": "Date: 28th September, 2025 | Time: 6:00pm | Venue: Church premises",
+        "rate": "Free",
+        "subtitle": "Come with your articles of faith and written intentions to be blessed",
+        "title": "In His Presence"
+      }
     ],
     "sacraments": [
       {
