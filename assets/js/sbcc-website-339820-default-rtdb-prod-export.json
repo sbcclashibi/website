@@ -1,18 +1,18 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 25th Sunday in Ordinary Time",
-      "link": "/commentary/2025/09/20/commentary-25th-sunday-in-ordinary-time-year-c/",
+      "details": "Read the commentary on the readings for the 27th Sunday in Ordinary Time",
+      "link": "/commentary/2025/10/04/commentary-27th-sunday-in-ordinary-time-year-c/",
       "linkText": "Read Now",
-      "title": "Commentary: 25th Sunday in Ordinary Time"
+      "title": "Commentary: 27th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 28th September, 2025. Offertory will be led by the Friday Borns and St Theresa of the Child Jesus. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 26th Sunday in Ordinary Time"
+      "details": "There will be TWO masses on Sunday, 12th October, 2025. Offertory will be led by the Sunday borns and the Knights and Ladies of Marshall respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 28th Sunday in Ordinary Time"
     },
     {
-      "details": "In His Presence comes off on Sunday 28th September at 6pm. Come with your written intentions and articles of faith to be blessed",
-      "title": "In His Presence"
+      "details": "From Monday 6th to Wednesday 8th, Rosary prayers will be led by Knights of St. John International and Ladies Auxiliary. From Thursday 9th to Saturday 11th Rosary prayers will be led by St. Theresa of the Child Jesus.",
+      "title": "Rosary Prayer Schedule: 6th - 11th October"
     },
     {
       "details": "We are kindly reminded of October as a Rosary Month. All parishioners are encouraged to prepare and participate fully in this prayer season in the month of October.",
@@ -28,35 +28,30 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "25th Week in Ordinary Time, 22nd - 28th September",
+    "events": [
+      {
+        "details": "Date: 26th October, 2025",
+        "rate": "Free",
+        "subtitle": "Details of this year's Salve Regina will be announced later.",
+        "title": "Salve Regina"
+      }
+    ],
+    "liturgicalWeek": "27th Week in Ordinary Time, 6th - 12 Oct",
     "masses": [
       {
         "details": "",
-        "subtitle": "One mass at 7:30am",
-        "title": "26th Sunday in Ordinary Time"
+        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
+        "title": "28th Sunday in Ordinary Time"
       },
       {
-        "details": "",
-        "subtitle": "Monday, Wednesday - Friday at 6am",
-        "title": "Weekday Morning Mass"
-      },
-      {
-        "details": "",
-        "subtitle": "Tuesday 7pm.",
+        "details": "Rosary prayers begin 30 mins before mass",
+        "subtitle": "Monday - Friday at 7pm.",
         "title": "Weekday Evening Mass"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
         "subtitle": "Saturday at 6:30am",
         "title": "Saturday Morning Mass"
-      }
-    ],
-    "events": [
-      {
-        "details": "Date: 28th September, 2025 | Time: 6:00pm | Venue: Church premises",
-        "rate": "Free",
-        "subtitle": "Come with your articles of faith and written intentions to be blessed",
-        "title": "In His Presence"
       }
     ],
     "sacraments": [
