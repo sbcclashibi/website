@@ -109,3 +109,5 @@ On 19th April 2023, Bishop John Kobina Louis was consecrated as an auxilliary bi
 On 24th August 2024, 16 deacons of the Archdiocese of Accra were ordained as priests of the Accra Archdiocese at the newly elevated parish. The mass was presided over by His Eminence Cardinal Peter Turkson, chancellor of the Pontifical Academies of Sciences.
 
 On 1st December 2024, the 1st Sunday of Advent, the first mass at St Bakhita Parish's first outstation at Klagon was celebrated by Rev Fr Hillary Agbenosi. The mass was attended by parishioners from St Bakhita and catholic faithful from Klagon and its environs. The church has since been named "Epiphany Catholic Church" by the Archbishop of Accra.
+
+After the Accra Archdiocesan ordinations of 2025, Rev Fr Victor Ampim joined the parish as its second Assistant Parish Priest in September.

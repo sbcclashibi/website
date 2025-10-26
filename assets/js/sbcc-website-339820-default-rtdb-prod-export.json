@@ -7,12 +7,20 @@
       "title": "Commentary: 30th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 26th October, 2025. Offertory will be led by the Tuesday borns and Christian Sons and Daughters Association. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 30th Sunday in Ordinary Time"
+      "details": "There will be TWO masses on Sunday, 2nd November, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Wednesday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: The Commemoration of All the Faithful Departed"
     },
     {
-      "details": "From Monday 20th to Wednesday 22nd, Rosary prayers will be led by the Sacred Heart of Jesus Confraternity. From Thursday 23rd to Saturday 25th Rosary prayers will be led by the St. Vincent De Paul Society.",
-      "title": "Rosary Prayer Schedule: 20th - 25th October"
+      "details": "From Monday 27th to Wednesday 29th, Rosary prayers will be led by the Legion of Mary. From Thursday 30th to Saturday 31st Rosary prayers will be led by the PYC.",
+      "title": "Rosary Prayer Schedule: 27th - 31st October"
+    },
+    {
+      "details": "Saturday, 1st November is the Solemnity of All Saints. Rosary prayers will be in the morning at 6:00am followed by Mass at 6:30am",
+      "title": "Solemnity of All Saints"
+    },
+    {
+      "details": "World Youth Day, Accra, is scheduled for 21st and 22nd November to take place at Kordiase. All youth are encouraged to register at the finance desk or with either of the church secretaries.",
+      "title": "World Youth Day, Accra"
     },
     {
       "details": "Parents and guardians with wards in boarding and tertiary schools are encouraged to submit their details to members of the Formation Team or the Youth Council.",
@@ -27,20 +35,8 @@
       "title": "Bakhita Youth WhatsApp Outreach"
     },
     {
-      "details": "The Deanery Rosary Climax is scheduled for Saturday, 25th October at 3pm. The procession starts at Datus School, Tema and ends at the St. Joseph the Worker Grotto.",
-      "title": "Deanery Rosary Climax"
-    },
-    {
-      "details": "St Bakhita children will be responsible for the crowning of Mary at the St Joseph the Worker grotto on Saturday 25th October. All parents who would like their children to participate should register their names with the Sunday School teachers.",
-      "title": "Crowning of Mary at St Joseph the Worker"
-    },
-    {
       "details": "We are kindly reminded of October as a Rosary Month. All parishioners are encouraged to prepare and participate fully in this prayer season in the month of October.",
       "title": "Rosary Month"
-    },
-    {
-      "details": "UCMAS lessons begin on 6th September. Kindly register your child for a training in concentration, self-confidence and all-round academic proficiency. Contact 0242146843 to register.",
-      "title": "UCMAS Brain Development Programme"
     }
   ],
   "schedules": {
@@ -52,12 +48,12 @@
         "title": "Salve Regina"
       }
     ],
-    "liturgicalWeek": "29th Week in Ordinary Time, 20th - 26th Oct",
+    "liturgicalWeek": "30th Week in Ordinary Time, 27th Oct - 1st Nov",
     "masses": [
       {
         "details": "",
-        "subtitle": "One Mass at 7:30am",
-        "title": "30th Sunday in Ordinary Time"
+        "subtitle": "First mass at 7:00am, Second mass at 9:30am",
+        "title": "The Commemoration of All the Faithful Departed"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
