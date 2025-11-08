@@ -7,16 +7,16 @@
       "title": "Commentary: The Commemoration of All the Faithful Departed"
     },
     {
-      "details": "There will be TWO masses on Sunday, 2nd November, 2025. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Wednesday borns respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: The Commemoration of All the Faithful Departed"
-    },
-    {
-      "details": "Saturday, 1st November is the Solemnity of All Saints. Rosary prayers will be in the morning at 6:00am followed by Mass at 6:30am",
-      "title": "Solemnity of All Saints"
+      "details": "There will be TWO masses on Sunday, 9th November, 2025. Offertory will be led by the Thursday borns and Knights of St John Internationl respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Feast of the Dedication of the Lateran Basilica in Rome"
     },
     {
       "details": "World Youth Day, Accra, is scheduled for 21st and 22nd November to take place at Kordiabe. All youth are encouraged to register at the finance desk or with either of the church secretaries.",
       "title": "World Youth Day, Accra"
+    }, 
+    {
+      "details": "This year's Advent recollection is scheduled for Saturday 6th December at Sowutuom, at the cost of 50 cedis per person. Registration ends on 30th November, 2025.",
+      "title": "Advent Recollection"
     },
     {
       "details": "Parents and guardians with wards in boarding and tertiary schools are encouraged to submit their details to members of the Formation Team or the Youth Council.",
@@ -34,18 +34,29 @@
         "rate": "Free",
         "subtitle": "All youth are encouraged to attend this year's event.",
         "title": "World Youth Day, Accra"
+      },
+      {
+        "details": "Date: 6th December, 2025. Location: Sowutuom.",
+        "rate": "50.00 cedis",
+        "subtitle": "Registration ends on the 30th of November.",
+        "title": "Advent Recollection"
       }
     ],
-    "liturgicalWeek": "30th Week in Ordinary Time, 27th Oct - 1st Nov",
+    "liturgicalWeek": "31st Week in Ordinary Time, 2nd - 9th Nov",
     "masses": [
       {
         "details": "",
         "subtitle": "First mass at 7:00am, Second mass at 9:30am",
-        "title": "The Commemoration of All the Faithful Departed"
+        "title": "Feast of the Dedication of the Lateran Basilica in Rome"
       },
       {
-        "details": "Rosary prayers begin 30 mins before mass",
-        "subtitle": "Monday - Friday at 7pm.",
+        "details": "",
+        "subtitle": "Monday, Wednesday - Friday at 6:00am",
+        "title": "Weekday Morning Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Every Tuesday at 7pm.",
         "title": "Weekday Evening Mass"
       },
       {
