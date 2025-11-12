@@ -2,13 +2,17 @@
   "announcements": [
     {
       "details": "Read the commentary on the readings for the Feast of the Dedication of the Lateran Basilica in Rome",
-      "link": "/commentary/2025/11/01/commentary-all-souls-day-year-c/",
+      "link": "/commentary/2025/11/08/commentary-feast-of-the-lateran-year-c/",
       "linkText": "Read Now",
       "title": "Commentary: Feast of the Dedication of the Lateran Basilica in Rome"
     },
     {
-      "details": "There will be TWO masses on Sunday, 9th November, 2025. Offertory will be led by the Thursday borns and Knights of St John Internationl respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Feast of the Dedication of the Lateran Basilica in Rome"
+      "details": "There will be TWO masses on Sunday, 16th November, 2025. Offertory will be led by the Christian Mothers Association and the Friday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 33rd Sunday in Ordinary Time"
+    },
+    {
+      "details": "There will be a Three-Day revival from Wednesday 26th to Friday 28th November at 7pm each night here at the church. The theme is “Living with Hope in Troubled Times” - Romans 5:5 and 2 Corinthians 4:18.",
+      "title": "Three-Day Revival"
     },
     {
       "details": "World Youth Day, Accra, is scheduled for 21st and 22nd November to take place at Kordiabe. All youth are encouraged to register at the finance desk or with either of the church secretaries.",
@@ -32,8 +36,14 @@
       {
         "details": "Date: 21st - 22nd November, 2025. Location: Kordiabe.",
         "rate": "Free",
-        "subtitle": "All youth are encouraged to attend this year's event.",
+        "subtitle": "All church youth are encouraged to attend this year's event.",
         "title": "World Youth Day, Accra"
+      },
+      {
+        "details": "Date: 26th - 28th November, 2025 at 7pm. Location: St Bakhita Parish.",
+        "rate": "Free",
+        "subtitle": "The theme for the three-day revival is “Living with Hope in Troubled Times”.",
+        "title": "Three-Day Revival"
       },
       {
         "details": "Date: 6th December, 2025. Location: Sowutuom.",
@@ -42,12 +52,12 @@
         "title": "Advent Recollection"
       }
     ],
-    "liturgicalWeek": "31st Week in Ordinary Time, 2nd - 9th Nov",
+    "liturgicalWeek": "32nd Week in Ordinary Time, 10th - 15th Nov",
     "masses": [
       {
         "details": "",
         "subtitle": "First mass at 7:00am, Second mass at 9:30am",
-        "title": "Feast of the Dedication of the Lateran Basilica in Rome"
+        "title": "33rd Sunday in Ordinary Time"
       },
       {
         "details": "",
