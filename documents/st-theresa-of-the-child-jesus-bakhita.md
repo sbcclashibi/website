@@ -16,7 +16,7 @@ The society in Accra began with 15 members and quickly grew to 90 by September 1
 
 #### The Society at St Bakhita Parish
 
-The society boasts a membership of ninety-nine persons, including sixty-three women. As part of its commitment to supporting the next generation of church leaders, it has provided material assistance to the seminarians from St Bakhita Parish. The society has occasionally supported two other seminarians from other Parishes.
+The society, which was inaugurated on 29th July, 2009, boasts a membership of ninety-nine persons, including sixty-three women. As part of its commitment to supporting the next generation of church leaders, it has provided material assistance to the seminarians from St Bakhita Parish. The society has occasionally supported two other seminarians from other Parishes.
 
 <img class="img-fluid post-image" src="/assets/img/posts/st-theresa-society-bakhita.jpg" alt="Members of the St Theresa of the Child Jesus Society at St Bakhita Parish">
 
