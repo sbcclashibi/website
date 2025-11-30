@@ -2,6 +2,8 @@
 
 The Knights and Ladies of the Altar (KNOLTA) is a parish-based liturgical ministry composed of individuals - especially the youth - who assist the priest during mass and contribute to the orderly and reverent celebration of the liturgy. The ministry is dedicated to nurturing both the spiritual development and spirit of service of its members, forming altar servers who serve with devotion, discipline and respect for the sacred.
 
+<img class="img-fluid post-image" src="/assets/img/posts/knolta-offertory.jpg" alt="KNOLTA at offertory">
+
 Members of KNOLTA are entrusted with preparing the sanctuary before mass, arranging sacred vessels and liturgical items and providing essential support throughout the liturgy. To strengthen their skills and deepen their understanding of service, the ministry meets every Saturday at 4:00 pm for training, planning and spiritual instruction.
 
 <img class="img-fluid post-image" src="/assets/img/posts/knolta-parents-day.jpg" alt="KNOLTA parent's day">
