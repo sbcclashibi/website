@@ -1,26 +1,30 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 1st Sunday of Advent.",
-      "link": "/commentary/2025/11/29/commentary-1st-sunday-of-advent-year-a/",
+      "details": "Read the commentary on the readings for the 3rd Sunday of Advent.",
+      "link": "/commentary/2025/12/13/commentary-3rd-sunday-of-advent-year-a-1/",
       "linkText": "Read Now",
-      "title": "Commentary: 1st Sunday of Advent"
+      "title": "Commentary: 3rd Sunday of Advent"
     },
     {
-      "details": "There will be TWO masses on Sunday, 7th December, 2025. Offertory will be led by the Monday borns and Sacred Heart of Jesus Confraternity. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Second Sunday of Advent"
+      "details": "There will be TWO masses on Sunday, 21st December, 2025. Offertory will be led by the Wednesday borns and the Knights and Ladies of Marshall respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Fourth Sunday of Advent"
+    },
+    {
+      "details": "The St Bakhita Parish 2026 calendars will be ready by Sunday 21st December. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
+      "title": "2026 Calendar Sales"
+    },
+    {
+      "details": "The 2025 harvest will be climaxed on 21st December. Baskets have been placed in front of the altar for parishioners who have finished redeeming their pledges to place their completed cards prayerfully in them.",
+      "title": "2025 Harvest Climax"
     },
     {
       "details": "Advent Vespers continues every Saturday of Advent at 6pm at the chapel.",
       "title": "Advent Vespers"
     },
     {
-      "details": "This year's Advent recollection is scheduled for Saturday 6th December at Sowutuom.",
-      "title": "Advent Recollection"
-    },
-    {
-      "details": "There will be a National Health Insurance card registration and renewal exercise on Sunday, December 7, 2025 at the church premises.",
-      "title": "NHIS Registration on December 7th"
+      "details": "This year's Carol Service programme is scheduled for Sunday 21st December. Ministering on the day will be the St. Bakhita Day Groups.",
+      "title": "Carol Service"
     },
     {
       "details": "The Youth are excited to inform you of the upcoming Christmas Sale on 14th December, 2025. Come and support our youth.",
@@ -34,19 +38,19 @@
   "schedules": {
     "events": [
       {
-        "details": "Date: 6th December, 2025. Location: Sowutuom.",
-        "rate": "50.00 cedis",
-        "subtitle": "Registration ends on the 30th of November.",
-        "title": "Advent Recollection"
+        "details": "Date: 21st December, 2025 | Time: 4:00pm | Venue: St Bakhita Parish",
+        "rate": "",
+        "subtitle": "Ministering will be the St. Bakhita Day Groups.",
+        "title": "Carol Service"
       }
     ],
-    "liturgicalWeek": "1st Week of Advent, 1st - 6th December",
+    "liturgicalWeek": "3rd Week of Advent, 15th - 20th December",
     "masses": [
       {
         "details": "",
         "subtitle": "First mass at 7:00am, second mass at 9:30am",
-        "title": "Second Sunday of Advent"
-      },      
+        "title": "Fourth Sunday of Advent"
+      },
       {
         "details": "",
         "subtitle": "Monday, Wednesday to Friday at 6:00am",
