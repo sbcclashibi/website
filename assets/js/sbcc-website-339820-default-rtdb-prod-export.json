@@ -1,30 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 4th Sunday of Advent.",
+      "details": "Read the commentary on the readings for the Christmas Vigil.",
       "link": "/commentary/2025/12/20/commentary-4th-sunday-of-advent-year-a-1/",
       "linkText": "Read Now",
-      "title": "Commentary: 4th Sunday of Advent"
+      "title": "Commentary: Christmas Vigil"
     },
     {
-      "details": "There will be TWO masses on Sunday, 21st December, 2025. Offertory will be led by the Wednesday borns and the Knights and Ladies of Marshall respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Fourth Sunday of Advent"
+      "details": "There will be ONE mass on Sunday, 28th December, 2025. Offertory will be led by the Friday borns and Legion of Mary. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Feast of the Holy Family of Jesus, Mary and Joseph"
     },
     {
       "details": "The St Bakhita Parish 2026 calendars will be ready by Sunday 21st December. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
       "title": "2026 Calendar Sales"
     },
     {
-      "details": "The 2025 harvest will be climaxed on 21st December. Baskets have been placed in front of the altar for parishioners who have finished redeeming their pledges to place their completed cards prayerfully in them.",
-      "title": "2025 Harvest Climax"
-    },
-    {
-      "details": "Advent Vespers continues every Saturday of Advent at 6pm at the chapel.",
-      "title": "Advent Vespers"
-    },
-    {
-      "details": "This year's Carol Service programme is scheduled for Sunday 21st December. Ministering on the day will be the St. Bakhita Day Groups.",
-      "title": "Carol Service"
+      "details": "In His Presence will take place on Sunday 28th December at 6pm. The theme for the evening is 'My Sacrifice of Praise'",
+      "title": "In His Presence"
     },
     {
       "details": "Parents and guardians with wards in boarding and tertiary schools are encouraged to submit their details to members of the Formation Team or the Youth Council.",
@@ -40,22 +32,37 @@
         "title": "Carol Service"
       }
     ],
-    "liturgicalWeek": "3rd Week of Advent, 15th - 20th December",
+    "liturgicalWeek": "4th Week of Advent, 21st - 28th December",
     "masses": [
       {
         "details": "",
-        "subtitle": "First mass at 7:00am, second mass at 9:30am",
-        "title": "Fourth Sunday of Advent"
+        "subtitle": "One mass at 7:30am",
+        "title": "Feast of the Holy Family of Jesus, Mary and Joseph"
       },
       {
         "details": "",
-        "subtitle": "Monday, Wednesday to Friday at 6:00am",
+        "subtitle": "Monday at 6:00am",
         "title": "Weekday Morning Mass"
       },
       {
         "details": "",
         "subtitle": "Tuesday at 7:00pm",
         "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "Offertory will be led by St Vincent de Paul Society.",
+        "subtitle": "Wednesday at 7:00pm",
+        "title": "Christmas Eve"
+      },
+      {
+        "details": "Offertory will be led by St Theresa of the Child Jesus Society and Thursday borns.",
+        "subtitle": "Thursday at 8:00am",
+        "title": "The Nativity of the Lord (Christmas)"
+      },
+      {
+        "details": "",
+        "subtitle": "Friday at 9:00am",
+        "title": "Feast of St Stephen, Martyr"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
