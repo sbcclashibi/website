@@ -1,22 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the Christmas Vigil.",
-      "link": "/commentary/2025/12/24/commentary-christmas-vigil-year-a/",
+      "details": "Read the commentary on the readings for the Feast of the Holy Family of Jesus, Mary and Joseph.",
+      "link": "/commentary/2025/12/27/commentary-feast-of-the-holy-family-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: Christmas Vigil"
+      "title": "Commentary: Feast of the Holy Family of Jesus, Mary and Joseph"
     },
     {
-      "details": "There will be ONE mass on Sunday, 28th December, 2025. Offertory will be led by the Friday borns and Legion of Mary. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Feast of the Holy Family of Jesus, Mary and Joseph"
+      "details": "There will be TWO masses on Sunday, 4th January, 2026. Offertory will be led by Sacred Heart of Jesus Christ and the Sunday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Epiphany of the Lord"
     },
     {
-      "details": "The St Bakhita Parish 2026 calendars will be ready by Sunday 21st December. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
+      "details": "The St Bakhita Parish 2026 calendars are available for purchase. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
       "title": "2026 Calendar Sales"
     },
     {
-      "details": "In His Presence will take place on Sunday 28th December at 6pm. The theme for the evening is 'My Sacrifice of Praise'",
-      "title": "In His Presence"
+      "details": "The St Bakhita Youth Dinner will take place on 2nd January 2026 at the church premises. The rate is 100 cedis per person.",
+      "title": "Youth Dinner"
     },
     {
       "details": "Parents and guardians with wards in boarding and tertiary schools are encouraged to submit their details to members of the Formation Team or the Youth Council.",
@@ -25,23 +25,17 @@
   ],
   "schedules": {
     "events": [
-      {
-        "details": "Date: 21st December, 2025 | Time: 4:00pm | Venue: St Bakhita Parish",
-        "rate": "",
-        "subtitle": "Ministering will be the St. Bakhita Day Groups.",
-        "title": "Carol Service"
-      }
     ],
-    "liturgicalWeek": "4th Week of Advent, 21st - 28th December",
+    "liturgicalWeek": "Octave of Christmas, 29th December - 4th January, 2026",
     "masses": [
       {
         "details": "",
-        "subtitle": "One mass at 7:30am",
-        "title": "Feast of the Holy Family of Jesus, Mary and Joseph"
+        "subtitle": "First mass at 7:00am, Second mass at 9:30am",
+        "title": "Epiphany of the Lord"
       },
       {
         "details": "",
-        "subtitle": "Monday at 6:00am",
+        "subtitle": "Monday and Friday 6:00am",
         "title": "Weekday Morning Mass"
       },
       {
@@ -50,19 +44,14 @@
         "title": "Weekday Evening Mass"
       },
       {
-        "details": "Offertory will be led by St Vincent de Paul Society.",
-        "subtitle": "Wednesday at 7:00pm",
-        "title": "Christmas Eve"
-      },
-      {
-        "details": "Offertory will be led by St Theresa of the Child Jesus Society and Thursday borns.",
-        "subtitle": "Thursday at 8:00am",
-        "title": "The Nativity of the Lord (Christmas)"
+        "details": "",
+        "subtitle": "Wednesday at 9:00pm",
+        "title": "New Year Vigil"
       },
       {
         "details": "",
-        "subtitle": "Friday at 9:00am",
-        "title": "Feast of St Stephen, Martyr"
+        "subtitle": "Thursday at 8:00am",
+        "title": "Solemnity of Mary, the Holy Mother of God"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
