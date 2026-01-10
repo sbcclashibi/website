@@ -1,14 +1,14 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the Solemnity of Mary, the Holy Mother of God.",
-      "link": "/commentary/2025/12/31/commentary-mary-mother-of-god-year-a/",
+      "details": "Read the commentary on the readings for the Baptism of the Lord.",
+      "link": "/commentary/2026/01/10/commentary-baptism-of-the-lord-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: Solemnity of Mary, the Holy Mother of God"
+      "title": "Commentary: Baptism of the Lord"
     },
     {
-      "details": "There will be TWO masses on Sunday, 4th January, 2026. Offertory will be led by Sacred Heart of Jesus Christ and the Sunday borns respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Epiphany of the Lord"
+      "details": "There will be TWO masses on Sunday, 11th January, 2026. Offertory will be led by the Monday borns and the Knights and Ladies of St John respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Baptism of the Lord"
     },
     {
       "details": "The St Bakhita Parish 2026 calendars are available for purchase. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
@@ -22,32 +22,22 @@
   "schedules": {
     "events": [
     ],
-    "liturgicalWeek": "Octave of Christmas, 29th December - 4th January, 2026",
+    "liturgicalWeek": "Epiphany, 5th - 10th January, 2026",
     "masses": [
       {
         "details": "",
         "subtitle": "First mass at 7:00am, Second mass at 9:30am",
-        "title": "Epiphany of the Lord"
+        "title": "Baptism of the Lord"
       },
       {
         "details": "",
-        "subtitle": "Monday and Friday 6:00am",
+        "subtitle": "Monday, Wednesday - Friday 6:00am",
         "title": "Weekday Morning Mass"
       },
       {
         "details": "",
         "subtitle": "Tuesday at 7:00pm",
         "title": "Weekday Evening Mass"
-      },
-      {
-        "details": "",
-        "subtitle": "Wednesday at 9:00pm",
-        "title": "New Year Vigil"
-      },
-      {
-        "details": "",
-        "subtitle": "Thursday at 8:00am",
-        "title": "Solemnity of Mary, the Holy Mother of God"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
