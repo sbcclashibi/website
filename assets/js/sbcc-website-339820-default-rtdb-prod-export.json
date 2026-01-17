@@ -7,12 +7,18 @@
       "title": "Commentary: Baptism of the Lord"
     },
     {
-      "details": "There will be TWO masses on Sunday, 11th January, 2026. Offertory will be led by the Monday borns and the Knights and Ladies of St John respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Baptism of the Lord"
+      "details": "There will be TWO masses on Sunday, 18th January, 2026. Offertory will be led by the St. Theresa of the Child Jesus and the Tuesday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Second Sunday in Ordinary Time"
     },
     {
       "details": "The St Bakhita Parish 2026 calendars are available for purchase. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
       "title": "2026 Calendar Sales"
+    },
+    {
+      "details": "Effective January 2026, Stole fees for the celebration of the sacraments and church dues have been reviewed. ",
+      "title": "Revision of Stole Fees and Church Dues",
+      "link": "https://firebasestorage.googleapis.com/v0/b/sbcc-website-339820.appspot.com/o/Review%20of%20Stole%20Fees%20and%20Church%20Dues.pdf?alt=media&token=715b4d5c-4ee7-4a1c-94d1-d81fd640fe61",
+      "linkText": "View Document"
     },
     {
       "details": "Parents and guardians with wards in boarding and tertiary schools are encouraged to submit their details to members of the Formation Team or the Youth Council.",
@@ -21,13 +27,19 @@
   ],
   "schedules": {
     "events": [
+      {
+        "details": "Date: 4th - 6th February, 2026 | Time: 7:00pm | Venue: Church premises",
+        "rate": "Free",
+        "subtitle": "",
+        "title": "Revival"
+      }
     ],
-    "liturgicalWeek": "Epiphany, 5th - 10th January, 2026",
+    "liturgicalWeek": "1st Week in Ordinary Time, 12th - 18th January, 2026",
     "masses": [
       {
         "details": "",
         "subtitle": "First mass at 7:00am, Second mass at 9:30am",
-        "title": "Baptism of the Lord"
+        "title": "2nd Sunday in Ordinary Time"
       },
       {
         "details": "",
