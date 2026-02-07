@@ -1,14 +1,18 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 4th Sunday in Ordinary Time.",
-      "link": "/commentary/2026/01/31/commentary-4th-sunday-in-ordinary-time-year-a/",
+      "details": "Read the commentary on the readings for the 5th Sunday in Ordinary Time.",
+      "link": "/commentary/2026/02/97/commentary-5th-sunday-in-ordinary-time-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: 4th Sunday in Ordinary Time"
+      "title": "Commentary: 5th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 1st February, 2026. Offertory will be led by Sacred Heart of Jesus Confraternity and the Thursday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Fourth Sunday in Ordinary Time"
+      "details": "There will be TWO masses on Sunday, 8th February, 2026. Offertory will be led by the Knights and Ladies of Marshall and the Friday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Fifth Sunday in Ordinary Time"
+    },
+    {
+      "details": "The church is seeking the services of a dedicated Physical Trainer. Anyone interested should kindly contact any of the church secretaries.",
+      "title": "Vacancy: Physical Trainer"
     },
     {
       "details": "The St Bakhita Parish 2026 calendars are available for purchase. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
@@ -19,37 +23,32 @@
       "title": "Revision of Stole Fees and Church Dues",
       "link": "https://firebasestorage.googleapis.com/v0/b/sbcc-website-339820.appspot.com/o/Review%20of%20Stole%20Fees%20and%20Church%20Dues.pdf?alt=media&token=715b4d5c-4ee7-4a1c-94d1-d81fd640fe61",
       "linkText": "View Document"
-    },
-    {
-      "details": "Parents and guardians with wards in boarding and tertiary schools are encouraged to submit their details to members of the Formation Team or the Youth Council.",
-      "title": "School Visitation Project"
     }
   ],
   "schedules": {
     "events": [
-      {
-        "details": "Date: 4th - 6th February, 2026 | Time: 7:00pm | Venue: Church premises",
-        "rate": "Free",
-        "subtitle": "",
-        "title": "Revival"
-      }
     ],
-    "liturgicalWeek": "3rd Week in Ordinary Time, 26th Jan - 1st February, 2026",
+    "liturgicalWeek": "4th Week in Ordinary Time, 2nd - 8th February, 2026",
     "masses": [
       {
         "details": "",
         "subtitle": "First mass at 7:00am, Second mass at 9:30am",
-        "title": "Fourth Sunday in Ordinary Time"
+        "title": "Fifth Sunday in Ordinary Time"
       },
       {
-        "details": "",
-        "subtitle": "Monday, Wednesday - Friday 6:00am",
-        "title": "Weekday Morning Mass"
+        "details": "There will be no morning mass on this day.",
+        "subtitle": "Monday at 7:00pm",
+        "title": "Presentation of the Lord"
       },
       {
         "details": "",
         "subtitle": "Tuesday at 7:00pm",
         "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Wednesday - Friday 6:00am",
+        "title": "Weekday Morning Mass"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
