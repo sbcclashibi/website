@@ -7,8 +7,20 @@
       "title": "Commentary: 6th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 15th February, 2026. Offertory will be led by the Saturday borns and the Christian Sons and Daughters Association respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Sixth Sunday in Ordinary Time"
+      "details": "There will be ONE mass on Sunday, 22nd February, 2026. Offertory will be led by Legion of Mary and the Sunday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: First Sunday of Lent"
+    },
+    {
+      "details": "Wednesday 18th February, 2026 is Ash Wednesday, in view of this, there will be Mass in the evening at 7pm.",
+      "title": "Ash Wednesday"
+    },
+    {
+      "details": "There is In His Presence on Sunday 22nd February at 6pm. Kindly come with your written intentions.",
+      "title": "In His Presence"
+    },
+    {
+      "details": "Registration for the Lenten Retreat continuous after Mass. Each participant is to pay a minimum commitment fee of 50 Ghana cedis",
+      "title": "Lenten Retreat Registration"
     },
     {
       "details": "The church is seeking the services of a dedicated Physical Trainer. Anyone interested should kindly contact any of the church secretaries.",
@@ -27,23 +39,44 @@
   ],
   "schedules": {
     "events": [
+      {
+        "details": "Date: 14th March, 2026 | Venue: St Arnold Janssen Centre, Tuba",
+        "rate": "50.00 GHS",
+        "subtitle": "",
+        "title": "Lenten Retreat"
+      }
     ],
-    "liturgicalWeek": "5th Week in Ordinary Time, 9th - 15th February, 2026",
+    "liturgicalWeek": "6th Week in Ordinary Time, 16th - 22nd February, 2026",
     "masses": [
       {
         "details": "",
-        "subtitle": "First mass at 7:00am, Second mass at 9:30am",
-        "title": "Sixth Sunday in Ordinary Time"
+        "subtitle": "One mass at 7:30am",
+        "title": "First Sunday of Lent"
       },
       {
         "details": "",
-        "subtitle": "Monday, Wednesday - Friday 6:00am",
+        "subtitle": "Monday at 6:00am",
         "title": "Weekday Morning Mass"
       },
       {
         "details": "",
         "subtitle": "Tuesday at 7:00pm",
         "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Wednesday at 7:00pm",
+        "title": "Ash Wednesday Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Thursday & Friday at 5:30am and 6pm",
+        "title": "Weekday Morning & Evening Prayers"
+      },
+      {
+        "details": "Stations of the Cross will be held in the church every Friday during Lent, immediately after the evening mass.",
+        "subtitle": "Friday at 7pm",
+        "title": "Stations of the Cross"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",

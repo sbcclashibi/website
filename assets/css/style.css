@@ -654,13 +654,13 @@ section {
 --------------------------------------------------------------*/
 
 .liturgical-season {
-  color: #333333;
-  background-color: var(--liturgicalWhite);
+  color: #FFFFFF;
+  background-color: var(--liturgicalViolet);
   padding: 30px 0;
 }
 
 .liturgical-season .blockquote-footer {
-  color: #333333;
+  color: #FFFFFF;
 }
 
 /*--------------------------------------------------------------
