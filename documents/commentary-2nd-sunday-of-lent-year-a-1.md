@@ -1,16 +1,16 @@
-# 2ND SUNDAY IN ADVENT YEAR A
-Theme: Christ’s leadership
+# 2ND SUNDAY OF LENT YEAR A
+Theme: God’s call and our response
 
 ---
 
-#### 1st Reading: Isaiah, chapter 11: 1 – 10
+#### 1st Reading: Genesis, chapter 12:1-4a
 
-This scripture can be interpreted to mean God’s answer to the prayer of his people for a new king, a king who would turn their fortunes around. God’s promise, however, is that of a Messiah of unparalleled peace, justice and harmony.
+God called Abram out of his ancestral home for a specific mission, with the promise of a reward. In the same way, the Lord freely chose us for a purpose, which has divine rewards as the benefit.
 
-#### 2nd Reading: Paul’s letter to the Romans, chapter 15: 4 – 9
+#### 2nd Reading: The second letter of Paul to Timothy, chapter 1: 8b-10
 
-God’s word teaches us Christ-like virtues such as hope and patience, among several others. These, then, shape our attitudes of tolerance for each other, and the willingness to serve one another, like Christ did for us.
+God has called us by the Grace of our Saviour to be a holy people. The promise of eternal life thus belongs to us.
 
-#### Gospel Reading: Matthew, chapter 3: 1 – 12
+#### Gospel Reading: Matthew, chapter 17:1-9
 
-The call to repentance is as real to us now as it was in the days of John the Baptist. Repentance calls for a complete change of life-style and mindsets, and not a mere proclamation. The time to repent is now
+The three disciples followed the Lord to the mountain and were eyewitnesses to the transfiguration, an event which can be seen, for now, as the hidden but true reality of God’s promise.
