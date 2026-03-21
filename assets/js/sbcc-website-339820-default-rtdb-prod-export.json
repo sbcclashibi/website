@@ -1,18 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 4th Sunday of Lent.",
-      "link": "/commentary/2026/03/14/commentary-4th-sunday-of-lent-year-a-1/",
-      "linkText": "Read Now",
-      "title": "Commentary: 4th Sunday of Lent"
+      "details": "Listen to the Homily for the 4th Sunday of Lent by Rev. Fr. Dr. Francis Ward.",
+      "link": "https://open.spotify.com/episode/7FfICFhwyxkCfscd3t767j?si=8284f46dcfda4f67",
+      "linkText": "Listen Now 🎧",
+      "title": "Homily: 4th Sunday of Lent"
     },
     {
-      "details": "There will be TWO masses on Sunday, 15th March, 2026. Offertory will be led by the Knights of St John International and Ladies Auxiliary, and the Wednesday borns respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Fourth Sunday of Lent"
+      "details": "There will be ONE mass on Sunday, 22nd March, 2026. Offertory will be led by the St Vincent de Paul society and Thursday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Fifth Sunday of Lent"
     },
     {
-      "details": "Registration for the Lenten Retreat continuous after Mass. Each participant is to pay a minimum commitment fee of 50 Ghana cedis",
-      "title": "Lenten Retreat Registration"
+      "details": "Harvest for 2026 will be launched on Sunday 22nd March, 2026. The theme for the harvest this year is James 1: 17  (NIV) 'Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.'",
+      "title": "2026 Harvest Launch"
+    },
+    {
+      "details": "All parishioners who want to purchase the church cloth should kindly register with the church secretary within the week at the church office.",
+      "title": "Church Cloth Sales"
     },
     {
       "details": "The St Bakhita Parish 2026 calendars are available for purchase. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
@@ -27,24 +31,23 @@
   ],
   "schedules": {
     "events": [
-      {
-        "details": "Date: 14th March, 2026 | Venue: St Arnold Janssen Centre, Tuba",
-        "rate": "50.00 GHS",
-        "subtitle": "",
-        "title": "Lenten Retreat"
-      }
     ],
-    "liturgicalWeek": "3rd Week in Lent, 8th - 14th March, 2026",
+    "liturgicalWeek": "4th Week in Lent, 15th - 21st March, 2026",
     "masses": [
       {
         "details": "",
         "subtitle": "First mass at 7:00am, Second mass at 9:00am",
-        "title": "Fourth Sunday of Lent"
+        "title": "Fifth Sunday of Lent"
       },
       {
         "details": "",
-        "subtitle": "Monday - Friday at 5:30am and 6pm",
+        "subtitle": "Monday - Thursday at 5:30am and 6pm",
         "title": "Weekday Morning & Evening Prayers"
+      },
+      {
+        "details": "",
+        "subtitle": "Thursday at 7pm",
+        "title": "Solemnity of St Joseph Husband of Mary"
       },
       {
         "details": "Stations of the Cross will be held in the church every Friday during Lent, immediately after the evening mass.",
