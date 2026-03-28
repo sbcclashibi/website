@@ -1,26 +1,30 @@
 {
   "announcements": [
     {
-      "details": "Listen to the Homily for the 4th Sunday of Lent by Rev. Fr. Dr. Francis Ward.",
-      "link": "https://open.spotify.com/episode/7FfICFhwyxkCfscd3t767j?si=8284f46dcfda4f67",
-      "linkText": "Listen Now 🎧",
-      "title": "Homily: 4th Sunday of Lent"
+      "details": "Read the commentary for the 5th Sunday of Lent.",
+      "link": "/commentary/2026/03/21/commentary-5th-sunday-of-lent-year-a-1/",
+      "linkText": "Read Now",
+      "title": "Commentary: 5th Sunday of Lent"
     },
     {
-      "details": "There will be ONE mass on Sunday, 22nd March, 2026. Offertory will be led by the St Vincent de Paul society and Thursday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Fifth Sunday of Lent"
+      "details": "There will be ONE mass on Sunday, 29th March, 2026. Offertory will be led by the St. Theresa of the Child Jesus Society and Friday borns. Prayer of the faithful will be led by the Lectors. Mass will begin at the Community 19 gate with the Palm Sunday Procession.",
+      "title": "Mass Schedule: Palm Sunday"
     },
     {
-      "details": "Harvest for 2026 will be launched on Sunday 22nd March, 2026. The theme for the harvest this year is James 1: 17  (NIV) 'Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.'",
-      "title": "2026 Harvest Launch"
+      "details": "There will be Easter sales on Palm Sunday, March 29th. Interested vendors should kindly register with Mrs Rebecca Amanor-Ofori or either of the church secretaries.",
+      "title": "Easter Sales"
+    },
+    {
+      "details": "There will be In His Presence on Sunday 29th March, 2026 at 5pm.",
+      "title": "In His Presence"
     },
     {
       "details": "All parishioners who want to purchase the church cloth should kindly register with the church secretary within the week at the church office.",
       "title": "Church Cloth Sales"
     },
     {
-      "details": "The St Bakhita Parish 2026 calendars are available for purchase. Any additional revenue generated beyond the cost from this year's sales will go directly into donations towards the needy",
-      "title": "2026 Calendar Sales"
+      "details": "The St Bakhita Marriage School re-opens on Sunday 19th April, 2026. Prospective couples who wish to have their marriages solemnised from the later part of 2026 onwards may collect the registration forms from the office of the Parish Priest.",
+      "title": "Marriage School"
     },
     {
       "details": "Effective January 2026, Stole fees for the celebration of the sacraments and church dues have been reviewed. ",
@@ -32,27 +36,27 @@
   "schedules": {
     "events": [
     ],
-    "liturgicalWeek": "4th Week in Lent, 15th - 21st March, 2026",
+    "liturgicalWeek": "5th Week in Lent, 22nd - 28th March, 2026",
     "masses": [
       {
         "details": "",
-        "subtitle": "First mass at 7:00am, Second mass at 9:00am",
-        "title": "Fifth Sunday of Lent"
+        "subtitle": "One mass at 7:30am",
+        "title": "Palm Sunday"
       },
       {
         "details": "",
-        "subtitle": "Monday - Thursday at 5:30am and 6pm",
+        "subtitle": "Monday at 6am, Tuesday - Friday at 5:30am and 6pm",
         "title": "Weekday Morning & Evening Prayers"
       },
       {
         "details": "",
-        "subtitle": "Thursday at 7pm",
-        "title": "Solemnity of St Joseph Husband of Mary"
+        "subtitle": "Wednesday at 7pm",
+        "title": "Solemnity of the Annunciation of the Lord"
       },
       {
         "details": "Stations of the Cross will be held in the church every Friday during Lent, immediately after the evening mass.",
         "subtitle": "Friday at 7pm",
-        "title": "Stations of the Cross"
+        "title": "Road to Calvary with Bakhita Arts & the Choir"
       },
       {
         "details": "Rosary prayers begin 30 mins before mass",
