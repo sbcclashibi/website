@@ -1,14 +1,14 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary for Palm Sunday.",
-      "link": "/commentary/2026/03/28/commentary-passion-sunday-year-a-1/",
+      "details": "Read the commentary on the readings for the 2nd Sunday of Easter.",
+      "link": "/commentary/2026/04/11/commentary-divine-mercy-sunday-year-a-1/",
       "linkText": "Read Now",
-      "title": "Commentary: Palm Sunday"
+      "title": "Commentary: Divine Mercy Sunday"
     },
     {
-      "details": "There will be ONE mass on Sunday, 5th April, 2026. Offertory will be led by the Catholic Men Association and Sacred Heart of Jesus Confraternity. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Easter Sunday"
+      "details": "There will be TWO masses on Sunday, 12th April, 2026. Offertory will be led by the Saturday borns and the Knights and Ladies of Marshall. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Divine Mercy Sunday"
     },
     {
       "details": "This year's Deanery crusade comes off from 10th-12th April, 2026 at Akodzo Park Community, Tema.",
@@ -38,32 +38,22 @@
         "title": "Deanery Crusade"
       }
     ],
-    "liturgicalWeek": "Holy Week, 29th March - 4th April, 2026",
+    "liturgicalWeek": "First Week of Easter, 6th - 12th April, 2026",
     "masses": [
       {
         "details": "",
-        "subtitle": "One mass at 7:30am",
-        "title": "Easter Sunday"
+        "subtitle": "First mass at 7:00am, Second mass at 9:00am",
+        "title": "Divine Mercy Sunday"
       },
       {
         "details": "",
-        "subtitle": "Monday - Thursday at 5:30am, Monday - Wednesday at 6pm",
-        "title": "Weekday Morning & Evening Prayers"
+        "subtitle": "Monday at 7am, Tuesday - Friday at 6am",
+        "title": "Weekday Morning Mass"
       },
       {
-        "details": "",
-        "subtitle": "Thursday at 7pm",
-        "title": "Thursday of the Lord's Supper"
-      },
-      {
-        "details": "Divine Mercy prayers will be said before the Good Friday service.",
-        "subtitle": "Friday at 7am and 3pm respectively",
-        "title": "Good Friday: Stations of the Cross & Veneration of the Cross"
-      },
-      {
-        "details": "Divine Mercy prayers will be said before the Service of Light",
-        "subtitle": "Saturday at 7:00pm",
-        "title": "Holy Saturday: Easter Vigil"
+        "details": "Mass begins after 6:00am rosary prayers.",
+        "subtitle": "Every Saturday at 6:30am",
+        "title": "Grotto Mass"
       }
     ],
     "sacraments": [
