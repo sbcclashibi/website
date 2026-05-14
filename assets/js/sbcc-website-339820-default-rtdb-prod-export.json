@@ -1,18 +1,26 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 6th Sunday of Easter.",
-      "link": "/commentary/2026/05/09/commentary-6th-sunday-of-easter-year-a-1/",
+      "details": "Read the commentary on the readings for the Solemnity of the Ascension of the Lord.",
+      "link": "/commentary/2026/05/14/commentary-ascension-year-a-1/",
       "linkText": "Read Now",
-      "title": "Commentary: Sixth Sunday of Easter"
+      "title": "Commentary: Solemnity of the Ascension of the Lord"
     },
     {
-      "details": "There will be TWO mass on Sunday, 3rd May, 2026. Offertory will be led by the Sacred Heart of Jesus Confraternity and the Tuesday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Fifth Sunday of Easter"
+      "details": "There will be ONE mass on Sunday, 17th May, 2026. Offertory will be led by the Christian Sons and Daughters Association and Thursday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Seventh Sunday of Easter"
+    },
+    {
+      "details": "Thursday, 14th May, is the Solemnity of the Ascension of the Lord. In view this, Mass will be in the evening at 7pm.",
+      "title": "Mass Schedule: Solemnity of the Ascension of the Lord"
     },
     {
       "details": "Tickets for 5 for 500 cedis, a bundle of 3 for 350 cedis, 2 for 250 cedis, and a single ticket for 130 cedis. Tickets are available at the church premises.",
       "title": "Laudamus Ticket Sales"
+    },
+    {
+      "details": "Kindly note that this year's Pentecost Novena will begin on the 15th of May, 2025.",
+      "title": "Pentecost Novena"
     },
     {
       "details": "Admissions for 2026/2027 academic year at Corpus Christi SHS, are open. Programmes offered are: Business, Science, General Arts, and Home Economics. The entrance exams takes place on 16th and 23rd May. Fee: GHS 250. Kindly see either of the church secretaries to register.",
@@ -32,30 +40,33 @@
     },
     {
       "details": "Effective January 2026, Stole fees for the celebration of the sacraments and church dues have been reviewed. ",
-      "title": "Revision of Stole Fees and Church Dues",
       "link": "https://firebasestorage.googleapis.com/v0/b/sbcc-website-339820.appspot.com/o/Review%20of%20Stole%20Fees%20and%20Church%20Dues.pdf?alt=media&token=715b4d5c-4ee7-4a1c-94d1-d81fd640fe61",
-      "linkText": "View Document"
+      "linkText": "View Document",
+      "title": "Revision of Stole Fees and Church Dues"
     }
   ],
   "schedules": {
-    "events": [
-    ],
-    "liturgicalWeek": "4th Week of Easter, 27th April, - 3rd May 2026",
+    "liturgicalWeek": "6th Week of Easter, 10th - 17th May 2026",
     "masses": [
       {
         "details": "",
-        "subtitle": "First mass at 7:00am, Second mass at 9:00am",
-        "title": "Fifth Sunday of Easter"
+        "subtitle": "Mass at 7:30am",
+        "title": "Seventh Sunday of Easter"
       },
       {
         "details": "",
-        "subtitle": "Monday at 7am, Wednesday - Friday at 6am",
+        "subtitle": "Monday at 7am, Wednesday and Friday at 6am",
         "title": "Weekday Morning Mass"
       },
       {
         "details": "",
         "subtitle": "Tuesday at 7pm",
         "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Thursday at 7pm",
+        "title": "Solemnity of the Ascension of the Lord"
       },
       {
         "details": "Mass begins after 6:00am rosary prayers.",
