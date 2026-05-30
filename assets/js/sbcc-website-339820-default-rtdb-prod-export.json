@@ -1,38 +1,22 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 7th Sunday of Easter.",
-      "link": "/commentary/2026/05/16/commentary-7th-sunday-of-easter-year-a-1/",
+      "details": "Read the commentary on the readings for Pentecost Sunday.",
+      "link": "/commentary/2026/05/23/commentary-pentecost-sunday-year-a-1/",
       "linkText": "Read Now",
-      "title": "Commentary: 7th Sunday of Easter"
+      "title": "Commentary: Pentecost Sunday"
     },
     {
-      "details": "There will be ONE mass on Sunday, 17th May, 2026. Offertory will be led by the Christian Sons and Daughters Association and Thursday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: Seventh Sunday of Easter"
+      "details": "There will be TWO masses on Sunday, 31st May, 2026. Offertory will be led by the St. Theresa of the Child Jesus Society and Saturday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: Solemnity of the Most Holy Trinity"
     },
     {
-      "details": "Tickets for 5 for 500 cedis, a bundle of 3 for 350 cedis, 2 for 250 cedis, and a single ticket for 130 cedis. Tickets are available at the church premises.",
-      "title": "Laudamus Ticket Sales"
-    },
-    {
-      "details": "Kindly note that this year's Pentecost Novena will begin on the 15th of May, 2025.",
-      "title": "Pentecost Novena"
-    },
-    {
-      "details": "Admissions for 2026/2027 academic year at Corpus Christi SHS, are open. Programmes offered are: Business, Science, General Arts, and Home Economics. The entrance exams takes place on 16th and 23rd May. Fee: GHS 250. Kindly see either of the church secretaries to register.",
-      "title": "Corpus Christi SHS Admissions"
+      "details": "Kindly note that there is In His Presence on Sunday, 31st May at 6pm. Come with your written intentions and articles of faith to be blessed.",
+      "title": "In His Presence"
     },
     {
       "details": "Catechesis for the Sacraments is ongoing. Baptism and First Communion classes for children aged 10 and above are held on Saturdays at 3:00pm. Confirmation classes are for those aged 15 and above, while adult classes take place on Sundays after the first Mass. Interested persons should register with the catechists, at the parish office.",
       "title": "Chatechism Classes"
-    },
-    {
-      "details": "All parishioners who want to purchase the church cloth should kindly register with the church secretary within the week at the church office.",
-      "title": "Church Cloth Sales"
-    },
-    {
-      "details": "The St Bakhita Marriage School re-opens on Sunday 19th April, 2026. Prospective couples who wish to have their marriages solemnised from the later part of 2026 onwards may collect the registration forms from the office of the Parish Priest.",
-      "title": "Marriage School"
     },
     {
       "details": "Effective January 2026, Stole fees for the celebration of the sacraments and church dues have been reviewed. ",
@@ -42,16 +26,16 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "6th Week of Easter, 10th - 17th May 2026",
+    "liturgicalWeek": "8th Week in Ordinary Time, 25th - 31st May 2026",
     "masses": [
       {
         "details": "",
-        "subtitle": "Mass at 7:30am",
-        "title": "Seventh Sunday of Easter"
+        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
+        "title": "Solemnity of the Most Holy Trinity"
       },
       {
         "details": "",
-        "subtitle": "Monday at 7am, Wednesday and Friday at 6am",
+        "subtitle": "Monday at 7am, Wednesday to Friday at 6am",
         "title": "Weekday Morning Mass"
       },
       {
@@ -59,11 +43,7 @@
         "subtitle": "Tuesday at 7pm",
         "title": "Weekday Evening Mass"
       },
-      {
-        "details": "",
-        "subtitle": "Thursday at 7pm",
-        "title": "Solemnity of the Ascension of the Lord"
-      },
+
       {
         "details": "Mass begins after 6:00am rosary prayers.",
         "subtitle": "Every Saturday at 6:30am",
@@ -75,11 +55,6 @@
         "details": "Kindly contact the church office to register for Infant Baptism",
         "subtitle": "First Saturday of every month, after Grotto Mass",
         "title": "Infant Baptism"
-      },
-      {
-        "details": "",
-        "subtitle": "The St Bakhita Marriage School will re-open soon. Prospective couples who wish to have their marriages solemnised from the later part of 2026 onwards may collect the registration forms from the office of the Parish Priest.",
-        "title": "Marriage School"
       },
       {
         "details": "",
