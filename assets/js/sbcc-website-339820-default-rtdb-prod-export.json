@@ -1,14 +1,14 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 13th Sunday in Ordinary Time.",
-      "link": "/commentary/2026/07/04/commentary-14th-sunday-in-ordinary-time-year-a-1/",
+      "details": "Read the commentary on the readings for the 15th Sunday in Ordinary Time.",
+      "link": "/commentary/2026/07/11/commentary-15th-sunday-in-ordinary-time-year-a-1/",
       "linkText": "Read Now",
-      "title": "Commentary: 14th Sunday in Ordinary Time"
+      "title": "Commentary: 15th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 5th July, 2026. Offertory will be led by the Sacred Heart of Jesus Confraternity and Thursday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 14th Sunday in Ordinary Time"
+      "details": "There will be TWO masses on Sunday, 12th July, 2026. Offertory will be led by the Knights of St. John International and Ladies Auxiliary, and Friday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 15th Sunday in Ordinary Time"
     },
     {
       "details": "The St. Bakhita Brass Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
@@ -19,21 +19,35 @@
       "title": "Registration for School Visitation"
     },
     {
-      "details": "The Deanery Quiz Competition 2026 comes off on Saturday, 18th July 2026, at 10:00 a.m. at St. Raphael Catholic Church, Lashibi. All youth are encouraged to participate actively and represent our parish well.",
-      "title": "Deanery Quiz Competition 2026"
+      "details": "A Revival will take place from Wednesday 15th July to Friday 17th July at 7pm each night at the church.",
+      "title": "Revival"
     },
     {
-      "details": "The St Bakhita Marriage School will reopen on Sunday, 5th July, 2026. Prospective couples who wish to have their marriages solemnised from the later part of 2026 onwards may collect the registration forms from the office of the Parish Priest",
-      "title": "St Bakhita Marriage School"
+      "details": "The Deanery Quiz Competition 2026 comes off on Saturday, 18th July 2026, at 10:00 a.m. at St. Raphael Catholic Church, Lashibi. All youth are encouraged to participate actively and represent our parish well.",
+      "title": "Deanery Quiz Competition 2026"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "13th Week in Ordinary Time, 22nd June - 5th July 2026",
+    "liturgicalWeek": "14th Week in Ordinary Time, 6th June - 12th July 2026",
+    "events": [
+      {
+        "details": "Date: 15th - 17th July, 2026 | Time: 7:00pm | Venue: Church premises",
+        "rate": "Free",
+        "subtitle": "Come and be blessed",
+        "title": "Revival"
+      },
+      {
+        "details": "Date: 18th July, 2026 | Time: 10:00am | Venue: St. Raphael Catholic Church, Lashibi",
+        "rate": "Free",
+        "subtitle": "Come and be blessed",
+        "title": "Deanery Quiz Competition 2026"
+      }
+    ],
     "masses": [
       {
         "details": "",
         "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
-        "title": "14th Sunday in Ordinary Time"
+        "title": "15th Sunday in Ordinary Time"
       },
       {
         "details": "",
