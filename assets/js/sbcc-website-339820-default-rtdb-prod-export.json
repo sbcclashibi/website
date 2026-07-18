@@ -1,14 +1,14 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 15th Sunday in Ordinary Time.",
-      "link": "/commentary/2026/07/11/commentary-15th-sunday-in-ordinary-time-year-a/",
+      "details": "Read the commentary on the readings for the 16th Sunday in Ordinary Time.",
+      "link": "/commentary/2026/07/18/commentary-16th-sunday-in-ordinary-time-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: 15th Sunday in Ordinary Time"
+      "title": "Commentary: 16th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 12th July, 2026. Offertory will be led by the Knights of St. John International and Ladies Auxiliary, and Friday borns respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 15th Sunday in Ordinary Time"
+      "details": "There will be TWO masses on Sunday, 19th July, 2026. Offertory will be led by the Saturday borns, and St. Theresa of the Child Jesus respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 16th Sunday in Ordinary Time"
     },
     {
       "details": "The St. Bakhita Brass Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
@@ -28,14 +28,8 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "14th Week in Ordinary Time, 6th June - 12th July 2026",
+    "liturgicalWeek": "15th Week in Ordinary Time, 13th June - 17th July 2026",
     "events": [
-      {
-        "details": "Date: 15th - 17th July, 2026 | Time: 7:00pm | Venue: Church premises",
-        "rate": "Free",
-        "subtitle": "Come and be blessed",
-        "title": "Revival"
-      },
       {
         "details": "Date: 18th July, 2026 | Time: 10:00am | Venue: St. Raphael Catholic Church, Lashibi",
         "rate": "Free",
@@ -48,21 +42,16 @@
         "details": "",
         "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
         "title": "15th Sunday in Ordinary Time"
-      },
+      },      
       {
         "details": "",
-        "subtitle": "Monday at 7pm",
-        "title": "Solemnity of Saints Peter and Paul, Apostles"
+        "subtitle": "Monday, Wednesday to Friday at 6am",
+        "title": "Weekday Morning Mass"
       },
       {
         "details": "",
         "subtitle": "Tuesday at 7pm",
         "title": "Weekday Evening Mass"
-      },
-      {
-        "details": "",
-        "subtitle": "Wednesday to Friday at 6am",
-        "title": "Weekday Morning Mass"
       },
       {
         "details": "Mass begins after 6:00am rosary prayers.",
