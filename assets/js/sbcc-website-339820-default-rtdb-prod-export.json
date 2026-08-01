@@ -1,18 +1,14 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 17th Sunday in Ordinary Time.",
-      "link": "/commentary/2026/07/25/commentary-17th-sunday-in-ordinary-time-year-a/",
+      "details": "Read the commentary on the readings for the 18th Sunday in Ordinary Time.",
+      "link": "/commentary/2026/08/01/commentary-18th-sunday-in-ordinary-time-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: 17th Sunday in Ordinary Time"
+      "title": "Commentary: 18th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 26th July, 2026. Offertory will be led by Legion of Mary and Sunday borns. Prayer of the faithful will be led by the Lectors.",
+      "details": "There will be TWO masses on Sunday, 2nd August, 2026. Offertory will be led by Monday borns and the Sacred Heart of Jesus Confraternity respectively. Prayer of the faithful will be led by the Lectors.",
       "title": "Mass Schedule: 17th Sunday in Ordinary Time"
-    },
-    {
-      "details": "There will be In His Presence on Sunday 26th July,2026 at 6pm. Please come with your written intention and articles of faith to be blessed.",
-      "title": "In His Presence"
     },
     {
       "details": "The St. Bakhita Brass Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
@@ -24,20 +20,14 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "16th Week in Ordinary Time, 20th June - 25th July 2026",
+    "liturgicalWeek": "17th Week in Ordinary Time, 26th June - 2nd August 2026",
     "events": [
-      {
-        "details": "Date: 26th July, 2026 | Time: 6:00pm | Venue: St. Bakhita Catholic Church, Lashibi",
-        "rate": "Free",
-        "subtitle": "Please come with your written intention and articles of faith to be blessed.",
-        "title": "In His Presence"
-      }
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "One Mass at 7:30am",
-        "title": "17th Sunday in Ordinary Time"
+        "subtitle": "Two Masses at 7:00am and 9:30am",
+        "title": "18th Sunday in Ordinary Time"
       },      
       {
         "details": "",
