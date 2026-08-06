@@ -7,37 +7,42 @@
       "title": "Commentary: 18th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 2nd August, 2026. Offertory will be led by Monday borns and the Sacred Heart of Jesus Confraternity respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 17th Sunday in Ordinary Time"
+      "details": "There will be TWO masses on Sunday, 9th August, 2026. Offertory will be led by the Knights and Ladies of Marshall and Tuesday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 19th Sunday in Ordinary Time"
+    },
+    {
+      "details": "Thursday, 6th August is the Feast of the Transfiguration of the Lord, hence Mass will be in the evening at 7pm.",
+      "title": "Mass Schedule: Feast of the Transfiguration of the Lord"
     },
     {
       "details": "The St. Bakhita Brass Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
       "title": "St Bakhita Brass Band"
-    },
-    {
-      "details": "Registration for the school visitation programme is now open. Parents and guardians are kindly requested to register their children or wards who are in Junior High School (JHS), Senior High School (SHS), or tertiary institutions within these regions. Registration can be done at the Finance Desk.",
-      "title": "Registration for School Visitation"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "17th Week in Ordinary Time, 26th June - 2nd August 2026",
+    "liturgicalWeek": "18th Week in Ordinary Time, 3rd - 8th August, 2026",
     "events": [
     ],
     "masses": [
       {
         "details": "",
         "subtitle": "Two Masses at 7:00am and 9:30am",
-        "title": "18th Sunday in Ordinary Time"
+        "title": "19th Sunday in Ordinary Time"
       },      
       {
         "details": "",
-        "subtitle": "Monday, Wednesday to Friday at 6am",
+        "subtitle": "Monday, Wednesday and Friday at 6am",
         "title": "Weekday Morning Mass"
       },
       {
         "details": "",
         "subtitle": "Tuesday at 7pm",
         "title": "Weekday Evening Mass"
+      },
+      {
+        "details": "",
+        "subtitle": "Thursday at 7pm",
+        "title": "Feast of the Transfiguration of the Lord"
       },
       {
         "details": "Mass begins after 6:00am rosary prayers.",
