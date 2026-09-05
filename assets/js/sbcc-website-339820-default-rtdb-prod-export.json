@@ -1,18 +1,14 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 22nd Sunday in Ordinary Time.",
-      "link": "/commentary/2026/08/22/commentary-22nd-sunday-in-ordinary-time-year-a/",
+      "details": "Read the commentary on the readings for the 23rd Sunday in Ordinary Time.",
+      "link": "/commentary/2026/09/05/commentary-23rd-sunday-in-ordinary-time-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: 22nd Sunday in Ordinary Time"
+      "title": "Commentary: 23rd Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 30th August, 2026. Offertory will be led by the Friday borns and Christian Sons and Daughters. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 21st Sunday in Ordinary Time"
-    },
-    {
-      "details": "Bakhita Praise comes off on 30th August at 6pm",
-      "title": "Bakhita Praise"
+      "details": "There will be TWO masses on Sunday, 6th September, 2026. Offertory will be led by the Sacred Heart of Jesus Confraternity and Saturday borns respectively. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 23rd Sunday in Ordinary Time"
     },
     {
       "details": "The St. Bakhita Brass Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
@@ -20,20 +16,14 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "21st Week in Ordinary Time, 23rd - 29th August, 2026",
+    "liturgicalWeek": "22nd Week in Ordinary Time, 30th Aug - 5th Sept, 2026",
     "events": [
-      {
-        "details": "Date: 30th August, 2026 | Time: 6:00pm | Venue: Church premises",
-        "rate": "Free",
-        "subtitle": "Bakhita Praise is a choral concert led by the church choir and other music ministries",
-        "title": "Bakhita Praise"
-      }
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "One Mass at 7:30am",
-        "title": "22nd Sunday in Ordinary Time"
+        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
+        "title": "23rd Sunday in Ordinary Time"
       },
       {
         "details": "",
