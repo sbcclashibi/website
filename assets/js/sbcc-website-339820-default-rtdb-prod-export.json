@@ -1,29 +1,43 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 25th Sunday in Ordinary Time.",
-      "link": "/commentary/2026/09/19/commentary-25th-sunday-in-ordinary-time-year-a/",
+      "details": "Read the commentary on the readings for the 26th Sunday in Ordinary Time.",
+      "link": "/commentary/2026/09/26/commentary-26th-sunday-in-ordinary-time-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: 25th Sunday in Ordinary Time"
+      "title": "Commentary: 26th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be ONE mass on Sunday, 20th September, 2026. Offertory will be led by the Monday borns and Legion of Mary. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 25th Sunday in Ordinary Time"
+      "details": "There will be ONE mass on Sunday, 27th September, 2026. Offertory will be led by the Tuesday borns  and Knights of St John International and Ladies Auxiliary. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 26th Sunday in Ordinary Time"
     },
     {
-      "details": "The St. Bakhita Brass Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
-      "title": "St Bakhita Brass Band"
+      "details": "There is In His Presence on Sunday, 27th September at 6pm. Come with your written intentions and items of faith to be blessed",
+      "title": "In His Presence"
+    },
+    {
+      "details": "The Tema Deanery's First Saturday grotto programme is set for Saturday 3rd October at 3pm. St. Bakhita is scheduled to lead the prayers at the programme",
+      "title": "Tema Deanery First Saturday Grotto Programme"
+    },
+    {
+      "details": "The St. Bakhita Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
+      "title": "St Bakhita Band"
     }
   ],
   "schedules": {
-    "liturgicalWeek": "24th Week in Ordinary Time, 14th - 19th Sept, 2026",
+    "liturgicalWeek": "25th Week in Ordinary Time, 20th - 26th Sept, 2026",
     "events": [
+      {
+        "details": "Date: 3rd October, 2026 | Time: 3:00pm ",
+        "rate": "",
+        "subtitle": "",
+        "title": "Tema Deanery First Saturday Grotto Programme"
+      }
     ],
     "masses": [
       {
         "details": "",
         "subtitle": "One Mass at 7:30am",
-        "title": "25th Sunday in Ordinary Time"
+        "title": "26th Sunday in Ordinary Time"
       },
       {
         "details": "",
