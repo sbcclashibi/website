@@ -111,3 +111,5 @@ On 24th August 2024, 16 deacons of the Archdiocese of Accra were ordained as pri
 On 1st December 2024, the 1st Sunday of Advent, the first mass at St Bakhita Parish's first outstation at Klagon was celebrated by Rev Fr Hillary Agbenosi. The mass was attended by parishioners from St Bakhita and catholic faithful from Klagon and its environs. The church has since been named "Epiphany Catholic Church" by the Archbishop of Accra.
 
 After the Accra Archdiocesan ordinations of 2025, Rev Fr Victor Ampim joined the parish as its second Assistant Parish Priest in September.
+
+Rev Fr Francis Adoboli was appointed as St Bakhita's second Parish Priest in August 2026, taking over from Fr Agbenosi.
