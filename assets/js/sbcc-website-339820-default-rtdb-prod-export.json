@@ -1,17 +1,21 @@
 {
   "announcements": [
     {
-      "details": "Read the commentary on the readings for the 29th Sunday in Ordinary Time.",
-      "link": "/commentary/2026/10/17/commentary-29th-sunday-in-ordinary-time-year-a/",
+      "details": "Read the commentary on the readings for the 30th Sunday in Ordinary Time.",
+      "link": "/commentary/2026/10/24/commentary-30th-sunday-in-ordinary-time-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: 29th Sunday in Ordinary Time"
+      "title": "Commentary: 30th Sunday in Ordinary Time"
     },
     {
-      "details": "There will be TWO masses on Sunday, 18th October, 2026. Offertory will be led by the Tuesday borns and the St. Vincent De Paul Society respectively. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 29th Sunday in Ordinary Time"
+      "details": "There will be ONE masses on Sunday, 25th October, 2026. Offertory will be led by the Christian Mothers Association and Friday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: 30th Sunday in Ordinary Time"
     },
     {
-      "details": "Monday-Wednesday at 7pm: Knights and Ladies of Marshall. \nThursday-Saturday at 7pm: Catholic Men Association",
+      "details": "This year's Salve Regina programme is scheduled for Sunday 25th October under the theme: 'Mary the Mirror of God's Light' at 3pm. Come along with your Rosary and your faith to pray",
+      "title": "Salve Regina Concert"
+    },
+    {
+      "details": "Monday-Wednesday at 7pm: Sacred Heart of Jesus Confraternity. \nThursday-Saturday at 7pm: St. Vincent De Paul Society",
       "title": "Rosary Month Schedule"
     },
     {
@@ -20,14 +24,14 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "28th Week in Ordinary Time, 11th - 17th Oct, 2026",
+    "liturgicalWeek": "29th Week in Ordinary Time, 18th - 24th Oct, 2026",
     "events": [
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
-        "title": "28th Sunday in Ordinary Time"
+        "subtitle": "One Mass at 7:30am",
+        "title": "30th Sunday in Ordinary Time"
       },
       {
         "details": "",
