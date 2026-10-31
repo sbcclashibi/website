@@ -2,21 +2,13 @@
   "announcements": [
     {
       "details": "Read the commentary on the readings for the 30th Sunday in Ordinary Time.",
-      "link": "/commentary/2026/10/24/commentary-30th-sunday-in-ordinary-time-year-a/",
+      "link": "/commentary/2026/10/31/commentary-all-saints-day-year-a/",
       "linkText": "Read Now",
-      "title": "Commentary: 30th Sunday in Ordinary Time"
+      "title": "Commentary: All Saints Day"
     },
     {
-      "details": "There will be ONE masses on Sunday, 25th October, 2026. Offertory will be led by the Christian Mothers Association and Friday borns. Prayer of the faithful will be led by the Lectors.",
-      "title": "Mass Schedule: 30th Sunday in Ordinary Time"
-    },
-    {
-      "details": "This year's Salve Regina programme is scheduled for Sunday 25th October under the theme: 'Mary the Mirror of God's Light' at 3pm. Come along with your Rosary and your faith to pray",
-      "title": "Salve Regina Concert"
-    },
-    {
-      "details": "Monday-Wednesday at 7pm: Sacred Heart of Jesus Confraternity. \nThursday-Saturday at 7pm: St. Vincent De Paul Society",
-      "title": "Rosary Month Schedule"
+      "details": "There will be TWO masses on Sunday, 1st November, 2026. Offertory will be led by the Sacred Heart of Jesus Confraternity and Saturday borns. Prayer of the faithful will be led by the Lectors.",
+      "title": "Mass Schedule: All Saints Day"
     },
     {
       "details": "The St. Bakhita Band is calling interested young people to join. It is open to children 10 years and above. We are all entreated to encourage our young ones to join. Register with Mr Agobo or Mrs Neequaye.",
@@ -24,18 +16,23 @@
     }
   ],
   "schedules": {
-    "liturgicalWeek": "29th Week in Ordinary Time, 18th - 24th Oct, 2026",
+    "liturgicalWeek": "30th Week in Ordinary Time, 25th - 31st Oct, 2026",
     "events": [
     ],
     "masses": [
       {
         "details": "",
-        "subtitle": "One Mass at 7:30am",
-        "title": "30th Sunday in Ordinary Time"
+        "subtitle": "First Mass at 7:00am, Second Mass at 9:30am",
+        "title": "All Saints Day"
       },
       {
         "details": "",
-        "subtitle": "Monday to Friday at 6am",
+        "subtitle": "Monday at 7:00pm",
+        "title": "All Souls Day"
+      },
+      {
+        "details": "",
+        "subtitle": "Wednesday to Friday at 6am",
         "title": "Weekday Morning Mass"
       },
       {
